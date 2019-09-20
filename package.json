@@ -1,0 +1,14 @@
+{
+  "name": "sftp-client",
+  "version": "1.0.0",
+  "description": "sftp client utility",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha tests"
+  },
+  "author": "KIM J",
+  "license": "MIT",
+  "dependencies": {
+    "ssh2-sftp-client": "^4.1.0"
+  }
+}
