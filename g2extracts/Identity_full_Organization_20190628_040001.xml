@@ -1,0 +1,3096 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AMLWatchList xmlns="">
+<Header>Source:MM; Sequence NO,Task Type:1,organization; Date Time:2019-06-28 04:00:01</Header>
+<Organizations>
+<IdentityStrings>
+<UniqueSystemIdentifier>201000000000031002</UniqueSystemIdentifier>
+<Account>
+<AccountID>500000000110181012</AccountID>
+<AccountType>Commission Account</AccountType>
+<AccountName></AccountName>
+<AccountStatus>Active</AccountStatus>
+<AccountCurrency>SSP</AccountCurrency>
+</Account>
+<Account>
+<AccountID>500000000110181020</AccountID>
+<AccountType>Organization eMoney Account (Float Account)</AccountType>
+<AccountName></AccountName>
+<AccountStatus>Active</AccountStatus>
+<AccountCurrency>SSP</AccountCurrency>
+</Account>
+<Account>
+<AccountID>500000000110181038</AccountID>
+<AccountType>Organization eMoney Account (working Account)</AccountType>
+<AccountName></AccountName>
+<AccountStatus>Active</AccountStatus>
+<AccountCurrency>SSP</AccountCurrency>
+</Account>
+<ChargeProfile>Organization Charge Profile</ChargeProfile>
+<DateIdentityRegistered>20190621162416</DateIdentityRegistered>
+<DateRiskRatingwasLastUpdated></DateRiskRatingwasLastUpdated>
+<IdentityStatus>Active</IdentityStatus>
+<IdentityType>Organization</IdentityType>
+<OrganizationName>SAZDUK MICRO FINANCE LIMITED</OrganizationName>
+<OrganizationRiskRating></OrganizationRiskRating>
+<OrganizationUniqueReferenceDetails>100202</OrganizationUniqueReferenceDetails>
+<ParentUniqueReferenceIdentifier>201000000000032001</ParentUniqueReferenceIdentifier>
+<ParentName>GLOBAL FINANCE CABLES COMPANY LTD</ParentName>
+<Products>Agency Store Owned  Product</Products>
+<Segment></Segment>
+<TrustLevel>Child Organization Trust Level 1</TrustLevel>
+<Contacts>
+<ContactType>Main Contact</ContactType>
+<FirstName>Robert</FirstName>
+<SecondName></SecondName>
+<SurName>Auku Woja</SurName>
+<PhoneNumber>211925727323</PhoneNumber>
+<IDType>National ID</IDType>
+<IDReference>211925727323</IDReference>
+<ContactStatus></ContactStatus>
+</Contacts>
+<AddressLine1></AddressLine1>
+<AddressLine2></AddressLine2>
+<AddressLine3></AddressLine3>
+<TownCity>JUBA</TownCity>
+<PostCode></PostCode>
+<CompanyUniqueIdenitifer></CompanyUniqueIdenitifer>
+<RuleProfile>25053</RuleProfile>
+</IdentityStrings>
+<IdentityStrings>
+<UniqueSystemIdentifier>201000000000031003</UniqueSystemIdentifier>
+<Account>
+<AccountID>500000000110181046</AccountID>
+<AccountType>Commission Account</AccountType>
+<AccountName></AccountName>
+<AccountStatus>Active</AccountStatus>
+<AccountCurrency>SSP</AccountCurrency>
+</Account>
+<Account>
+<AccountID>500000000110181053</AccountID>
+<AccountType>Organization eMoney Account (Float Account)</AccountType>
+<AccountName></AccountName>
+<AccountStatus>Active</AccountStatus>
+<AccountCurrency>SSP</AccountCurrency>
+</Account>
+<Account>
+<AccountID>500000000110181061</AccountID>
+<AccountType>Organization eMoney Account (working Account)</AccountType>
+<AccountName></AccountName>
+<AccountStatus>Active</AccountStatus>
+<AccountCurrency>SSP</AccountCurrency>
+</Account>
+<ChargeProfile>Organization Charge Profile</ChargeProfile>
+<DateIdentityRegistered>20190626120739</DateIdentityRegistered>
+<DateRiskRatingwasLastUpdated></DateRiskRatingwasLastUpdated>
+<IdentityStatus>Active</IdentityStatus>
+<IdentityType>Organization</IdentityType>
+<OrganizationName>STARLINE GENERAL TRADING</OrganizationName>
+<OrganizationRiskRating></OrganizationRiskRating>
+<OrganizationUniqueReferenceDetails>100204</OrganizationUniqueReferenceDetails>
+<ParentUniqueReferenceIdentifier>201000000000032001</ParentUniqueReferenceIdentifier>
+<ParentName>GLOBAL FINANCE CABLES COMPANY LTD</ParentName>
+<Products>Agency Store Owned  Product</Products>
+<Segment></Segment>
+<TrustLevel>Child Organization Trust Level 1</TrustLevel>
+<Contacts>
+<ContactType>Main Contact</ContactType>
+<FirstName>Ghai</FirstName>
+<SecondName></SecondName>
+<SurName>Aweer</SurName>
+<PhoneNumber>211920236747</PhoneNumber>
+<IDType>National ID</IDType>
+<IDReference>M3500002287697</IDReference>
+<ContactStatus></ContactStatus>
+</Contacts>
+<AddressLine1></AddressLine1>
+<AddressLine2></AddressLine2>
+<AddressLine3></AddressLine3>
+<TownCity>MALAKIA</TownCity>
+<PostCode></PostCode>
+<CompanyUniqueIdenitifer></CompanyUniqueIdenitifer>
+<RuleProfile>25053</RuleProfile>
+</IdentityStrings>
+<IdentityStrings>
+<UniqueSystemIdentifier>201000000000031004</UniqueSystemIdentifier>
+<Account>
+<AccountID>500000000110181079</AccountID>
+<AccountType>Commission Account</AccountType>
+<AccountName></AccountName>
+<AccountStatus>Active</AccountStatus>
+<AccountCurrency>SSP</AccountCurrency>
+</Account>
+<Account>
+<AccountID>500000000110181087</AccountID>
+<AccountType>Organization eMoney Account (Float Account)</AccountType>
+<AccountName></AccountName>
+<AccountStatus>Active</AccountStatus>
+<AccountCurrency>SSP</AccountCurrency>
+</Account>
+<Account>
+<AccountID>500000000110181095</AccountID>
+<AccountType>Organization eMoney Account (working Account)</AccountType>
+<AccountName></AccountName>
+<AccountStatus>Active</AccountStatus>
+<AccountCurrency>SSP</AccountCurrency>
+</Account>
+<ChargeProfile>Organization Charge Profile</ChargeProfile>
+<DateIdentityRegistered>20190626134704</DateIdentityRegistered>
+<DateRiskRatingwasLastUpdated></DateRiskRatingwasLastUpdated>
+<IdentityStatus>Active</IdentityStatus>
+<IdentityType>Organization</IdentityType>
+<OrganizationName>NEW EXODUS LIMITED</OrganizationName>
+<OrganizationRiskRating></OrganizationRiskRating>
+<OrganizationUniqueReferenceDetails>100206</OrganizationUniqueReferenceDetails>
+<ParentUniqueReferenceIdentifier>201000000000032001</ParentUniqueReferenceIdentifier>
+<ParentName>GLOBAL FINANCE CABLES COMPANY LTD</ParentName>
+<Products>Agency Store Owned  Product</Products>
+<Segment></Segment>
+<TrustLevel>Child Organization Trust Level 1</TrustLevel>
+<Contacts>
+<ContactType>Main Contact</ContactType>
+<FirstName>MANYOK PETER</FirstName>
+<SecondName></SecondName>
+<SurName>AWUOL</SurName>
+<PhoneNumber>211918734539</PhoneNumber>
+<IDType>National ID</IDType>
+<IDReference>M8800004575728</IDReference>
+<ContactStatus></ContactStatus>
+</Contacts>
+<AddressLine1></AddressLine1>
+<AddressLine2></AddressLine2>
+<AddressLine3></AddressLine3>
+<TownCity>WAU</TownCity>
+<PostCode></PostCode>
+<CompanyUniqueIdenitifer></CompanyUniqueIdenitifer>
+<RuleProfile>25053</RuleProfile>
+</IdentityStrings>
+<IdentityStrings>
+<UniqueSystemIdentifier>201000000000031005</UniqueSystemIdentifier>
+<Account>
+<AccountID>500000000110181103</AccountID>
+<AccountType>Commission Account</AccountType>
+<AccountName></AccountName>
+<AccountStatus>New</AccountStatus>
+<AccountCurrency>SSP</AccountCurrency>
+</Account>
+<Account>
+<AccountID>500000000110181111</AccountID>
+<AccountType>Organization eMoney Account (Float Account)</AccountType>
+<AccountName></AccountName>
+<AccountStatus>New</AccountStatus>
+<AccountCurrency>SSP</AccountCurrency>
+</Account>
+<Account>
+<AccountID>500000000110181129</AccountID>
+<AccountType>Organization eMoney Account (working Account)</AccountType>
+<AccountName></AccountName>
+<AccountStatus>New</AccountStatus>
+<AccountCurrency>SSP</AccountCurrency>
+</Account>
+<ChargeProfile>Organization Charge Profile</ChargeProfile>
+<DateIdentityRegistered>20190626175753</DateIdentityRegistered>
+<DateRiskRatingwasLastUpdated></DateRiskRatingwasLastUpdated>
+<IdentityStatus>New</IdentityStatus>
+<IdentityType>Organization</IdentityType>
+<OrganizationName>MATARATIBU LIMITED</OrganizationName>
+<OrganizationRiskRating></OrganizationRiskRating>
+<OrganizationUniqueReferenceDetails>100216</OrganizationUniqueReferenceDetails>
+<ParentUniqueReferenceIdentifier>201000000000032001</ParentUniqueReferenceIdentifier>
+<ParentName>GLOBAL FINANCE CABLES COMPANY LTD</ParentName>
+<Products>Agency Store Owned  Product</Products>
+<Segment></Segment>
+<TrustLevel>Child Organization Trust Level 1</TrustLevel>
+<Contacts>
+<ContactType>Director</ContactType>
+<FirstName>GARANG</FirstName>
+<SecondName></SecondName>
+<SurName>MANGAR</SurName>
+<PhoneNumber>0921870011</PhoneNumber>
+<IDType>Passport</IDType>
+<IDReference>M9500004429111</IDReference>
+<ContactStatus></ContactStatus>
+</Contacts>
+<AddressLine1></AddressLine1>
+<AddressLine2></AddressLine2>
+<AddressLine3></AddressLine3>
+<TownCity>JUBA</TownCity>
+<PostCode></PostCode>
+<CompanyUniqueIdenitifer></CompanyUniqueIdenitifer>
+<RuleProfile>25053</RuleProfile>
+</IdentityStrings>
+<IdentityStrings>
+<UniqueSystemIdentifier>201000000000031006</UniqueSystemIdentifier>
+<Account>
+<AccountID>500000000110181137</AccountID>
+<AccountType>Commission Account</AccountType>
+<AccountName></AccountName>
+<AccountStatus>Active</AccountStatus>
+<AccountCurrency>SSP</AccountCurrency>
+</Account>
+<Account>
+<AccountID>500000000110181145</AccountID>
+<AccountType>Organization eMoney Account (Float Account)</AccountType>
+<AccountName></AccountName>
+<AccountStatus>Active</AccountStatus>
+<AccountCurrency>SSP</AccountCurrency>
+</Account>
+<Account>
+<AccountID>500000000110181152</AccountID>
+<AccountType>Organization eMoney Account (working Account)</AccountType>
+<AccountName></AccountName>
+<AccountStatus>Active</AccountStatus>
+<AccountCurrency>SSP</AccountCurrency>
+</Account>
+<ChargeProfile>Organization Charge Profile</ChargeProfile>
+<DateIdentityRegistered>20190626180024</DateIdentityRegistered>
+<DateRiskRatingwasLastUpdated></DateRiskRatingwasLastUpdated>
+<IdentityStatus>Active</IdentityStatus>
+<IdentityType>Organization</IdentityType>
+<OrganizationName>CITY QUALITY GENERAL TRADING AND INVESTMENT</OrganizationName>
+<OrganizationRiskRating></OrganizationRiskRating>
+<OrganizationUniqueReferenceDetails>100207</OrganizationUniqueReferenceDetails>
+<ParentUniqueReferenceIdentifier>201000000000032001</ParentUniqueReferenceIdentifier>
+<ParentName>GLOBAL FINANCE CABLES COMPANY LTD</ParentName>
+<Products>Agency Store Owned  Product</Products>
+<Segment></Segment>
+<TrustLevel>Child Organization Trust Level 1</TrustLevel>
+<Contacts>
+<ContactType>Main Contact</ContactType>
+<FirstName>JOHN</FirstName>
+<SecondName></SecondName>
+<SurName>SEBIT</SurName>
+<PhoneNumber>0914111109</PhoneNumber>
+<IDType>National ID</IDType>
+<IDReference>M8800000244426</IDReference>
+<ContactStatus></ContactStatus>
+</Contacts>
+<AddressLine1></AddressLine1>
+<AddressLine2></AddressLine2>
+<AddressLine3></AddressLine3>
+<TownCity>Munuki BK B</TownCity>
+<PostCode></PostCode>
+<CompanyUniqueIdenitifer></CompanyUniqueIdenitifer>
+<RuleProfile>25053</RuleProfile>
+</IdentityStrings>
+<IdentityStrings>
+<UniqueSystemIdentifier>201000000000031007</UniqueSystemIdentifier>
+<Account>
+<AccountID>500000000110181160</AccountID>
+<AccountType>Commission Account</AccountType>
+<AccountName></AccountName>
+<AccountStatus>Active</AccountStatus>
+<AccountCurrency>SSP</AccountCurrency>
+</Account>
+<Account>
+<AccountID>500000000110181178</AccountID>
+<AccountType>Organization eMoney Account (Float Account)</AccountType>
+<AccountName></AccountName>
+<AccountStatus>Active</AccountStatus>
+<AccountCurrency>SSP</AccountCurrency>
+</Account>
+<Account>
+<AccountID>500000000110181186</AccountID>
+<AccountType>Organization eMoney Account (working Account)</AccountType>
+<AccountName></AccountName>
+<AccountStatus>Active</AccountStatus>
+<AccountCurrency>SSP</AccountCurrency>
+</Account>
+<ChargeProfile>Organization Charge Profile</ChargeProfile>
+<DateIdentityRegistered>20190626181413</DateIdentityRegistered>
+<DateRiskRatingwasLastUpdated></DateRiskRatingwasLastUpdated>
+<IdentityStatus>Active</IdentityStatus>
+<IdentityType>Organization</IdentityType>
+<OrganizationName>BARDA EXPRESS COMPANY LTD</OrganizationName>
+<OrganizationRiskRating></OrganizationRiskRating>
+<OrganizationUniqueReferenceDetails>100208</OrganizationUniqueReferenceDetails>
+<ParentUniqueReferenceIdentifier>201000000000032001</ParentUniqueReferenceIdentifier>
+<ParentName>GLOBAL FINANCE CABLES COMPANY LTD</ParentName>
+<Products>Agency Store Owned  Product</Products>
+<Segment></Segment>
+<TrustLevel>Child Organization Trust Level 1</TrustLevel>
+<Contacts>
+<ContactType>Main Contact</ContactType>
+<FirstName>GABRIEL JOK ANDREW AGAAU</FirstName>
+<SecondName></SecondName>
+<SurName>AGAAU</SurName>
+<PhoneNumber>0918719211</PhoneNumber>
+<IDType>National ID</IDType>
+<IDReference>M9500005353572</IDReference>
+<ContactStatus></ContactStatus>
+</Contacts>
+<AddressLine1></AddressLine1>
+<AddressLine2></AddressLine2>
+<AddressLine3></AddressLine3>
+<TownCity>MALAKIA</TownCity>
+<PostCode></PostCode>
+<CompanyUniqueIdenitifer></CompanyUniqueIdenitifer>
+<RuleProfile>25053</RuleProfile>
+</IdentityStrings>
+<IdentityStrings>
+<UniqueSystemIdentifier>201000000000031008</UniqueSystemIdentifier>
+<Account>
+<AccountID>500000000110181194</AccountID>
+<AccountType>Commission Account</AccountType>
+<AccountName></AccountName>
+<AccountStatus>Active</AccountStatus>
+<AccountCurrency>SSP</AccountCurrency>
+</Account>
+<Account>
+<AccountID>500000000110181202</AccountID>
+<AccountType>Organization eMoney Account (Float Account)</AccountType>
+<AccountName></AccountName>
+<AccountStatus>Active</AccountStatus>
+<AccountCurrency>SSP</AccountCurrency>
+</Account>
+<Account>
+<AccountID>500000000110181210</AccountID>
+<AccountType>Organization eMoney Account (working Account)</AccountType>
+<AccountName></AccountName>
+<AccountStatus>Active</AccountStatus>
+<AccountCurrency>SSP</AccountCurrency>
+</Account>
+<ChargeProfile>Organization Charge Profile</ChargeProfile>
+<DateIdentityRegistered>20190626182117</DateIdentityRegistered>
+<DateRiskRatingwasLastUpdated></DateRiskRatingwasLastUpdated>
+<IdentityStatus>Active</IdentityStatus>
+<IdentityType>Organization</IdentityType>
+<OrganizationName>AWEKO MONEY TRANSFER</OrganizationName>
+<OrganizationRiskRating></OrganizationRiskRating>
+<OrganizationUniqueReferenceDetails>100209</OrganizationUniqueReferenceDetails>
+<ParentUniqueReferenceIdentifier>201000000000032001</ParentUniqueReferenceIdentifier>
+<ParentName>GLOBAL FINANCE CABLES COMPANY LTD</ParentName>
+<Products>Agency Store Owned  Product</Products>
+<Segment></Segment>
+<TrustLevel>Child Organization Trust Level 1</TrustLevel>
+<Contacts>
+<ContactType>Main Contact</ContactType>
+<FirstName>JUACH KUANY</FirstName>
+<SecondName></SecondName>
+<SurName>KONGOR</SurName>
+<PhoneNumber>0914474404</PhoneNumber>
+<IDType>National ID</IDType>
+<IDReference>M8400000497428</IDReference>
+<ContactStatus></ContactStatus>
+</Contacts>
+<AddressLine1></AddressLine1>
+<AddressLine2></AddressLine2>
+<AddressLine3></AddressLine3>
+<TownCity>KONYOKONYO</TownCity>
+<PostCode></PostCode>
+<CompanyUniqueIdenitifer></CompanyUniqueIdenitifer>
+<RuleProfile>25053</RuleProfile>
+</IdentityStrings>
+<IdentityStrings>
+<UniqueSystemIdentifier>201000000000031009</UniqueSystemIdentifier>
+<Account>
+<AccountID>500000000110181228</AccountID>
+<AccountType>Commission Account</AccountType>
+<AccountName></AccountName>
+<AccountStatus>Active</AccountStatus>
+<AccountCurrency>SSP</AccountCurrency>
+</Account>
+<Account>
+<AccountID>500000000110181236</AccountID>
+<AccountType>Organization eMoney Account (Float Account)</AccountType>
+<AccountName></AccountName>
+<AccountStatus>Active</AccountStatus>
+<AccountCurrency>SSP</AccountCurrency>
+</Account>
+<Account>
+<AccountID>500000000110181244</AccountID>
+<AccountType>Organization eMoney Account (working Account)</AccountType>
+<AccountName></AccountName>
+<AccountStatus>Active</AccountStatus>
+<AccountCurrency>SSP</AccountCurrency>
+</Account>
+<ChargeProfile>Organization Charge Profile</ChargeProfile>
+<DateIdentityRegistered>20190626191908</DateIdentityRegistered>
+<DateRiskRatingwasLastUpdated></DateRiskRatingwasLastUpdated>
+<IdentityStatus>Active</IdentityStatus>
+<IdentityType>Organization</IdentityType>
+<OrganizationName>GAMMETH GENERAL TRADING COMPANY LTD SHIRKAT</OrganizationName>
+<OrganizationRiskRating></OrganizationRiskRating>
+<OrganizationUniqueReferenceDetails>100214</OrganizationUniqueReferenceDetails>
+<ParentUniqueReferenceIdentifier>201000000000032001</ParentUniqueReferenceIdentifier>
+<ParentName>GLOBAL FINANCE CABLES COMPANY LTD</ParentName>
+<Products>Agency Store Owned  Product</Products>
+<Segment></Segment>
+<TrustLevel>Child Organization Trust Level 1</TrustLevel>
+<Contacts>
+<ContactType>Main Contact</ContactType>
+<FirstName>ALIER</FirstName>
+<SecondName></SecondName>
+<SurName>AGANY</SurName>
+<PhoneNumber>0917646632</PhoneNumber>
+<IDType>National ID</IDType>
+<IDReference>M8200000275385</IDReference>
+<ContactStatus></ContactStatus>
+</Contacts>
+<AddressLine1></AddressLine1>
+<AddressLine2></AddressLine2>
+<AddressLine3></AddressLine3>
+<TownCity>JUBA</TownCity>
+<PostCode></PostCode>
+<CompanyUniqueIdenitifer></CompanyUniqueIdenitifer>
+<RuleProfile>25053</RuleProfile>
+</IdentityStrings>
+<IdentityStrings>
+<UniqueSystemIdentifier>201000000000031010</UniqueSystemIdentifier>
+<Account>
+<AccountID>500000000110181251</AccountID>
+<AccountType>Commission Account</AccountType>
+<AccountName></AccountName>
+<AccountStatus>Active</AccountStatus>
+<AccountCurrency>SSP</AccountCurrency>
+</Account>
+<Account>
+<AccountID>500000000110181269</AccountID>
+<AccountType>Organization eMoney Account (Float Account)</AccountType>
+<AccountName></AccountName>
+<AccountStatus>Active</AccountStatus>
+<AccountCurrency>SSP</AccountCurrency>
+</Account>
+<Account>
+<AccountID>500000000110181277</AccountID>
+<AccountType>Organization eMoney Account (working Account)</AccountType>
+<AccountName></AccountName>
+<AccountStatus>Active</AccountStatus>
+<AccountCurrency>SSP</AccountCurrency>
+</Account>
+<ChargeProfile>Organization Charge Profile</ChargeProfile>
+<DateIdentityRegistered>20190626192359</DateIdentityRegistered>
+<DateRiskRatingwasLastUpdated></DateRiskRatingwasLastUpdated>
+<IdentityStatus>Active</IdentityStatus>
+<IdentityType>Organization</IdentityType>
+<OrganizationName>GAMMETH GENERAL TRADING COMPANY LTD TORIT</OrganizationName>
+<OrganizationRiskRating></OrganizationRiskRating>
+<OrganizationUniqueReferenceDetails>100220</OrganizationUniqueReferenceDetails>
+<ParentUniqueReferenceIdentifier>201000000000032001</ParentUniqueReferenceIdentifier>
+<ParentName>GLOBAL FINANCE CABLES COMPANY LTD</ParentName>
+<Products>Agency Store Owned  Product</Products>
+<Segment></Segment>
+<TrustLevel>Child Organization Trust Level 1</TrustLevel>
+<Contacts>
+<ContactType>Main Contact</ContactType>
+<FirstName>ALIER DAVID AJAK</FirstName>
+<SecondName></SecondName>
+<SurName>AGANY</SurName>
+<PhoneNumber>0917646632</PhoneNumber>
+<IDType>National ID</IDType>
+<IDReference>M8200000275385</IDReference>
+<ContactStatus></ContactStatus>
+</Contacts>
+<AddressLine1></AddressLine1>
+<AddressLine2></AddressLine2>
+<AddressLine3></AddressLine3>
+<TownCity>KONYOKONYO</TownCity>
+<PostCode></PostCode>
+<CompanyUniqueIdenitifer></CompanyUniqueIdenitifer>
+<RuleProfile>25053</RuleProfile>
+</IdentityStrings>
+<IdentityStrings>
+<UniqueSystemIdentifier>201000000000031011</UniqueSystemIdentifier>
+<Account>
+<AccountID>500000000110181285</AccountID>
+<AccountType>Commission Account</AccountType>
+<AccountName></AccountName>
+<AccountStatus>Active</AccountStatus>
+<AccountCurrency>SSP</AccountCurrency>
+</Account>
+<Account>
+<AccountID>500000000110181293</AccountID>
+<AccountType>Organization eMoney Account (Float Account)</AccountType>
+<AccountName></AccountName>
+<AccountStatus>Active</AccountStatus>
+<AccountCurrency>SSP</AccountCurrency>
+</Account>
+<Account>
+<AccountID>500000000110181301</AccountID>
+<AccountType>Organization eMoney Account (working Account)</AccountType>
+<AccountName></AccountName>
+<AccountStatus>Active</AccountStatus>
+<AccountCurrency>SSP</AccountCurrency>
+</Account>
+<ChargeProfile>Organization Charge Profile</ChargeProfile>
+<DateIdentityRegistered>20190626192844</DateIdentityRegistered>
+<DateRiskRatingwasLastUpdated></DateRiskRatingwasLastUpdated>
+<IdentityStatus>Active</IdentityStatus>
+<IdentityType>Organization</IdentityType>
+<OrganizationName>GAMMETH GENERAL TRADING COMPANY LTD GUOLYAR</OrganizationName>
+<OrganizationRiskRating></OrganizationRiskRating>
+<OrganizationUniqueReferenceDetails>100221</OrganizationUniqueReferenceDetails>
+<ParentUniqueReferenceIdentifier>201000000000032001</ParentUniqueReferenceIdentifier>
+<ParentName>GLOBAL FINANCE CABLES COMPANY LTD</ParentName>
+<Products>Agency Store Owned  Product</Products>
+<Segment></Segment>
+<TrustLevel>Child Organization Trust Level 1</TrustLevel>
+<Contacts>
+<ContactType>Main Contact</ContactType>
+<FirstName>ALIER DAVID AJAK</FirstName>
+<SecondName></SecondName>
+<SurName>AGANY</SurName>
+<PhoneNumber>0917646632</PhoneNumber>
+<IDType>National ID</IDType>
+<IDReference>M8200000275385</IDReference>
+<ContactStatus></ContactStatus>
+</Contacts>
+<AddressLine1></AddressLine1>
+<AddressLine2></AddressLine2>
+<AddressLine3></AddressLine3>
+<TownCity>KONYOKONYO</TownCity>
+<PostCode></PostCode>
+<CompanyUniqueIdenitifer></CompanyUniqueIdenitifer>
+<RuleProfile>25053</RuleProfile>
+</IdentityStrings>
+<IdentityStrings>
+<UniqueSystemIdentifier>201000000000031012</UniqueSystemIdentifier>
+<Account>
+<AccountID>500000000110181319</AccountID>
+<AccountType>Commission Account</AccountType>
+<AccountName></AccountName>
+<AccountStatus>Active</AccountStatus>
+<AccountCurrency>SSP</AccountCurrency>
+</Account>
+<Account>
+<AccountID>500000000110181327</AccountID>
+<AccountType>Organization eMoney Account (Float Account)</AccountType>
+<AccountName></AccountName>
+<AccountStatus>Active</AccountStatus>
+<AccountCurrency>SSP</AccountCurrency>
+</Account>
+<Account>
+<AccountID>500000000110181335</AccountID>
+<AccountType>Organization eMoney Account (working Account)</AccountType>
+<AccountName></AccountName>
+<AccountStatus>Active</AccountStatus>
+<AccountCurrency>SSP</AccountCurrency>
+</Account>
+<ChargeProfile>Organization Charge Profile</ChargeProfile>
+<DateIdentityRegistered>20190627130852</DateIdentityRegistered>
+<DateRiskRatingwasLastUpdated></DateRiskRatingwasLastUpdated>
+<IdentityStatus>Active</IdentityStatus>
+<IdentityType>Organization</IdentityType>
+<OrganizationName>PINYDA GENERAL TRADING COM LTD SUKWAU</OrganizationName>
+<OrganizationRiskRating></OrganizationRiskRating>
+<OrganizationUniqueReferenceDetails>100223</OrganizationUniqueReferenceDetails>
+<ParentUniqueReferenceIdentifier>201000000000032001</ParentUniqueReferenceIdentifier>
+<ParentName>GLOBAL FINANCE CABLES COMPANY LTD</ParentName>
+<Products>Agency Store Owned  Product</Products>
+<Segment></Segment>
+<TrustLevel>Child Organization Trust Level 1</TrustLevel>
+<Contacts>
+<ContactType>Main Contact</ContactType>
+<FirstName>MANYOK PETER KUCHRIN</FirstName>
+<SecondName></SecondName>
+<SurName>AWUOL</SurName>
+<PhoneNumber>211913138877</PhoneNumber>
+<IDType>National ID</IDType>
+<IDReference>M8800004575728</IDReference>
+<ContactStatus></ContactStatus>
+</Contacts>
+<AddressLine1></AddressLine1>
+<AddressLine2></AddressLine2>
+<AddressLine3></AddressLine3>
+<TownCity>WAU</TownCity>
+<PostCode></PostCode>
+<CompanyUniqueIdenitifer></CompanyUniqueIdenitifer>
+<RuleProfile>25053</RuleProfile>
+</IdentityStrings>
+<IdentityStrings>
+<UniqueSystemIdentifier>201000000000031013</UniqueSystemIdentifier>
+<Account>
+<AccountID>500000000110181343</AccountID>
+<AccountType>Commission Account</AccountType>
+<AccountName></AccountName>
+<AccountStatus>Active</AccountStatus>
+<AccountCurrency>SSP</AccountCurrency>
+</Account>
+<Account>
+<AccountID>500000000110181350</AccountID>
+<AccountType>Organization eMoney Account (Float Account)</AccountType>
+<AccountName></AccountName>
+<AccountStatus>Active</AccountStatus>
+<AccountCurrency>SSP</AccountCurrency>
+</Account>
+<Account>
+<AccountID>500000000110181368</AccountID>
+<AccountType>Organization eMoney Account (working Account)</AccountType>
+<AccountName></AccountName>
+<AccountStatus>Active</AccountStatus>
+<AccountCurrency>SSP</AccountCurrency>
+</Account>
+<ChargeProfile>Organization Charge Profile</ChargeProfile>
+<DateIdentityRegistered>20190627132230</DateIdentityRegistered>
+<DateRiskRatingwasLastUpdated></DateRiskRatingwasLastUpdated>
+<IdentityStatus>Active</IdentityStatus>
+<IdentityType>Organization</IdentityType>
+<OrganizationName>SUPER GRAND ENTERPRISES LTD KONYOKONYO</OrganizationName>
+<OrganizationRiskRating></OrganizationRiskRating>
+<OrganizationUniqueReferenceDetails>100225</OrganizationUniqueReferenceDetails>
+<ParentUniqueReferenceIdentifier>201000000000032001</ParentUniqueReferenceIdentifier>
+<ParentName>GLOBAL FINANCE CABLES COMPANY LTD</ParentName>
+<Products>Agency Store Owned  Product</Products>
+<Segment></Segment>
+<TrustLevel>Child Organization Trust Level 1</TrustLevel>
+<Contacts>
+<ContactType>Main Contact</ContactType>
+<FirstName>MAJOK YOL AJETH</FirstName>
+<SecondName></SecondName>
+<SurName>YOL</SurName>
+<PhoneNumber>211929600609</PhoneNumber>
+<IDType>National ID</IDType>
+<IDReference>M8500004865219</IDReference>
+<ContactStatus></ContactStatus>
+</Contacts>
+<AddressLine1></AddressLine1>
+<AddressLine2></AddressLine2>
+<AddressLine3></AddressLine3>
+<TownCity>JUBA</TownCity>
+<PostCode></PostCode>
+<CompanyUniqueIdenitifer></CompanyUniqueIdenitifer>
+<RuleProfile>25053</RuleProfile>
+</IdentityStrings>
+<IdentityStrings>
+<UniqueSystemIdentifier>201000000000031014</UniqueSystemIdentifier>
+<Account>
+<AccountID>500000000110181376</AccountID>
+<AccountType>Commission Account</AccountType>
+<AccountName></AccountName>
+<AccountStatus>Active</AccountStatus>
+<AccountCurrency>SSP</AccountCurrency>
+</Account>
+<Account>
+<AccountID>500000000110181384</AccountID>
+<AccountType>Organization eMoney Account (Float Account)</AccountType>
+<AccountName></AccountName>
+<AccountStatus>Active</AccountStatus>
+<AccountCurrency>SSP</AccountCurrency>
+</Account>
+<Account>
+<AccountID>500000000110181392</AccountID>
+<AccountType>Organization eMoney Account (working Account)</AccountType>
+<AccountName></AccountName>
+<AccountStatus>Active</AccountStatus>
+<AccountCurrency>SSP</AccountCurrency>
+</Account>
+<ChargeProfile>Organization Charge Profile</ChargeProfile>
+<DateIdentityRegistered>20190627133407</DateIdentityRegistered>
+<DateRiskRatingwasLastUpdated></DateRiskRatingwasLastUpdated>
+<IdentityStatus>Active</IdentityStatus>
+<IdentityType>Organization</IdentityType>
+<OrganizationName>YICDA MONEY TRANSFER</OrganizationName>
+<OrganizationRiskRating></OrganizationRiskRating>
+<OrganizationUniqueReferenceDetails>100227</OrganizationUniqueReferenceDetails>
+<ParentUniqueReferenceIdentifier>201000000000032001</ParentUniqueReferenceIdentifier>
+<ParentName>GLOBAL FINANCE CABLES COMPANY LTD</ParentName>
+<Products>Agency Store Owned  Product</Products>
+<Segment></Segment>
+<TrustLevel>Child Organization Trust Level 1</TrustLevel>
+<Contacts>
+<ContactType>Main Contact</ContactType>
+<FirstName>DANIEL CHOL ADOR</FirstName>
+<SecondName></SecondName>
+<SurName>GUOT</SurName>
+<PhoneNumber>211916928299</PhoneNumber>
+<IDType>Passport</IDType>
+<IDReference>R00154361</IDReference>
+<ContactStatus></ContactStatus>
+</Contacts>
+<AddressLine1></AddressLine1>
+<AddressLine2></AddressLine2>
+<AddressLine3></AddressLine3>
+<TownCity>JUBA</TownCity>
+<PostCode></PostCode>
+<CompanyUniqueIdenitifer></CompanyUniqueIdenitifer>
+<RuleProfile>25053</RuleProfile>
+</IdentityStrings>
+<IdentityStrings>
+<UniqueSystemIdentifier>201000000000031015</UniqueSystemIdentifier>
+<Account>
+<AccountID>500000000110181400</AccountID>
+<AccountType>Commission Account</AccountType>
+<AccountName></AccountName>
+<AccountStatus>Active</AccountStatus>
+<AccountCurrency>SSP</AccountCurrency>
+</Account>
+<Account>
+<AccountID>500000000110181418</AccountID>
+<AccountType>Organization eMoney Account (Float Account)</AccountType>
+<AccountName></AccountName>
+<AccountStatus>Active</AccountStatus>
+<AccountCurrency>SSP</AccountCurrency>
+</Account>
+<Account>
+<AccountID>500000000110181426</AccountID>
+<AccountType>Organization eMoney Account (working Account)</AccountType>
+<AccountName></AccountName>
+<AccountStatus>Active</AccountStatus>
+<AccountCurrency>SSP</AccountCurrency>
+</Account>
+<ChargeProfile>Organization Charge Profile</ChargeProfile>
+<DateIdentityRegistered>20190627134126</DateIdentityRegistered>
+<DateRiskRatingwasLastUpdated></DateRiskRatingwasLastUpdated>
+<IdentityStatus>Active</IdentityStatus>
+<IdentityType>Organization</IdentityType>
+<OrganizationName>MATARATIBU LTD KONYOKONYO</OrganizationName>
+<OrganizationRiskRating></OrganizationRiskRating>
+<OrganizationUniqueReferenceDetails>100251</OrganizationUniqueReferenceDetails>
+<ParentUniqueReferenceIdentifier>201000000000032001</ParentUniqueReferenceIdentifier>
+<ParentName>GLOBAL FINANCE CABLES COMPANY LTD</ParentName>
+<Products>Agency Store Owned  Product</Products>
+<Segment></Segment>
+<TrustLevel>Child Organization Trust Level 1</TrustLevel>
+<Contacts>
+<ContactType>Main Contact</ContactType>
+<FirstName>GARANG MAKUEI GARANG</FirstName>
+<SecondName></SecondName>
+<SurName>MANGAR</SurName>
+<PhoneNumber>0916793705</PhoneNumber>
+<IDType>Passport</IDType>
+<IDReference>R00247648</IDReference>
+<ContactStatus></ContactStatus>
+</Contacts>
+<AddressLine1></AddressLine1>
+<AddressLine2></AddressLine2>
+<AddressLine3></AddressLine3>
+<TownCity>BOR</TownCity>
+<PostCode></PostCode>
+<CompanyUniqueIdenitifer></CompanyUniqueIdenitifer>
+<RuleProfile>25053</RuleProfile>
+</IdentityStrings>
+<IdentityStrings>
+<UniqueSystemIdentifier>201000000000031016</UniqueSystemIdentifier>
+<Account>
+<AccountID>500000000110181434</AccountID>
+<AccountType>Commission Account</AccountType>
+<AccountName></AccountName>
+<AccountStatus>Active</AccountStatus>
+<AccountCurrency>SSP</AccountCurrency>
+</Account>
+<Account>
+<AccountID>500000000110181442</AccountID>
+<AccountType>Organization eMoney Account (Float Account)</AccountType>
+<AccountName></AccountName>
+<AccountStatus>Active</AccountStatus>
+<AccountCurrency>SSP</AccountCurrency>
+</Account>
+<Account>
+<AccountID>500000000110181459</AccountID>
+<AccountType>Organization eMoney Account (working Account)</AccountType>
+<AccountName></AccountName>
+<AccountStatus>Active</AccountStatus>
+<AccountCurrency>SSP</AccountCurrency>
+</Account>
+<ChargeProfile>Organization Charge Profile</ChargeProfile>
+<DateIdentityRegistered>20190627134628</DateIdentityRegistered>
+<DateRiskRatingwasLastUpdated></DateRiskRatingwasLastUpdated>
+<IdentityStatus>Active</IdentityStatus>
+<IdentityType>Organization</IdentityType>
+<OrganizationName>MATARATIBU LTD SHIRKAT</OrganizationName>
+<OrganizationRiskRating></OrganizationRiskRating>
+<OrganizationUniqueReferenceDetails>100252</OrganizationUniqueReferenceDetails>
+<ParentUniqueReferenceIdentifier>201000000000032001</ParentUniqueReferenceIdentifier>
+<ParentName>GLOBAL FINANCE CABLES COMPANY LTD</ParentName>
+<Products>Agency Store Owned  Product</Products>
+<Segment></Segment>
+<TrustLevel>Child Organization Trust Level 1</TrustLevel>
+<Contacts>
+<ContactType>Main Contact</ContactType>
+<FirstName>GARANG MAKUEI GARANG</FirstName>
+<SecondName></SecondName>
+<SurName>MANGAR</SurName>
+<PhoneNumber>0916793705</PhoneNumber>
+<IDType>Passport</IDType>
+<IDReference>R00247648</IDReference>
+<ContactStatus></ContactStatus>
+</Contacts>
+<AddressLine1></AddressLine1>
+<AddressLine2></AddressLine2>
+<AddressLine3></AddressLine3>
+<TownCity>BOR</TownCity>
+<PostCode></PostCode>
+<CompanyUniqueIdenitifer></CompanyUniqueIdenitifer>
+<RuleProfile>25053</RuleProfile>
+</IdentityStrings>
+<IdentityStrings>
+<UniqueSystemIdentifier>201000000000031017</UniqueSystemIdentifier>
+<Account>
+<AccountID>500000000110181467</AccountID>
+<AccountType>Commission Account</AccountType>
+<AccountName></AccountName>
+<AccountStatus>Active</AccountStatus>
+<AccountCurrency>SSP</AccountCurrency>
+</Account>
+<Account>
+<AccountID>500000000110181475</AccountID>
+<AccountType>Organization eMoney Account (Float Account)</AccountType>
+<AccountName></AccountName>
+<AccountStatus>Active</AccountStatus>
+<AccountCurrency>SSP</AccountCurrency>
+</Account>
+<Account>
+<AccountID>500000000110181483</AccountID>
+<AccountType>Organization eMoney Account (working Account)</AccountType>
+<AccountName></AccountName>
+<AccountStatus>Active</AccountStatus>
+<AccountCurrency>SSP</AccountCurrency>
+</Account>
+<ChargeProfile>Organization Charge Profile</ChargeProfile>
+<DateIdentityRegistered>20190627140457</DateIdentityRegistered>
+<DateRiskRatingwasLastUpdated></DateRiskRatingwasLastUpdated>
+<IdentityStatus>Active</IdentityStatus>
+<IdentityType>Organization</IdentityType>
+<OrganizationName>BODA BODA GENERAL TRADING JUBA</OrganizationName>
+<OrganizationRiskRating></OrganizationRiskRating>
+<OrganizationUniqueReferenceDetails>100229</OrganizationUniqueReferenceDetails>
+<ParentUniqueReferenceIdentifier>201000000000032001</ParentUniqueReferenceIdentifier>
+<ParentName>GLOBAL FINANCE CABLES COMPANY LTD</ParentName>
+<Products>Agency Store Owned  Product</Products>
+<Segment></Segment>
+<TrustLevel>Child Organization Trust Level 1</TrustLevel>
+<Contacts>
+<ContactType>Main Contact</ContactType>
+<FirstName>DENG JOSEPH ADUUR</FirstName>
+<SecondName></SecondName>
+<SurName>GAK</SurName>
+<PhoneNumber>211916010543</PhoneNumber>
+<IDType>National ID</IDType>
+<IDReference>M8600002761475</IDReference>
+<ContactStatus></ContactStatus>
+</Contacts>
+<AddressLine1></AddressLine1>
+<AddressLine2></AddressLine2>
+<AddressLine3></AddressLine3>
+<TownCity>JUBA</TownCity>
+<PostCode></PostCode>
+<CompanyUniqueIdenitifer></CompanyUniqueIdenitifer>
+<RuleProfile>25053</RuleProfile>
+</IdentityStrings>
+<IdentityStrings>
+<UniqueSystemIdentifier>201000000000031018</UniqueSystemIdentifier>
+<Account>
+<AccountID>500000000110181491</AccountID>
+<AccountType>Commission Account</AccountType>
+<AccountName></AccountName>
+<AccountStatus>Active</AccountStatus>
+<AccountCurrency>SSP</AccountCurrency>
+</Account>
+<Account>
+<AccountID>500000000110181509</AccountID>
+<AccountType>Organization eMoney Account (Float Account)</AccountType>
+<AccountName></AccountName>
+<AccountStatus>Active</AccountStatus>
+<AccountCurrency>SSP</AccountCurrency>
+</Account>
+<Account>
+<AccountID>500000000110181517</AccountID>
+<AccountType>Organization eMoney Account (working Account)</AccountType>
+<AccountName></AccountName>
+<AccountStatus>Active</AccountStatus>
+<AccountCurrency>SSP</AccountCurrency>
+</Account>
+<ChargeProfile>Organization Charge Profile</ChargeProfile>
+<DateIdentityRegistered>20190627141616</DateIdentityRegistered>
+<DateRiskRatingwasLastUpdated></DateRiskRatingwasLastUpdated>
+<IdentityStatus>Active</IdentityStatus>
+<IdentityType>Organization</IdentityType>
+<OrganizationName>SPOTLIGHT CO LTD</OrganizationName>
+<OrganizationRiskRating></OrganizationRiskRating>
+<OrganizationUniqueReferenceDetails>100230</OrganizationUniqueReferenceDetails>
+<ParentUniqueReferenceIdentifier>201000000000032001</ParentUniqueReferenceIdentifier>
+<ParentName>GLOBAL FINANCE CABLES COMPANY LTD</ParentName>
+<Products>Agency Store Owned  Product</Products>
+<Segment></Segment>
+<TrustLevel>Child Organization Trust Level 1</TrustLevel>
+<Contacts>
+<ContactType>Main Contact</ContactType>
+<FirstName>JACOB BILL KUR</FirstName>
+<SecondName></SecondName>
+<SurName>NYIEL</SurName>
+<PhoneNumber>211921004009</PhoneNumber>
+<IDType>National ID</IDType>
+<IDReference>M9300001466443</IDReference>
+<ContactStatus></ContactStatus>
+</Contacts>
+<AddressLine1></AddressLine1>
+<AddressLine2></AddressLine2>
+<AddressLine3></AddressLine3>
+<TownCity>JUBA</TownCity>
+<PostCode></PostCode>
+<CompanyUniqueIdenitifer></CompanyUniqueIdenitifer>
+<RuleProfile>25053</RuleProfile>
+</IdentityStrings>
+<IdentityStrings>
+<UniqueSystemIdentifier>201000000000031019</UniqueSystemIdentifier>
+<Account>
+<AccountID>500000000110181525</AccountID>
+<AccountType>Commission Account</AccountType>
+<AccountName></AccountName>
+<AccountStatus>Active</AccountStatus>
+<AccountCurrency>SSP</AccountCurrency>
+</Account>
+<Account>
+<AccountID>500000000110181533</AccountID>
+<AccountType>Organization eMoney Account (Float Account)</AccountType>
+<AccountName></AccountName>
+<AccountStatus>Active</AccountStatus>
+<AccountCurrency>SSP</AccountCurrency>
+</Account>
+<Account>
+<AccountID>500000000110181541</AccountID>
+<AccountType>Organization eMoney Account (working Account)</AccountType>
+<AccountName></AccountName>
+<AccountStatus>Active</AccountStatus>
+<AccountCurrency>SSP</AccountCurrency>
+</Account>
+<ChargeProfile>Organization Charge Profile</ChargeProfile>
+<DateIdentityRegistered>20190627144553</DateIdentityRegistered>
+<DateRiskRatingwasLastUpdated></DateRiskRatingwasLastUpdated>
+<IdentityStatus>Active</IdentityStatus>
+<IdentityType>Organization</IdentityType>
+<OrganizationName>ABC GENERAL TRADING CO LTD BOR TOWN</OrganizationName>
+<OrganizationRiskRating></OrganizationRiskRating>
+<OrganizationUniqueReferenceDetails>100240</OrganizationUniqueReferenceDetails>
+<ParentUniqueReferenceIdentifier>201000000000032001</ParentUniqueReferenceIdentifier>
+<ParentName>GLOBAL FINANCE CABLES COMPANY LTD</ParentName>
+<Products>Agency Store Owned  Product</Products>
+<Segment></Segment>
+<TrustLevel>Child Organization Trust Level 1</TrustLevel>
+<Contacts>
+<ContactType>Director</ContactType>
+<FirstName>Bol Riiny</FirstName>
+<SecondName></SecondName>
+<SurName>Thiik</SurName>
+<PhoneNumber>0913350390</PhoneNumber>
+<IDType>National ID</IDType>
+<IDReference>M8600002689458</IDReference>
+<ContactStatus></ContactStatus>
+</Contacts>
+<AddressLine1></AddressLine1>
+<AddressLine2></AddressLine2>
+<AddressLine3></AddressLine3>
+<TownCity>Bor</TownCity>
+<PostCode></PostCode>
+<CompanyUniqueIdenitifer></CompanyUniqueIdenitifer>
+<RuleProfile>25053</RuleProfile>
+</IdentityStrings>
+<IdentityStrings>
+<UniqueSystemIdentifier>201000000000031020</UniqueSystemIdentifier>
+<Account>
+<AccountID>500000000110181558</AccountID>
+<AccountType>Commission Account</AccountType>
+<AccountName></AccountName>
+<AccountStatus>Active</AccountStatus>
+<AccountCurrency>SSP</AccountCurrency>
+</Account>
+<Account>
+<AccountID>500000000110181566</AccountID>
+<AccountType>Organization eMoney Account (Float Account)</AccountType>
+<AccountName></AccountName>
+<AccountStatus>Active</AccountStatus>
+<AccountCurrency>SSP</AccountCurrency>
+</Account>
+<Account>
+<AccountID>500000000110181574</AccountID>
+<AccountType>Organization eMoney Account (working Account)</AccountType>
+<AccountName></AccountName>
+<AccountStatus>Active</AccountStatus>
+<AccountCurrency>SSP</AccountCurrency>
+</Account>
+<ChargeProfile>Organization Charge Profile</ChargeProfile>
+<DateIdentityRegistered>20190627150703</DateIdentityRegistered>
+<DateRiskRatingwasLastUpdated></DateRiskRatingwasLastUpdated>
+<IdentityStatus>Active</IdentityStatus>
+<IdentityType>Organization</IdentityType>
+<OrganizationName>ABC GENERAL TRADING CO LTD ABIRU GOK STATE</OrganizationName>
+<OrganizationRiskRating></OrganizationRiskRating>
+<OrganizationUniqueReferenceDetails>100242</OrganizationUniqueReferenceDetails>
+<ParentUniqueReferenceIdentifier>201000000000032001</ParentUniqueReferenceIdentifier>
+<ParentName>GLOBAL FINANCE CABLES COMPANY LTD</ParentName>
+<Products>Agency Store Owned  Product</Products>
+<Segment></Segment>
+<TrustLevel>Child Organization Trust Level 1</TrustLevel>
+<Contacts>
+<ContactType>Director</ContactType>
+<FirstName>Bol Riiny</FirstName>
+<SecondName></SecondName>
+<SurName>Thiik</SurName>
+<PhoneNumber>0913350390</PhoneNumber>
+<IDType>National ID</IDType>
+<IDReference>M8600002689458</IDReference>
+<ContactStatus></ContactStatus>
+</Contacts>
+<AddressLine1></AddressLine1>
+<AddressLine2></AddressLine2>
+<AddressLine3></AddressLine3>
+<TownCity>Abiru GOK State</TownCity>
+<PostCode></PostCode>
+<CompanyUniqueIdenitifer></CompanyUniqueIdenitifer>
+<RuleProfile>25053</RuleProfile>
+</IdentityStrings>
+<IdentityStrings>
+<UniqueSystemIdentifier>201000000000031021</UniqueSystemIdentifier>
+<Account>
+<AccountID>500000000110181582</AccountID>
+<AccountType>Commission Account</AccountType>
+<AccountName></AccountName>
+<AccountStatus>Active</AccountStatus>
+<AccountCurrency>SSP</AccountCurrency>
+</Account>
+<Account>
+<AccountID>500000000110181590</AccountID>
+<AccountType>Organization eMoney Account (Float Account)</AccountType>
+<AccountName></AccountName>
+<AccountStatus>Active</AccountStatus>
+<AccountCurrency>SSP</AccountCurrency>
+</Account>
+<Account>
+<AccountID>500000000110181608</AccountID>
+<AccountType>Organization eMoney Account (working Account)</AccountType>
+<AccountName></AccountName>
+<AccountStatus>Active</AccountStatus>
+<AccountCurrency>SSP</AccountCurrency>
+</Account>
+<ChargeProfile>Organization Charge Profile</ChargeProfile>
+<DateIdentityRegistered>20190627150747</DateIdentityRegistered>
+<DateRiskRatingwasLastUpdated></DateRiskRatingwasLastUpdated>
+<IdentityStatus>Active</IdentityStatus>
+<IdentityType>Organization</IdentityType>
+<OrganizationName>ABC GENERAL TRADING CO LTD JUBA CUSTOM</OrganizationName>
+<OrganizationRiskRating></OrganizationRiskRating>
+<OrganizationUniqueReferenceDetails>100236</OrganizationUniqueReferenceDetails>
+<ParentUniqueReferenceIdentifier>201000000000032001</ParentUniqueReferenceIdentifier>
+<ParentName>GLOBAL FINANCE CABLES COMPANY LTD</ParentName>
+<Products>Agency Store Owned  Product</Products>
+<Segment></Segment>
+<TrustLevel>Child Organization Trust Level 1</TrustLevel>
+<Contacts>
+<ContactType>Main Contact</ContactType>
+<FirstName>AMAATH YIER ACIOT</FirstName>
+<SecondName></SecondName>
+<SurName>THIIK</SurName>
+<PhoneNumber>0913350390</PhoneNumber>
+<IDType>National ID</IDType>
+<IDReference>M8600002689458</IDReference>
+<ContactStatus></ContactStatus>
+</Contacts>
+<AddressLine1></AddressLine1>
+<AddressLine2></AddressLine2>
+<AddressLine3></AddressLine3>
+<TownCity>JUBA TOWN</TownCity>
+<PostCode></PostCode>
+<CompanyUniqueIdenitifer></CompanyUniqueIdenitifer>
+<RuleProfile>25053</RuleProfile>
+</IdentityStrings>
+<IdentityStrings>
+<UniqueSystemIdentifier>201000000000031022</UniqueSystemIdentifier>
+<Account>
+<AccountID>500000000110181616</AccountID>
+<AccountType>Commission Account</AccountType>
+<AccountName></AccountName>
+<AccountStatus>Active</AccountStatus>
+<AccountCurrency>SSP</AccountCurrency>
+</Account>
+<Account>
+<AccountID>500000000110181624</AccountID>
+<AccountType>Organization eMoney Account (Float Account)</AccountType>
+<AccountName></AccountName>
+<AccountStatus>Active</AccountStatus>
+<AccountCurrency>SSP</AccountCurrency>
+</Account>
+<Account>
+<AccountID>500000000110181632</AccountID>
+<AccountType>Organization eMoney Account (working Account)</AccountType>
+<AccountName></AccountName>
+<AccountStatus>Active</AccountStatus>
+<AccountCurrency>SSP</AccountCurrency>
+</Account>
+<ChargeProfile>Organization Charge Profile</ChargeProfile>
+<DateIdentityRegistered>20190627151221</DateIdentityRegistered>
+<DateRiskRatingwasLastUpdated></DateRiskRatingwasLastUpdated>
+<IdentityStatus>Active</IdentityStatus>
+<IdentityType>Organization</IdentityType>
+<OrganizationName>ABC GENERAL TRADING CO LTD JUBA MUNUKI</OrganizationName>
+<OrganizationRiskRating></OrganizationRiskRating>
+<OrganizationUniqueReferenceDetails>100238</OrganizationUniqueReferenceDetails>
+<ParentUniqueReferenceIdentifier>201000000000032001</ParentUniqueReferenceIdentifier>
+<ParentName>GLOBAL FINANCE CABLES COMPANY LTD</ParentName>
+<Products>Agency Store Owned  Product</Products>
+<Segment></Segment>
+<TrustLevel>Child Organization Trust Level 1</TrustLevel>
+<Contacts>
+<ContactType>Main Contact</ContactType>
+<FirstName>AMAATH YIER ACIOT</FirstName>
+<SecondName></SecondName>
+<SurName>THIIK</SurName>
+<PhoneNumber>0913350390</PhoneNumber>
+<IDType>National ID</IDType>
+<IDReference>M8600002689458</IDReference>
+<ContactStatus></ContactStatus>
+</Contacts>
+<AddressLine1></AddressLine1>
+<AddressLine2></AddressLine2>
+<AddressLine3></AddressLine3>
+<TownCity>JUBA</TownCity>
+<PostCode></PostCode>
+<CompanyUniqueIdenitifer></CompanyUniqueIdenitifer>
+<RuleProfile>25053</RuleProfile>
+</IdentityStrings>
+<IdentityStrings>
+<UniqueSystemIdentifier>201000000000031023</UniqueSystemIdentifier>
+<Account>
+<AccountID>500000000110181640</AccountID>
+<AccountType>Commission Account</AccountType>
+<AccountName></AccountName>
+<AccountStatus>Active</AccountStatus>
+<AccountCurrency>SSP</AccountCurrency>
+</Account>
+<Account>
+<AccountID>500000000110181657</AccountID>
+<AccountType>Organization eMoney Account (Float Account)</AccountType>
+<AccountName></AccountName>
+<AccountStatus>Active</AccountStatus>
+<AccountCurrency>SSP</AccountCurrency>
+</Account>
+<Account>
+<AccountID>500000000110181665</AccountID>
+<AccountType>Organization eMoney Account (working Account)</AccountType>
+<AccountName></AccountName>
+<AccountStatus>Active</AccountStatus>
+<AccountCurrency>SSP</AccountCurrency>
+</Account>
+<ChargeProfile>Organization Charge Profile</ChargeProfile>
+<DateIdentityRegistered>20190627151236</DateIdentityRegistered>
+<DateRiskRatingwasLastUpdated></DateRiskRatingwasLastUpdated>
+<IdentityStatus>Active</IdentityStatus>
+<IdentityType>Organization</IdentityType>
+<OrganizationName>ABC GENERAL TRADING CO LTD JONJ TOWN</OrganizationName>
+<OrganizationRiskRating></OrganizationRiskRating>
+<OrganizationUniqueReferenceDetails>100244</OrganizationUniqueReferenceDetails>
+<ParentUniqueReferenceIdentifier>201000000000032001</ParentUniqueReferenceIdentifier>
+<ParentName>GLOBAL FINANCE CABLES COMPANY LTD</ParentName>
+<Products>Agency Store Owned  Product</Products>
+<Segment></Segment>
+<TrustLevel>Child Organization Trust Level 1</TrustLevel>
+<Contacts>
+<ContactType>Director</ContactType>
+<FirstName>Bol Riiny</FirstName>
+<SecondName></SecondName>
+<SurName>Thiik</SurName>
+<PhoneNumber>0913350390</PhoneNumber>
+<IDType>National ID</IDType>
+<IDReference>M8600002689458</IDReference>
+<ContactStatus></ContactStatus>
+</Contacts>
+<AddressLine1></AddressLine1>
+<AddressLine2></AddressLine2>
+<AddressLine3></AddressLine3>
+<TownCity>JONJ TOWN</TownCity>
+<PostCode></PostCode>
+<CompanyUniqueIdenitifer></CompanyUniqueIdenitifer>
+<RuleProfile>25053</RuleProfile>
+</IdentityStrings>
+<IdentityStrings>
+<UniqueSystemIdentifier>201000000000031024</UniqueSystemIdentifier>
+<Account>
+<AccountID>500000000110181673</AccountID>
+<AccountType>Commission Account</AccountType>
+<AccountName></AccountName>
+<AccountStatus>Active</AccountStatus>
+<AccountCurrency>SSP</AccountCurrency>
+</Account>
+<Account>
+<AccountID>500000000110181681</AccountID>
+<AccountType>Organization eMoney Account (Float Account)</AccountType>
+<AccountName></AccountName>
+<AccountStatus>Active</AccountStatus>
+<AccountCurrency>SSP</AccountCurrency>
+</Account>
+<Account>
+<AccountID>500000000110181699</AccountID>
+<AccountType>Organization eMoney Account (working Account)</AccountType>
+<AccountName></AccountName>
+<AccountStatus>Active</AccountStatus>
+<AccountCurrency>SSP</AccountCurrency>
+</Account>
+<ChargeProfile>Organization Charge Profile</ChargeProfile>
+<DateIdentityRegistered>20190627152903</DateIdentityRegistered>
+<DateRiskRatingwasLastUpdated></DateRiskRatingwasLastUpdated>
+<IdentityStatus>Active</IdentityStatus>
+<IdentityType>Organization</IdentityType>
+<OrganizationName>ABC GENERAL TRADING CO LTD KUACJOK</OrganizationName>
+<OrganizationRiskRating></OrganizationRiskRating>
+<OrganizationUniqueReferenceDetails>100246</OrganizationUniqueReferenceDetails>
+<ParentUniqueReferenceIdentifier>201000000000032001</ParentUniqueReferenceIdentifier>
+<ParentName>GLOBAL FINANCE CABLES COMPANY LTD</ParentName>
+<Products>Agency Store Owned  Product</Products>
+<Segment></Segment>
+<TrustLevel>Child Organization Trust Level 1</TrustLevel>
+<Contacts>
+<ContactType>Director</ContactType>
+<FirstName>Bol Riiny</FirstName>
+<SecondName></SecondName>
+<SurName>Thiik</SurName>
+<PhoneNumber>0913350390</PhoneNumber>
+<IDType>National ID</IDType>
+<IDReference>M8600002689458</IDReference>
+<ContactStatus></ContactStatus>
+</Contacts>
+<AddressLine1></AddressLine1>
+<AddressLine2></AddressLine2>
+<AddressLine3></AddressLine3>
+<TownCity>KUACJOK</TownCity>
+<PostCode></PostCode>
+<CompanyUniqueIdenitifer></CompanyUniqueIdenitifer>
+<RuleProfile>25053</RuleProfile>
+</IdentityStrings>
+<IdentityStrings>
+<UniqueSystemIdentifier>201000000000031025</UniqueSystemIdentifier>
+<Account>
+<AccountID>500000000110181707</AccountID>
+<AccountType>Commission Account</AccountType>
+<AccountName></AccountName>
+<AccountStatus>Active</AccountStatus>
+<AccountCurrency>SSP</AccountCurrency>
+</Account>
+<Account>
+<AccountID>500000000110181715</AccountID>
+<AccountType>Organization eMoney Account (Float Account)</AccountType>
+<AccountName></AccountName>
+<AccountStatus>Active</AccountStatus>
+<AccountCurrency>SSP</AccountCurrency>
+</Account>
+<Account>
+<AccountID>500000000110181723</AccountID>
+<AccountType>Organization eMoney Account (working Account)</AccountType>
+<AccountName></AccountName>
+<AccountStatus>Active</AccountStatus>
+<AccountCurrency>SSP</AccountCurrency>
+</Account>
+<ChargeProfile>Organization Charge Profile</ChargeProfile>
+<DateIdentityRegistered>20190627153424</DateIdentityRegistered>
+<DateRiskRatingwasLastUpdated></DateRiskRatingwasLastUpdated>
+<IdentityStatus>Active</IdentityStatus>
+<IdentityType>Organization</IdentityType>
+<OrganizationName>ABC GENERAL TRADING CO LTD LUONYAKER</OrganizationName>
+<OrganizationRiskRating></OrganizationRiskRating>
+<OrganizationUniqueReferenceDetails>100248</OrganizationUniqueReferenceDetails>
+<ParentUniqueReferenceIdentifier>201000000000032001</ParentUniqueReferenceIdentifier>
+<ParentName>GLOBAL FINANCE CABLES COMPANY LTD</ParentName>
+<Products>Agency Store Owned  Product</Products>
+<Segment></Segment>
+<TrustLevel>Child Organization Trust Level 1</TrustLevel>
+<Contacts>
+<ContactType>Director</ContactType>
+<FirstName>Bol Riiny</FirstName>
+<SecondName></SecondName>
+<SurName>Thiik</SurName>
+<PhoneNumber>0913350390</PhoneNumber>
+<IDType>National ID</IDType>
+<IDReference>M8600002689458</IDReference>
+<ContactStatus></ContactStatus>
+</Contacts>
+<AddressLine1></AddressLine1>
+<AddressLine2></AddressLine2>
+<AddressLine3></AddressLine3>
+<TownCity>LUONYAKER</TownCity>
+<PostCode></PostCode>
+<CompanyUniqueIdenitifer></CompanyUniqueIdenitifer>
+<RuleProfile>25053</RuleProfile>
+</IdentityStrings>
+<IdentityStrings>
+<UniqueSystemIdentifier>201000000000031026</UniqueSystemIdentifier>
+<Account>
+<AccountID>500000000110181731</AccountID>
+<AccountType>Commission Account</AccountType>
+<AccountName></AccountName>
+<AccountStatus>Active</AccountStatus>
+<AccountCurrency>SSP</AccountCurrency>
+</Account>
+<Account>
+<AccountID>500000000110181749</AccountID>
+<AccountType>Organization eMoney Account (Float Account)</AccountType>
+<AccountName></AccountName>
+<AccountStatus>Active</AccountStatus>
+<AccountCurrency>SSP</AccountCurrency>
+</Account>
+<Account>
+<AccountID>500000000110181756</AccountID>
+<AccountType>Organization eMoney Account (working Account)</AccountType>
+<AccountName></AccountName>
+<AccountStatus>Active</AccountStatus>
+<AccountCurrency>SSP</AccountCurrency>
+</Account>
+<ChargeProfile>Organization Charge Profile</ChargeProfile>
+<DateIdentityRegistered>20190627154931</DateIdentityRegistered>
+<DateRiskRatingwasLastUpdated></DateRiskRatingwasLastUpdated>
+<IdentityStatus>Active</IdentityStatus>
+<IdentityType>Organization</IdentityType>
+<OrganizationName>JOK GENERAL TRADING LTD</OrganizationName>
+<OrganizationRiskRating></OrganizationRiskRating>
+<OrganizationUniqueReferenceDetails>100231</OrganizationUniqueReferenceDetails>
+<ParentUniqueReferenceIdentifier>201000000000032001</ParentUniqueReferenceIdentifier>
+<ParentName>GLOBAL FINANCE CABLES COMPANY LTD</ParentName>
+<Products>Agency Store Owned  Product</Products>
+<Segment></Segment>
+<TrustLevel>Child Organization Trust Level 1</TrustLevel>
+<Contacts>
+<ContactType>Main Contact</ContactType>
+<FirstName>JOK DENG</FirstName>
+<SecondName></SecondName>
+<SurName>MACH</SurName>
+<PhoneNumber>0923669998</PhoneNumber>
+<IDType>National ID</IDType>
+<IDReference>M9100001417898</IDReference>
+<ContactStatus></ContactStatus>
+</Contacts>
+<AddressLine1></AddressLine1>
+<AddressLine2></AddressLine2>
+<AddressLine3></AddressLine3>
+<TownCity>JUBA</TownCity>
+<PostCode></PostCode>
+<CompanyUniqueIdenitifer></CompanyUniqueIdenitifer>
+<RuleProfile>25053</RuleProfile>
+</IdentityStrings>
+<IdentityStrings>
+<UniqueSystemIdentifier>201000000000031027</UniqueSystemIdentifier>
+<Account>
+<AccountID>500000000110181764</AccountID>
+<AccountType>Commission Account</AccountType>
+<AccountName></AccountName>
+<AccountStatus>Active</AccountStatus>
+<AccountCurrency>SSP</AccountCurrency>
+</Account>
+<Account>
+<AccountID>500000000110181772</AccountID>
+<AccountType>Organization eMoney Account (Float Account)</AccountType>
+<AccountName></AccountName>
+<AccountStatus>Active</AccountStatus>
+<AccountCurrency>SSP</AccountCurrency>
+</Account>
+<Account>
+<AccountID>500000000110181780</AccountID>
+<AccountType>Organization eMoney Account (working Account)</AccountType>
+<AccountName></AccountName>
+<AccountStatus>Active</AccountStatus>
+<AccountCurrency>SSP</AccountCurrency>
+</Account>
+<ChargeProfile>Organization Charge Profile</ChargeProfile>
+<DateIdentityRegistered>20190627155409</DateIdentityRegistered>
+<DateRiskRatingwasLastUpdated></DateRiskRatingwasLastUpdated>
+<IdentityStatus>Active</IdentityStatus>
+<IdentityType>Organization</IdentityType>
+<OrganizationName>MAKANA GENERAL TRADING CO LTD</OrganizationName>
+<OrganizationRiskRating></OrganizationRiskRating>
+<OrganizationUniqueReferenceDetails>100233</OrganizationUniqueReferenceDetails>
+<ParentUniqueReferenceIdentifier>201000000000032001</ParentUniqueReferenceIdentifier>
+<ParentName>GLOBAL FINANCE CABLES COMPANY LTD</ParentName>
+<Products>Agency Store Owned  Product</Products>
+<Segment></Segment>
+<TrustLevel>Child Organization Trust Level 1</TrustLevel>
+<Contacts>
+<ContactType>Main Contact</ContactType>
+<FirstName>MABUT NGONG GAI</FirstName>
+<SecondName></SecondName>
+<SurName>DENG</SurName>
+<PhoneNumber>0925371470</PhoneNumber>
+<IDType>National ID</IDType>
+<IDReference>M8600003705803</IDReference>
+<ContactStatus></ContactStatus>
+</Contacts>
+<AddressLine1></AddressLine1>
+<AddressLine2></AddressLine2>
+<AddressLine3></AddressLine3>
+<TownCity>JUBA</TownCity>
+<PostCode></PostCode>
+<CompanyUniqueIdenitifer></CompanyUniqueIdenitifer>
+<RuleProfile>25053</RuleProfile>
+</IdentityStrings>
+<IdentityStrings>
+<UniqueSystemIdentifier>201000000000032001</UniqueSystemIdentifier>
+<Account>
+<AccountID>500000000110171013</AccountID>
+<AccountType>Commission Account</AccountType>
+<AccountName></AccountName>
+<AccountStatus>Active</AccountStatus>
+<AccountCurrency>SSP</AccountCurrency>
+</Account>
+<Account>
+<AccountID>500000000110171021</AccountID>
+<AccountType>Organization eMoney Account (Float Account)</AccountType>
+<AccountName></AccountName>
+<AccountStatus>Active</AccountStatus>
+<AccountCurrency>SSP</AccountCurrency>
+</Account>
+<Account>
+<AccountID>500000000110171039</AccountID>
+<AccountType>Organization eMoney Account (working Account)</AccountType>
+<AccountName></AccountName>
+<AccountStatus>Active</AccountStatus>
+<AccountCurrency>SSP</AccountCurrency>
+</Account>
+<ChargeProfile>Organization Charge Profile</ChargeProfile>
+<DateIdentityRegistered>20190621094731</DateIdentityRegistered>
+<DateRiskRatingwasLastUpdated></DateRiskRatingwasLastUpdated>
+<IdentityStatus>Active</IdentityStatus>
+<IdentityType>Organization</IdentityType>
+<OrganizationName>GLOBAL FINANCE CABLES COMPANY LTD</OrganizationName>
+<OrganizationRiskRating></OrganizationRiskRating>
+<OrganizationUniqueReferenceDetails>100200</OrganizationUniqueReferenceDetails>
+<ParentUniqueReferenceIdentifier>200000000000010001</ParentUniqueReferenceIdentifier>
+<ParentName></ParentName>
+<Products>Agency Head Office Central Own Product</Products>
+<Segment></Segment>
+<TrustLevel>Top Organization Trust Level 2</TrustLevel>
+<Contacts>
+<ContactType>Director</ContactType>
+<FirstName>MARK</FirstName>
+<SecondName></SecondName>
+<SurName>KUANY</SurName>
+<PhoneNumber>211925460564</PhoneNumber>
+<IDType>Passport</IDType>
+<IDReference>R00345947</IDReference>
+<ContactStatus></ContactStatus>
+</Contacts>
+<AddressLine1></AddressLine1>
+<AddressLine2></AddressLine2>
+<AddressLine3></AddressLine3>
+<TownCity>Juba</TownCity>
+<PostCode></PostCode>
+<CompanyUniqueIdenitifer></CompanyUniqueIdenitifer>
+<RuleProfile>25052</RuleProfile>
+</IdentityStrings>
+<IdentityStrings>
+<UniqueSystemIdentifier>201000000000032002</UniqueSystemIdentifier>
+<Account>
+<AccountID>500000000110171047</AccountID>
+<AccountType>Commission Account</AccountType>
+<AccountName></AccountName>
+<AccountStatus>Active</AccountStatus>
+<AccountCurrency>SSP</AccountCurrency>
+</Account>
+<Account>
+<AccountID>500000000110171054</AccountID>
+<AccountType>Organization eMoney Account (Float Account)</AccountType>
+<AccountName></AccountName>
+<AccountStatus>Active</AccountStatus>
+<AccountCurrency>SSP</AccountCurrency>
+</Account>
+<Account>
+<AccountID>500000000110171062</AccountID>
+<AccountType>Organization eMoney Account (working Account)</AccountType>
+<AccountName></AccountName>
+<AccountStatus>Active</AccountStatus>
+<AccountCurrency>SSP</AccountCurrency>
+</Account>
+<ChargeProfile>Organization Charge Profile</ChargeProfile>
+<DateIdentityRegistered>20190621110232</DateIdentityRegistered>
+<DateRiskRatingwasLastUpdated></DateRiskRatingwasLastUpdated>
+<IdentityStatus>Active</IdentityStatus>
+<IdentityType>Organization</IdentityType>
+<OrganizationName>Nilepay Test Agent</OrganizationName>
+<OrganizationRiskRating></OrganizationRiskRating>
+<OrganizationUniqueReferenceDetails>123456</OrganizationUniqueReferenceDetails>
+<ParentUniqueReferenceIdentifier>200000000000010001</ParentUniqueReferenceIdentifier>
+<ParentName></ParentName>
+<Products>Agency Head Office Central Own Product</Products>
+<Segment></Segment>
+<TrustLevel>Top Organization Trust Level 2</TrustLevel>
+<Contacts>
+<ContactType>Director</ContactType>
+<FirstName>Paul</FirstName>
+<SecondName></SecondName>
+<SurName>Ngigi</SurName>
+<PhoneNumber>254723515894</PhoneNumber>
+<IDType>National ID</IDType>
+<IDReference>12345678</IDReference>
+<ContactStatus></ContactStatus>
+</Contacts>
+<AddressLine1></AddressLine1>
+<AddressLine2></AddressLine2>
+<AddressLine3></AddressLine3>
+<TownCity>Nairobi</TownCity>
+<PostCode></PostCode>
+<CompanyUniqueIdenitifer></CompanyUniqueIdenitifer>
+<RuleProfile>25052</RuleProfile>
+</IdentityStrings>
+<IdentityStrings>
+<UniqueSystemIdentifier>201000000000032003</UniqueSystemIdentifier>
+<Account>
+<AccountID>500000000110171070</AccountID>
+<AccountType>Commission Account</AccountType>
+<AccountName></AccountName>
+<AccountStatus>Active</AccountStatus>
+<AccountCurrency>SSP</AccountCurrency>
+</Account>
+<Account>
+<AccountID>500000000110171088</AccountID>
+<AccountType>Organization eMoney Account (Float Account)</AccountType>
+<AccountName></AccountName>
+<AccountStatus>Active</AccountStatus>
+<AccountCurrency>SSP</AccountCurrency>
+</Account>
+<Account>
+<AccountID>500000000110171096</AccountID>
+<AccountType>Organization eMoney Account (working Account)</AccountType>
+<AccountName></AccountName>
+<AccountStatus>Active</AccountStatus>
+<AccountCurrency>SSP</AccountCurrency>
+</Account>
+<ChargeProfile>Organization Charge Profile</ChargeProfile>
+<DateIdentityRegistered>20190621112027</DateIdentityRegistered>
+<DateRiskRatingwasLastUpdated></DateRiskRatingwasLastUpdated>
+<IdentityStatus>Active</IdentityStatus>
+<IdentityType>Organization</IdentityType>
+<OrganizationName>Nlie pay test store</OrganizationName>
+<OrganizationRiskRating></OrganizationRiskRating>
+<OrganizationUniqueReferenceDetails>123457</OrganizationUniqueReferenceDetails>
+<ParentUniqueReferenceIdentifier>201000000000032002</ParentUniqueReferenceIdentifier>
+<ParentName>Nilepay Test Agent</ParentName>
+<Products>Agency Store Owned  Product</Products>
+<Segment></Segment>
+<TrustLevel>Child Organization Trust Level 1</TrustLevel>
+<Contacts>
+<ContactType>Director</ContactType>
+<FirstName>Paul</FirstName>
+<SecondName></SecondName>
+<SurName>Ngigi</SurName>
+<PhoneNumber>254723515894</PhoneNumber>
+<IDType>National ID</IDType>
+<IDReference>12345678</IDReference>
+<ContactStatus></ContactStatus>
+</Contacts>
+<AddressLine1></AddressLine1>
+<AddressLine2></AddressLine2>
+<AddressLine3></AddressLine3>
+<TownCity>Nairobi</TownCity>
+<PostCode></PostCode>
+<CompanyUniqueIdenitifer></CompanyUniqueIdenitifer>
+<RuleProfile>25053</RuleProfile>
+</IdentityStrings>
+<IdentityStrings>
+<UniqueSystemIdentifier>201000000000032004</UniqueSystemIdentifier>
+<Account>
+<AccountID>500000000110171104</AccountID>
+<AccountType>Commission Account</AccountType>
+<AccountName></AccountName>
+<AccountStatus>Active</AccountStatus>
+<AccountCurrency>SSP</AccountCurrency>
+</Account>
+<Account>
+<AccountID>500000000110171112</AccountID>
+<AccountType>Organization eMoney Account (Float Account)</AccountType>
+<AccountName></AccountName>
+<AccountStatus>Active</AccountStatus>
+<AccountCurrency>SSP</AccountCurrency>
+</Account>
+<Account>
+<AccountID>500000000110171120</AccountID>
+<AccountType>Organization eMoney Account (working Account)</AccountType>
+<AccountName></AccountName>
+<AccountStatus>Active</AccountStatus>
+<AccountCurrency>SSP</AccountCurrency>
+</Account>
+<ChargeProfile>Organization Charge Profile</ChargeProfile>
+<DateIdentityRegistered>20190621154325</DateIdentityRegistered>
+<DateRiskRatingwasLastUpdated></DateRiskRatingwasLastUpdated>
+<IdentityStatus>Active</IdentityStatus>
+<IdentityType>Organization</IdentityType>
+<OrganizationName>JINUB LIMITED</OrganizationName>
+<OrganizationRiskRating></OrganizationRiskRating>
+<OrganizationUniqueReferenceDetails>100201</OrganizationUniqueReferenceDetails>
+<ParentUniqueReferenceIdentifier>201000000000032001</ParentUniqueReferenceIdentifier>
+<ParentName>GLOBAL FINANCE CABLES COMPANY LTD</ParentName>
+<Products>Agency Store Owned  Product</Products>
+<Segment></Segment>
+<TrustLevel>Child Organization Trust Level 2</TrustLevel>
+<Contacts>
+<ContactType>Main Contact</ContactType>
+<FirstName>Atem</FirstName>
+<SecondName></SecondName>
+<SurName>Kuol Aweng</SurName>
+<PhoneNumber>211927080509</PhoneNumber>
+<IDType>National ID</IDType>
+<IDReference>M9000003905268</IDReference>
+<ContactStatus></ContactStatus>
+</Contacts>
+<AddressLine1></AddressLine1>
+<AddressLine2></AddressLine2>
+<AddressLine3></AddressLine3>
+<TownCity>JUBA</TownCity>
+<PostCode></PostCode>
+<CompanyUniqueIdenitifer></CompanyUniqueIdenitifer>
+<RuleProfile>25053</RuleProfile>
+</IdentityStrings>
+<IdentityStrings>
+<UniqueSystemIdentifier>201000000000032005</UniqueSystemIdentifier>
+<Account>
+<AccountID>500000000110171138</AccountID>
+<AccountType>Commission Account</AccountType>
+<AccountName></AccountName>
+<AccountStatus>Active</AccountStatus>
+<AccountCurrency>SSP</AccountCurrency>
+</Account>
+<Account>
+<AccountID>500000000110171146</AccountID>
+<AccountType>Organization eMoney Account (Float Account)</AccountType>
+<AccountName></AccountName>
+<AccountStatus>Active</AccountStatus>
+<AccountCurrency>SSP</AccountCurrency>
+</Account>
+<Account>
+<AccountID>500000000110171153</AccountID>
+<AccountType>Organization eMoney Account (working Account)</AccountType>
+<AccountName></AccountName>
+<AccountStatus>Active</AccountStatus>
+<AccountCurrency>SSP</AccountCurrency>
+</Account>
+<ChargeProfile>Organization Charge Profile</ChargeProfile>
+<DateIdentityRegistered>20190625075724</DateIdentityRegistered>
+<DateRiskRatingwasLastUpdated></DateRiskRatingwasLastUpdated>
+<IdentityStatus>Active</IdentityStatus>
+<IdentityType>Organization</IdentityType>
+<OrganizationName>WAD KAK COMMUNICATIONS COMPANY LTD</OrganizationName>
+<OrganizationRiskRating></OrganizationRiskRating>
+<OrganizationUniqueReferenceDetails>100300</OrganizationUniqueReferenceDetails>
+<ParentUniqueReferenceIdentifier>200000000000010001</ParentUniqueReferenceIdentifier>
+<ParentName></ParentName>
+<Products>Agency Head Office Central Own Product</Products>
+<Segment></Segment>
+<TrustLevel>Top Organization Trust Level 2</TrustLevel>
+<Contacts>
+<ContactType>Director</ContactType>
+<FirstName>ANTONY</FirstName>
+<SecondName></SecondName>
+<SurName>OKOTH ONYANGO</SurName>
+<PhoneNumber>211928464464</PhoneNumber>
+<IDType>Passport</IDType>
+<IDReference>BK023842</IDReference>
+<ContactStatus></ContactStatus>
+</Contacts>
+<Contacts>
+<ContactType>Director</ContactType>
+<FirstName>SAMSON</FirstName>
+<SecondName></SecondName>
+<SurName>KIPKORIR TENOY</SurName>
+<PhoneNumber>211929242300</PhoneNumber>
+<IDType>Passport</IDType>
+<IDReference>CK28710</IDReference>
+<ContactStatus></ContactStatus>
+</Contacts>
+<AddressLine1></AddressLine1>
+<AddressLine2></AddressLine2>
+<AddressLine3></AddressLine3>
+<TownCity>JUBA</TownCity>
+<PostCode></PostCode>
+<CompanyUniqueIdenitifer></CompanyUniqueIdenitifer>
+<RuleProfile>25052</RuleProfile>
+</IdentityStrings>
+<IdentityStrings>
+<UniqueSystemIdentifier>201000000000032006</UniqueSystemIdentifier>
+<Account>
+<AccountID>500000000110171161</AccountID>
+<AccountType>Commission Account</AccountType>
+<AccountName></AccountName>
+<AccountStatus>Closed</AccountStatus>
+<AccountCurrency>SSP</AccountCurrency>
+</Account>
+<Account>
+<AccountID>500000000110171179</AccountID>
+<AccountType>Organization eMoney Account (Float Account)</AccountType>
+<AccountName></AccountName>
+<AccountStatus>Closed</AccountStatus>
+<AccountCurrency>SSP</AccountCurrency>
+</Account>
+<Account>
+<AccountID>500000000110171187</AccountID>
+<AccountType>Organization eMoney Account (working Account)</AccountType>
+<AccountName></AccountName>
+<AccountStatus>Closed</AccountStatus>
+<AccountCurrency>SSP</AccountCurrency>
+</Account>
+<ChargeProfile>Organization Charge Profile</ChargeProfile>
+<DateIdentityRegistered>20190626113941</DateIdentityRegistered>
+<DateRiskRatingwasLastUpdated></DateRiskRatingwasLastUpdated>
+<IdentityStatus>Closed</IdentityStatus>
+<IdentityType>Organization</IdentityType>
+<OrganizationName>Majier Daniel Chol</OrganizationName>
+<OrganizationRiskRating></OrganizationRiskRating>
+<OrganizationUniqueReferenceDetails>100203</OrganizationUniqueReferenceDetails>
+<ParentUniqueReferenceIdentifier>201000000000032001</ParentUniqueReferenceIdentifier>
+<ParentName>GLOBAL FINANCE CABLES COMPANY LTD</ParentName>
+<Products></Products>
+<Segment></Segment>
+<TrustLevel>Child Organization Trust Level 1</TrustLevel>
+<Contacts>
+<ContactType>Main Contact</ContactType>
+<FirstName>LOCH SAMUEL DENG</FirstName>
+<SecondName></SecondName>
+<SurName>MADING</SurName>
+<PhoneNumber>211917317374</PhoneNumber>
+<IDType>National ID</IDType>
+<IDReference>M98000065352693</IDReference>
+<ContactStatus></ContactStatus>
+</Contacts>
+<AddressLine1></AddressLine1>
+<AddressLine2></AddressLine2>
+<AddressLine3></AddressLine3>
+<TownCity>JUBA</TownCity>
+<PostCode></PostCode>
+<CompanyUniqueIdenitifer></CompanyUniqueIdenitifer>
+<RuleProfile>25053</RuleProfile>
+</IdentityStrings>
+<IdentityStrings>
+<UniqueSystemIdentifier>201000000000032007</UniqueSystemIdentifier>
+<Account>
+<AccountID>500000000110171195</AccountID>
+<AccountType>Commission Account</AccountType>
+<AccountName></AccountName>
+<AccountStatus>Active</AccountStatus>
+<AccountCurrency>SSP</AccountCurrency>
+</Account>
+<Account>
+<AccountID>500000000110171203</AccountID>
+<AccountType>Organization eMoney Account (Float Account)</AccountType>
+<AccountName></AccountName>
+<AccountStatus>Active</AccountStatus>
+<AccountCurrency>SSP</AccountCurrency>
+</Account>
+<Account>
+<AccountID>500000000110171211</AccountID>
+<AccountType>Organization eMoney Account (working Account)</AccountType>
+<AccountName></AccountName>
+<AccountStatus>Active</AccountStatus>
+<AccountCurrency>SSP</AccountCurrency>
+</Account>
+<ChargeProfile>Organization Charge Profile</ChargeProfile>
+<DateIdentityRegistered>20190626133809</DateIdentityRegistered>
+<DateRiskRatingwasLastUpdated></DateRiskRatingwasLastUpdated>
+<IdentityStatus>Active</IdentityStatus>
+<IdentityType>Organization</IdentityType>
+<OrganizationName>TULIPS COLLECTION LIMITED</OrganizationName>
+<OrganizationRiskRating></OrganizationRiskRating>
+<OrganizationUniqueReferenceDetails>100205</OrganizationUniqueReferenceDetails>
+<ParentUniqueReferenceIdentifier>201000000000032001</ParentUniqueReferenceIdentifier>
+<ParentName>GLOBAL FINANCE CABLES COMPANY LTD</ParentName>
+<Products>Agency Store Owned  Product</Products>
+<Segment></Segment>
+<TrustLevel>Child Organization Trust Level 1</TrustLevel>
+<Contacts>
+<ContactType>Main Contact</ContactType>
+<FirstName>ANN WAMBUI</FirstName>
+<SecondName></SecondName>
+<SurName>KIMANI</SurName>
+<PhoneNumber>211916347170</PhoneNumber>
+<IDType>Passport</IDType>
+<IDReference>C034130</IDReference>
+<ContactStatus></ContactStatus>
+</Contacts>
+<AddressLine1></AddressLine1>
+<AddressLine2></AddressLine2>
+<AddressLine3></AddressLine3>
+<TownCity>JUBA</TownCity>
+<PostCode></PostCode>
+<CompanyUniqueIdenitifer></CompanyUniqueIdenitifer>
+<RuleProfile>25053</RuleProfile>
+</IdentityStrings>
+<IdentityStrings>
+<UniqueSystemIdentifier>201000000000032008</UniqueSystemIdentifier>
+<Account>
+<AccountID>500000000110171229</AccountID>
+<AccountType>Commission Account</AccountType>
+<AccountName></AccountName>
+<AccountStatus>Active</AccountStatus>
+<AccountCurrency>SSP</AccountCurrency>
+</Account>
+<Account>
+<AccountID>500000000110171237</AccountID>
+<AccountType>Organization eMoney Account (Float Account)</AccountType>
+<AccountName></AccountName>
+<AccountStatus>Active</AccountStatus>
+<AccountCurrency>SSP</AccountCurrency>
+</Account>
+<Account>
+<AccountID>500000000110171245</AccountID>
+<AccountType>Organization eMoney Account (working Account)</AccountType>
+<AccountName></AccountName>
+<AccountStatus>Active</AccountStatus>
+<AccountCurrency>SSP</AccountCurrency>
+</Account>
+<ChargeProfile>Organization Charge Profile</ChargeProfile>
+<DateIdentityRegistered>20190626174328</DateIdentityRegistered>
+<DateRiskRatingwasLastUpdated></DateRiskRatingwasLastUpdated>
+<IdentityStatus>Active</IdentityStatus>
+<IdentityType>Organization</IdentityType>
+<OrganizationName>GAMMETH GENERAL TRADING COMPANY LTD</OrganizationName>
+<OrganizationRiskRating></OrganizationRiskRating>
+<OrganizationUniqueReferenceDetails>100215</OrganizationUniqueReferenceDetails>
+<ParentUniqueReferenceIdentifier>201000000000032001</ParentUniqueReferenceIdentifier>
+<ParentName>GLOBAL FINANCE CABLES COMPANY LTD</ParentName>
+<Products>Agency Store Owned  Product</Products>
+<Segment></Segment>
+<TrustLevel>Child Organization Trust Level 1</TrustLevel>
+<Contacts>
+<ContactType>Main Contact</ContactType>
+<FirstName>ALIER</FirstName>
+<SecondName></SecondName>
+<SurName>AGANY</SurName>
+<PhoneNumber>0917646632</PhoneNumber>
+<IDType>National ID</IDType>
+<IDReference>M8200000275385</IDReference>
+<ContactStatus></ContactStatus>
+</Contacts>
+<AddressLine1></AddressLine1>
+<AddressLine2></AddressLine2>
+<AddressLine3></AddressLine3>
+<TownCity>JUBA</TownCity>
+<PostCode></PostCode>
+<CompanyUniqueIdenitifer></CompanyUniqueIdenitifer>
+<RuleProfile>25053</RuleProfile>
+</IdentityStrings>
+<IdentityStrings>
+<UniqueSystemIdentifier>201000000000032009</UniqueSystemIdentifier>
+<Account>
+<AccountID>500000000110171252</AccountID>
+<AccountType>Commission Account</AccountType>
+<AccountName></AccountName>
+<AccountStatus>Active</AccountStatus>
+<AccountCurrency>SSP</AccountCurrency>
+</Account>
+<Account>
+<AccountID>500000000110171260</AccountID>
+<AccountType>Organization eMoney Account (Float Account)</AccountType>
+<AccountName></AccountName>
+<AccountStatus>Active</AccountStatus>
+<AccountCurrency>SSP</AccountCurrency>
+</Account>
+<Account>
+<AccountID>500000000110171278</AccountID>
+<AccountType>Organization eMoney Account (working Account)</AccountType>
+<AccountName></AccountName>
+<AccountStatus>Active</AccountStatus>
+<AccountCurrency>SSP</AccountCurrency>
+</Account>
+<ChargeProfile>Organization Charge Profile</ChargeProfile>
+<DateIdentityRegistered>20190626174911</DateIdentityRegistered>
+<DateRiskRatingwasLastUpdated></DateRiskRatingwasLastUpdated>
+<IdentityStatus>Active</IdentityStatus>
+<IdentityType>Organization</IdentityType>
+<OrganizationName>PAYOM GENERAL TRADING COMPANY LIMITED</OrganizationName>
+<OrganizationRiskRating></OrganizationRiskRating>
+<OrganizationUniqueReferenceDetails>100211</OrganizationUniqueReferenceDetails>
+<ParentUniqueReferenceIdentifier>201000000000032001</ParentUniqueReferenceIdentifier>
+<ParentName>GLOBAL FINANCE CABLES COMPANY LTD</ParentName>
+<Products>Agency Store Owned  Product</Products>
+<Segment></Segment>
+<TrustLevel>Child Organization Trust Level 1</TrustLevel>
+<Contacts>
+<ContactType>Main Contact</ContactType>
+<FirstName>Atem Jacob</FirstName>
+<SecondName></SecondName>
+<SurName>Deng</SurName>
+<PhoneNumber>0911561650</PhoneNumber>
+<IDType>National ID</IDType>
+<IDReference>M8700001908157</IDReference>
+<ContactStatus></ContactStatus>
+</Contacts>
+<AddressLine1></AddressLine1>
+<AddressLine2></AddressLine2>
+<AddressLine3></AddressLine3>
+<TownCity>Shirikal</TownCity>
+<PostCode></PostCode>
+<CompanyUniqueIdenitifer></CompanyUniqueIdenitifer>
+<RuleProfile>25053</RuleProfile>
+</IdentityStrings>
+<IdentityStrings>
+<UniqueSystemIdentifier>201000000000032010</UniqueSystemIdentifier>
+<Account>
+<AccountID>500000000110171286</AccountID>
+<AccountType>Commission Account</AccountType>
+<AccountName></AccountName>
+<AccountStatus>Active</AccountStatus>
+<AccountCurrency>SSP</AccountCurrency>
+</Account>
+<Account>
+<AccountID>500000000110171294</AccountID>
+<AccountType>Organization eMoney Account (Float Account)</AccountType>
+<AccountName></AccountName>
+<AccountStatus>Active</AccountStatus>
+<AccountCurrency>SSP</AccountCurrency>
+</Account>
+<Account>
+<AccountID>500000000110171302</AccountID>
+<AccountType>Organization eMoney Account (working Account)</AccountType>
+<AccountName></AccountName>
+<AccountStatus>Active</AccountStatus>
+<AccountCurrency>SSP</AccountCurrency>
+</Account>
+<ChargeProfile>Organization Charge Profile</ChargeProfile>
+<DateIdentityRegistered>20190626180549</DateIdentityRegistered>
+<DateRiskRatingwasLastUpdated></DateRiskRatingwasLastUpdated>
+<IdentityStatus>Active</IdentityStatus>
+<IdentityType>Organization</IdentityType>
+<OrganizationName>PETMOS COMPANY LIMITED</OrganizationName>
+<OrganizationRiskRating></OrganizationRiskRating>
+<OrganizationUniqueReferenceDetails>100212</OrganizationUniqueReferenceDetails>
+<ParentUniqueReferenceIdentifier>201000000000032001</ParentUniqueReferenceIdentifier>
+<ParentName>GLOBAL FINANCE CABLES COMPANY LTD</ParentName>
+<Products>Agency Store Owned  Product</Products>
+<Segment></Segment>
+<TrustLevel>Child Organization Trust Level 1</TrustLevel>
+<Contacts>
+<ContactType>Director</ContactType>
+<FirstName>Peter Duku</FirstName>
+<SecondName></SecondName>
+<SurName>Adelino</SurName>
+<PhoneNumber>0922233541</PhoneNumber>
+<IDType>National ID</IDType>
+<IDReference>M75000000571502</IDReference>
+<ContactStatus></ContactStatus>
+</Contacts>
+<AddressLine1></AddressLine1>
+<AddressLine2></AddressLine2>
+<AddressLine3></AddressLine3>
+<TownCity>Juba</TownCity>
+<PostCode></PostCode>
+<CompanyUniqueIdenitifer></CompanyUniqueIdenitifer>
+<RuleProfile>25053</RuleProfile>
+</IdentityStrings>
+<IdentityStrings>
+<UniqueSystemIdentifier>201000000000032011</UniqueSystemIdentifier>
+<Account>
+<AccountID>500000000110171310</AccountID>
+<AccountType>Commission Account</AccountType>
+<AccountName></AccountName>
+<AccountStatus>Active</AccountStatus>
+<AccountCurrency>SSP</AccountCurrency>
+</Account>
+<Account>
+<AccountID>500000000110171328</AccountID>
+<AccountType>Organization eMoney Account (Float Account)</AccountType>
+<AccountName></AccountName>
+<AccountStatus>Active</AccountStatus>
+<AccountCurrency>SSP</AccountCurrency>
+</Account>
+<Account>
+<AccountID>500000000110171336</AccountID>
+<AccountType>Organization eMoney Account (working Account)</AccountType>
+<AccountName></AccountName>
+<AccountStatus>Active</AccountStatus>
+<AccountCurrency>SSP</AccountCurrency>
+</Account>
+<ChargeProfile>Organization Charge Profile</ChargeProfile>
+<DateIdentityRegistered>20190626181655</DateIdentityRegistered>
+<DateRiskRatingwasLastUpdated></DateRiskRatingwasLastUpdated>
+<IdentityStatus>Active</IdentityStatus>
+<IdentityType>Organization</IdentityType>
+<OrganizationName>POPULAR VIEW</OrganizationName>
+<OrganizationRiskRating></OrganizationRiskRating>
+<OrganizationUniqueReferenceDetails>100213</OrganizationUniqueReferenceDetails>
+<ParentUniqueReferenceIdentifier>201000000000032001</ParentUniqueReferenceIdentifier>
+<ParentName>GLOBAL FINANCE CABLES COMPANY LTD</ParentName>
+<Products>Agency Store Owned  Product</Products>
+<Segment></Segment>
+<TrustLevel>Child Organization Trust Level 1</TrustLevel>
+<Contacts>
+<ContactType>Main Contact</ContactType>
+<FirstName>Deng</FirstName>
+<SecondName></SecondName>
+<SurName>John Ahou</SurName>
+<PhoneNumber>0917189492</PhoneNumber>
+<IDType>National ID</IDType>
+<IDReference>M8700001041340</IDReference>
+<ContactStatus></ContactStatus>
+</Contacts>
+<AddressLine1></AddressLine1>
+<AddressLine2></AddressLine2>
+<AddressLine3></AddressLine3>
+<TownCity>Juba</TownCity>
+<PostCode></PostCode>
+<CompanyUniqueIdenitifer></CompanyUniqueIdenitifer>
+<RuleProfile>25053</RuleProfile>
+</IdentityStrings>
+<IdentityStrings>
+<UniqueSystemIdentifier>201000000000032012</UniqueSystemIdentifier>
+<Account>
+<AccountID>500000000110171344</AccountID>
+<AccountType>Commission Account</AccountType>
+<AccountName></AccountName>
+<AccountStatus>Active</AccountStatus>
+<AccountCurrency>SSP</AccountCurrency>
+</Account>
+<Account>
+<AccountID>500000000110171351</AccountID>
+<AccountType>Organization eMoney Account (Float Account)</AccountType>
+<AccountName></AccountName>
+<AccountStatus>Active</AccountStatus>
+<AccountCurrency>SSP</AccountCurrency>
+</Account>
+<Account>
+<AccountID>500000000110171369</AccountID>
+<AccountType>Organization eMoney Account (working Account)</AccountType>
+<AccountName></AccountName>
+<AccountStatus>Active</AccountStatus>
+<AccountCurrency>SSP</AccountCurrency>
+</Account>
+<ChargeProfile>Organization Charge Profile</ChargeProfile>
+<DateIdentityRegistered>20190626182355</DateIdentityRegistered>
+<DateRiskRatingwasLastUpdated></DateRiskRatingwasLastUpdated>
+<IdentityStatus>Active</IdentityStatus>
+<IdentityType>Organization</IdentityType>
+<OrganizationName>WOOD LAND MONEY TRANFER</OrganizationName>
+<OrganizationRiskRating></OrganizationRiskRating>
+<OrganizationUniqueReferenceDetails>100217</OrganizationUniqueReferenceDetails>
+<ParentUniqueReferenceIdentifier>201000000000032001</ParentUniqueReferenceIdentifier>
+<ParentName>GLOBAL FINANCE CABLES COMPANY LTD</ParentName>
+<Products>Agency Store Owned  Product</Products>
+<Segment></Segment>
+<TrustLevel>Child Organization Trust Level 1</TrustLevel>
+<Contacts>
+<ContactType>Main Contact</ContactType>
+<FirstName>NGONG</FirstName>
+<SecondName></SecondName>
+<SurName>DENG</SurName>
+<PhoneNumber>0928767905</PhoneNumber>
+<IDType>National ID</IDType>
+<IDReference>M800003385960</IDReference>
+<ContactStatus></ContactStatus>
+</Contacts>
+<AddressLine1></AddressLine1>
+<AddressLine2></AddressLine2>
+<AddressLine3></AddressLine3>
+<TownCity>JUBA</TownCity>
+<PostCode></PostCode>
+<CompanyUniqueIdenitifer></CompanyUniqueIdenitifer>
+<RuleProfile>25053</RuleProfile>
+</IdentityStrings>
+<IdentityStrings>
+<UniqueSystemIdentifier>201000000000032013</UniqueSystemIdentifier>
+<Account>
+<AccountID>500000000110171377</AccountID>
+<AccountType>Commission Account</AccountType>
+<AccountName></AccountName>
+<AccountStatus>Active</AccountStatus>
+<AccountCurrency>SSP</AccountCurrency>
+</Account>
+<Account>
+<AccountID>500000000110171385</AccountID>
+<AccountType>Organization eMoney Account (Float Account)</AccountType>
+<AccountName></AccountName>
+<AccountStatus>Active</AccountStatus>
+<AccountCurrency>SSP</AccountCurrency>
+</Account>
+<Account>
+<AccountID>500000000110171393</AccountID>
+<AccountType>Organization eMoney Account (working Account)</AccountType>
+<AccountName></AccountName>
+<AccountStatus>Active</AccountStatus>
+<AccountCurrency>SSP</AccountCurrency>
+</Account>
+<ChargeProfile>Organization Charge Profile</ChargeProfile>
+<DateIdentityRegistered>20190626183055</DateIdentityRegistered>
+<DateRiskRatingwasLastUpdated></DateRiskRatingwasLastUpdated>
+<IdentityStatus>Active</IdentityStatus>
+<IdentityType>Organization</IdentityType>
+<OrganizationName>LAU AFRICA COMPANY LTD</OrganizationName>
+<OrganizationRiskRating></OrganizationRiskRating>
+<OrganizationUniqueReferenceDetails>100210</OrganizationUniqueReferenceDetails>
+<ParentUniqueReferenceIdentifier>201000000000032001</ParentUniqueReferenceIdentifier>
+<ParentName>GLOBAL FINANCE CABLES COMPANY LTD</ParentName>
+<Products>Agency Store Owned  Product</Products>
+<Segment></Segment>
+<TrustLevel>Child Organization Trust Level 1</TrustLevel>
+<Contacts>
+<ContactType>Main Contact</ContactType>
+<FirstName>MAJUR THIONG NUER</FirstName>
+<SecondName></SecondName>
+<SurName>GUGUEI</SurName>
+<PhoneNumber>0916786426</PhoneNumber>
+<IDType>National ID</IDType>
+<IDReference>M9500006378815</IDReference>
+<ContactStatus></ContactStatus>
+</Contacts>
+<AddressLine1></AddressLine1>
+<AddressLine2></AddressLine2>
+<AddressLine3></AddressLine3>
+<TownCity>JUBELS</TownCity>
+<PostCode></PostCode>
+<CompanyUniqueIdenitifer></CompanyUniqueIdenitifer>
+<RuleProfile>25053</RuleProfile>
+</IdentityStrings>
+<IdentityStrings>
+<UniqueSystemIdentifier>201000000000032014</UniqueSystemIdentifier>
+<Account>
+<AccountID>500000000110171401</AccountID>
+<AccountType>Commission Account</AccountType>
+<AccountName></AccountName>
+<AccountStatus>Active</AccountStatus>
+<AccountCurrency>SSP</AccountCurrency>
+</Account>
+<Account>
+<AccountID>500000000110171419</AccountID>
+<AccountType>Organization eMoney Account (Float Account)</AccountType>
+<AccountName></AccountName>
+<AccountStatus>Active</AccountStatus>
+<AccountCurrency>SSP</AccountCurrency>
+</Account>
+<Account>
+<AccountID>500000000110171427</AccountID>
+<AccountType>Organization eMoney Account (working Account)</AccountType>
+<AccountName></AccountName>
+<AccountStatus>Active</AccountStatus>
+<AccountCurrency>SSP</AccountCurrency>
+</Account>
+<ChargeProfile>Organization Charge Profile</ChargeProfile>
+<DateIdentityRegistered>20190626192549</DateIdentityRegistered>
+<DateRiskRatingwasLastUpdated></DateRiskRatingwasLastUpdated>
+<IdentityStatus>Active</IdentityStatus>
+<IdentityType>Organization</IdentityType>
+<OrganizationName>GAMETH GENERAL TRADING CO LTD NIMULE</OrganizationName>
+<OrganizationRiskRating></OrganizationRiskRating>
+<OrganizationUniqueReferenceDetails>100218</OrganizationUniqueReferenceDetails>
+<ParentUniqueReferenceIdentifier>201000000000032001</ParentUniqueReferenceIdentifier>
+<ParentName>GLOBAL FINANCE CABLES COMPANY LTD</ParentName>
+<Products>Agency Store Owned  Product</Products>
+<Segment></Segment>
+<TrustLevel>Child Organization Trust Level 1</TrustLevel>
+<Contacts>
+<ContactType>Main Contact</ContactType>
+<FirstName>David</FirstName>
+<SecondName></SecondName>
+<SurName>Agany Alier</SurName>
+<PhoneNumber>0917646632</PhoneNumber>
+<IDType>National ID</IDType>
+<IDReference>M8200000275385</IDReference>
+<ContactStatus></ContactStatus>
+</Contacts>
+<AddressLine1></AddressLine1>
+<AddressLine2></AddressLine2>
+<AddressLine3></AddressLine3>
+<TownCity>Juba</TownCity>
+<PostCode></PostCode>
+<CompanyUniqueIdenitifer></CompanyUniqueIdenitifer>
+<RuleProfile>25053</RuleProfile>
+</IdentityStrings>
+<IdentityStrings>
+<UniqueSystemIdentifier>201000000000032015</UniqueSystemIdentifier>
+<Account>
+<AccountID>500000000110171435</AccountID>
+<AccountType>Commission Account</AccountType>
+<AccountName></AccountName>
+<AccountStatus>Active</AccountStatus>
+<AccountCurrency>SSP</AccountCurrency>
+</Account>
+<Account>
+<AccountID>500000000110171443</AccountID>
+<AccountType>Organization eMoney Account (Float Account)</AccountType>
+<AccountName></AccountName>
+<AccountStatus>Active</AccountStatus>
+<AccountCurrency>SSP</AccountCurrency>
+</Account>
+<Account>
+<AccountID>500000000110171450</AccountID>
+<AccountType>Organization eMoney Account (working Account)</AccountType>
+<AccountName></AccountName>
+<AccountStatus>Active</AccountStatus>
+<AccountCurrency>SSP</AccountCurrency>
+</Account>
+<ChargeProfile>Organization Charge Profile</ChargeProfile>
+<DateIdentityRegistered>20190626193609</DateIdentityRegistered>
+<DateRiskRatingwasLastUpdated></DateRiskRatingwasLastUpdated>
+<IdentityStatus>Active</IdentityStatus>
+<IdentityType>Organization</IdentityType>
+<OrganizationName>GAMETH GENERAL TRADING CO LTD BOR</OrganizationName>
+<OrganizationRiskRating></OrganizationRiskRating>
+<OrganizationUniqueReferenceDetails>100219</OrganizationUniqueReferenceDetails>
+<ParentUniqueReferenceIdentifier>201000000000032001</ParentUniqueReferenceIdentifier>
+<ParentName>GLOBAL FINANCE CABLES COMPANY LTD</ParentName>
+<Products>Agency Store Owned  Product</Products>
+<Segment></Segment>
+<TrustLevel>Child Organization Trust Level 1</TrustLevel>
+<Contacts>
+<ContactType>Main Contact</ContactType>
+<FirstName>Agany</FirstName>
+<SecondName></SecondName>
+<SurName>Alier David</SurName>
+<PhoneNumber>0917646632</PhoneNumber>
+<IDType>National ID</IDType>
+<IDReference>M8200000275385</IDReference>
+<ContactStatus></ContactStatus>
+</Contacts>
+<AddressLine1></AddressLine1>
+<AddressLine2></AddressLine2>
+<AddressLine3></AddressLine3>
+<TownCity>Bor</TownCity>
+<PostCode></PostCode>
+<CompanyUniqueIdenitifer></CompanyUniqueIdenitifer>
+<RuleProfile>25053</RuleProfile>
+</IdentityStrings>
+<IdentityStrings>
+<UniqueSystemIdentifier>201000000000032016</UniqueSystemIdentifier>
+<Account>
+<AccountID>500000000110171468</AccountID>
+<AccountType>Commission Account</AccountType>
+<AccountName></AccountName>
+<AccountStatus>Active</AccountStatus>
+<AccountCurrency>SSP</AccountCurrency>
+</Account>
+<Account>
+<AccountID>500000000110171476</AccountID>
+<AccountType>Organization eMoney Account (Float Account)</AccountType>
+<AccountName></AccountName>
+<AccountStatus>Active</AccountStatus>
+<AccountCurrency>SSP</AccountCurrency>
+</Account>
+<Account>
+<AccountID>500000000110171484</AccountID>
+<AccountType>Organization eMoney Account (working Account)</AccountType>
+<AccountName></AccountName>
+<AccountStatus>Active</AccountStatus>
+<AccountCurrency>SSP</AccountCurrency>
+</Account>
+<ChargeProfile>Organization Charge Profile</ChargeProfile>
+<DateIdentityRegistered>20190627125627</DateIdentityRegistered>
+<DateRiskRatingwasLastUpdated></DateRiskRatingwasLastUpdated>
+<IdentityStatus>Active</IdentityStatus>
+<IdentityType>Organization</IdentityType>
+<OrganizationName>PINYDA GENERAL TRADING COM LTD PANYAGOORA</OrganizationName>
+<OrganizationRiskRating></OrganizationRiskRating>
+<OrganizationUniqueReferenceDetails>100222</OrganizationUniqueReferenceDetails>
+<ParentUniqueReferenceIdentifier>201000000000032001</ParentUniqueReferenceIdentifier>
+<ParentName>GLOBAL FINANCE CABLES COMPANY LTD</ParentName>
+<Products>Agency Store Owned  Product</Products>
+<Segment></Segment>
+<TrustLevel>Child Organization Trust Level 1</TrustLevel>
+<Contacts>
+<ContactType>Main Contact</ContactType>
+<FirstName>MANYOK PETER KUCHRIN</FirstName>
+<SecondName></SecondName>
+<SurName>AWUOL</SurName>
+<PhoneNumber>211913138877</PhoneNumber>
+<IDType>National ID</IDType>
+<IDReference>M8800004575728</IDReference>
+<ContactStatus></ContactStatus>
+</Contacts>
+<AddressLine1></AddressLine1>
+<AddressLine2></AddressLine2>
+<AddressLine3></AddressLine3>
+<TownCity>WAU</TownCity>
+<PostCode></PostCode>
+<CompanyUniqueIdenitifer></CompanyUniqueIdenitifer>
+<RuleProfile>25053</RuleProfile>
+</IdentityStrings>
+<IdentityStrings>
+<UniqueSystemIdentifier>201000000000032017</UniqueSystemIdentifier>
+<Account>
+<AccountID>500000000110171492</AccountID>
+<AccountType>Commission Account</AccountType>
+<AccountName></AccountName>
+<AccountStatus>Active</AccountStatus>
+<AccountCurrency>SSP</AccountCurrency>
+</Account>
+<Account>
+<AccountID>500000000110171500</AccountID>
+<AccountType>Organization eMoney Account (Float Account)</AccountType>
+<AccountName></AccountName>
+<AccountStatus>Active</AccountStatus>
+<AccountCurrency>SSP</AccountCurrency>
+</Account>
+<Account>
+<AccountID>500000000110171518</AccountID>
+<AccountType>Organization eMoney Account (working Account)</AccountType>
+<AccountName></AccountName>
+<AccountStatus>Active</AccountStatus>
+<AccountCurrency>SSP</AccountCurrency>
+</Account>
+<ChargeProfile>Organization Charge Profile</ChargeProfile>
+<DateIdentityRegistered>20190627131151</DateIdentityRegistered>
+<DateRiskRatingwasLastUpdated></DateRiskRatingwasLastUpdated>
+<IdentityStatus>Active</IdentityStatus>
+<IdentityType>Organization</IdentityType>
+<OrganizationName>PINYDA GENERAL TRADING COM LTD JUBA</OrganizationName>
+<OrganizationRiskRating></OrganizationRiskRating>
+<OrganizationUniqueReferenceDetails>100224</OrganizationUniqueReferenceDetails>
+<ParentUniqueReferenceIdentifier>201000000000032001</ParentUniqueReferenceIdentifier>
+<ParentName>GLOBAL FINANCE CABLES COMPANY LTD</ParentName>
+<Products>Agency Store Owned  Product</Products>
+<Segment></Segment>
+<TrustLevel>Child Organization Trust Level 1</TrustLevel>
+<Contacts>
+<ContactType>Main Contact</ContactType>
+<FirstName>MANYOK PETER KUCHRIN</FirstName>
+<SecondName></SecondName>
+<SurName>AWUOL</SurName>
+<PhoneNumber>211913138877</PhoneNumber>
+<IDType>National ID</IDType>
+<IDReference>M8800004575728</IDReference>
+<ContactStatus></ContactStatus>
+</Contacts>
+<AddressLine1></AddressLine1>
+<AddressLine2></AddressLine2>
+<AddressLine3></AddressLine3>
+<TownCity>JUBA</TownCity>
+<PostCode></PostCode>
+<CompanyUniqueIdenitifer></CompanyUniqueIdenitifer>
+<RuleProfile>25053</RuleProfile>
+</IdentityStrings>
+<IdentityStrings>
+<UniqueSystemIdentifier>201000000000032018</UniqueSystemIdentifier>
+<Account>
+<AccountID>500000000110171526</AccountID>
+<AccountType>Commission Account</AccountType>
+<AccountName></AccountName>
+<AccountStatus>Active</AccountStatus>
+<AccountCurrency>SSP</AccountCurrency>
+</Account>
+<Account>
+<AccountID>500000000110171534</AccountID>
+<AccountType>Organization eMoney Account (Float Account)</AccountType>
+<AccountName></AccountName>
+<AccountStatus>Active</AccountStatus>
+<AccountCurrency>SSP</AccountCurrency>
+</Account>
+<Account>
+<AccountID>500000000110171542</AccountID>
+<AccountType>Organization eMoney Account (working Account)</AccountType>
+<AccountName></AccountName>
+<AccountStatus>Active</AccountStatus>
+<AccountCurrency>SSP</AccountCurrency>
+</Account>
+<ChargeProfile>Organization Charge Profile</ChargeProfile>
+<DateIdentityRegistered>20190627132559</DateIdentityRegistered>
+<DateRiskRatingwasLastUpdated></DateRiskRatingwasLastUpdated>
+<IdentityStatus>Active</IdentityStatus>
+<IdentityType>Organization</IdentityType>
+<OrganizationName>SUPER GRAND ENTERPRISES LTD EYIDA</OrganizationName>
+<OrganizationRiskRating></OrganizationRiskRating>
+<OrganizationUniqueReferenceDetails>100226</OrganizationUniqueReferenceDetails>
+<ParentUniqueReferenceIdentifier>201000000000032001</ParentUniqueReferenceIdentifier>
+<ParentName>GLOBAL FINANCE CABLES COMPANY LTD</ParentName>
+<Products>Agency Store Owned  Product</Products>
+<Segment></Segment>
+<TrustLevel>Child Organization Trust Level 1</TrustLevel>
+<Contacts>
+<ContactType>Main Contact</ContactType>
+<FirstName>MAJOK YOL AJETH</FirstName>
+<SecondName></SecondName>
+<SurName>YOL</SurName>
+<PhoneNumber>211929600609</PhoneNumber>
+<IDType>National ID</IDType>
+<IDReference>M8500004865219</IDReference>
+<ContactStatus></ContactStatus>
+</Contacts>
+<AddressLine1></AddressLine1>
+<AddressLine2></AddressLine2>
+<AddressLine3></AddressLine3>
+<TownCity>JUBA</TownCity>
+<PostCode></PostCode>
+<CompanyUniqueIdenitifer></CompanyUniqueIdenitifer>
+<RuleProfile>25053</RuleProfile>
+</IdentityStrings>
+<IdentityStrings>
+<UniqueSystemIdentifier>201000000000032019</UniqueSystemIdentifier>
+<Account>
+<AccountID>500000000110171559</AccountID>
+<AccountType>Commission Account</AccountType>
+<AccountName></AccountName>
+<AccountStatus>Active</AccountStatus>
+<AccountCurrency>SSP</AccountCurrency>
+</Account>
+<Account>
+<AccountID>500000000110171567</AccountID>
+<AccountType>Organization eMoney Account (Float Account)</AccountType>
+<AccountName></AccountName>
+<AccountStatus>Active</AccountStatus>
+<AccountCurrency>SSP</AccountCurrency>
+</Account>
+<Account>
+<AccountID>500000000110171575</AccountID>
+<AccountType>Organization eMoney Account (working Account)</AccountType>
+<AccountName></AccountName>
+<AccountStatus>Active</AccountStatus>
+<AccountCurrency>SSP</AccountCurrency>
+</Account>
+<ChargeProfile>Organization Charge Profile</ChargeProfile>
+<DateIdentityRegistered>20190627133810</DateIdentityRegistered>
+<DateRiskRatingwasLastUpdated></DateRiskRatingwasLastUpdated>
+<IdentityStatus>Active</IdentityStatus>
+<IdentityType>Organization</IdentityType>
+<OrganizationName>MATARATIBU LTD BOR</OrganizationName>
+<OrganizationRiskRating></OrganizationRiskRating>
+<OrganizationUniqueReferenceDetails>100250</OrganizationUniqueReferenceDetails>
+<ParentUniqueReferenceIdentifier>201000000000032001</ParentUniqueReferenceIdentifier>
+<ParentName>GLOBAL FINANCE CABLES COMPANY LTD</ParentName>
+<Products>Agency Store Owned  Product</Products>
+<Segment></Segment>
+<TrustLevel>Child Organization Trust Level 1</TrustLevel>
+<Contacts>
+<ContactType>Main Contact</ContactType>
+<FirstName>GARANG MAKUEI GARANG</FirstName>
+<SecondName></SecondName>
+<SurName>MANGAR</SurName>
+<PhoneNumber>0916793705</PhoneNumber>
+<IDType>Passport</IDType>
+<IDReference>R00247648</IDReference>
+<ContactStatus></ContactStatus>
+</Contacts>
+<AddressLine1></AddressLine1>
+<AddressLine2></AddressLine2>
+<AddressLine3></AddressLine3>
+<TownCity>BOR</TownCity>
+<PostCode></PostCode>
+<CompanyUniqueIdenitifer></CompanyUniqueIdenitifer>
+<RuleProfile>25053</RuleProfile>
+</IdentityStrings>
+<IdentityStrings>
+<UniqueSystemIdentifier>201000000000032020</UniqueSystemIdentifier>
+<Account>
+<AccountID>500000000110171583</AccountID>
+<AccountType>Commission Account</AccountType>
+<AccountName></AccountName>
+<AccountStatus>Active</AccountStatus>
+<AccountCurrency>SSP</AccountCurrency>
+</Account>
+<Account>
+<AccountID>500000000110171591</AccountID>
+<AccountType>Organization eMoney Account (Float Account)</AccountType>
+<AccountName></AccountName>
+<AccountStatus>Active</AccountStatus>
+<AccountCurrency>SSP</AccountCurrency>
+</Account>
+<Account>
+<AccountID>500000000110171609</AccountID>
+<AccountType>Organization eMoney Account (working Account)</AccountType>
+<AccountName></AccountName>
+<AccountStatus>Active</AccountStatus>
+<AccountCurrency>SSP</AccountCurrency>
+</Account>
+<ChargeProfile>Organization Charge Profile</ChargeProfile>
+<DateIdentityRegistered>20190627134220</DateIdentityRegistered>
+<DateRiskRatingwasLastUpdated></DateRiskRatingwasLastUpdated>
+<IdentityStatus>Active</IdentityStatus>
+<IdentityType>Organization</IdentityType>
+<OrganizationName>DUURI GENERAL TRADING CO LTD</OrganizationName>
+<OrganizationRiskRating></OrganizationRiskRating>
+<OrganizationUniqueReferenceDetails>100228</OrganizationUniqueReferenceDetails>
+<ParentUniqueReferenceIdentifier>201000000000032001</ParentUniqueReferenceIdentifier>
+<ParentName>GLOBAL FINANCE CABLES COMPANY LTD</ParentName>
+<Products>Agency Store Owned  Product</Products>
+<Segment></Segment>
+<TrustLevel>Child Organization Trust Level 1</TrustLevel>
+<Contacts>
+<ContactType>Main Contact</ContactType>
+<FirstName>JOHN ACHIEK KUR</FirstName>
+<SecondName></SecondName>
+<SurName>MAMER</SurName>
+<PhoneNumber>211922381304</PhoneNumber>
+<IDType>National ID</IDType>
+<IDReference>M8300003140698</IDReference>
+<ContactStatus></ContactStatus>
+</Contacts>
+<AddressLine1></AddressLine1>
+<AddressLine2></AddressLine2>
+<AddressLine3></AddressLine3>
+<TownCity>JUBA</TownCity>
+<PostCode></PostCode>
+<CompanyUniqueIdenitifer></CompanyUniqueIdenitifer>
+<RuleProfile>25053</RuleProfile>
+</IdentityStrings>
+<IdentityStrings>
+<UniqueSystemIdentifier>201000000000032021</UniqueSystemIdentifier>
+<Account>
+<AccountID>500000000110171617</AccountID>
+<AccountType>Commission Account</AccountType>
+<AccountName></AccountName>
+<AccountStatus>Closed</AccountStatus>
+<AccountCurrency>SSP</AccountCurrency>
+</Account>
+<Account>
+<AccountID>500000000110171625</AccountID>
+<AccountType>Organization eMoney Account (Float Account)</AccountType>
+<AccountName></AccountName>
+<AccountStatus>Closed</AccountStatus>
+<AccountCurrency>SSP</AccountCurrency>
+</Account>
+<Account>
+<AccountID>500000000110171633</AccountID>
+<AccountType>Organization eMoney Account (working Account)</AccountType>
+<AccountName></AccountName>
+<AccountStatus>Closed</AccountStatus>
+<AccountCurrency>SSP</AccountCurrency>
+</Account>
+<ChargeProfile>Organization Charge Profile</ChargeProfile>
+<DateIdentityRegistered>20190627135754</DateIdentityRegistered>
+<DateRiskRatingwasLastUpdated></DateRiskRatingwasLastUpdated>
+<IdentityStatus>Closed</IdentityStatus>
+<IdentityType>Organization</IdentityType>
+<OrganizationName>BODA BODA GENERAL TRADING</OrganizationName>
+<OrganizationRiskRating></OrganizationRiskRating>
+<OrganizationUniqueReferenceDetails>000081</OrganizationUniqueReferenceDetails>
+<ParentUniqueReferenceIdentifier>201000000000032001</ParentUniqueReferenceIdentifier>
+<ParentName>GLOBAL FINANCE CABLES COMPANY LTD</ParentName>
+<Products></Products>
+<Segment></Segment>
+<TrustLevel>Child Organization Trust Level 1</TrustLevel>
+<Contacts>
+<ContactType>Main Contact</ContactType>
+<FirstName>DENG JOSEPH ADUUR</FirstName>
+<SecondName></SecondName>
+<SurName>GAK</SurName>
+<PhoneNumber>211916010543</PhoneNumber>
+<IDType>National ID</IDType>
+<IDReference>M8600002761475</IDReference>
+<ContactStatus></ContactStatus>
+</Contacts>
+<AddressLine1></AddressLine1>
+<AddressLine2></AddressLine2>
+<AddressLine3></AddressLine3>
+<TownCity>JUBA</TownCity>
+<PostCode></PostCode>
+<CompanyUniqueIdenitifer></CompanyUniqueIdenitifer>
+<RuleProfile>25053</RuleProfile>
+</IdentityStrings>
+<IdentityStrings>
+<UniqueSystemIdentifier>201000000000032022</UniqueSystemIdentifier>
+<Account>
+<AccountID>500000000110171641</AccountID>
+<AccountType>Commission Account</AccountType>
+<AccountName></AccountName>
+<AccountStatus>Active</AccountStatus>
+<AccountCurrency>SSP</AccountCurrency>
+</Account>
+<Account>
+<AccountID>500000000110171658</AccountID>
+<AccountType>Organization eMoney Account (Float Account)</AccountType>
+<AccountName></AccountName>
+<AccountStatus>Active</AccountStatus>
+<AccountCurrency>SSP</AccountCurrency>
+</Account>
+<Account>
+<AccountID>500000000110171666</AccountID>
+<AccountType>Organization eMoney Account (working Account)</AccountType>
+<AccountName></AccountName>
+<AccountStatus>Active</AccountStatus>
+<AccountCurrency>SSP</AccountCurrency>
+</Account>
+<ChargeProfile>Organization Charge Profile</ChargeProfile>
+<DateIdentityRegistered>20190627140634</DateIdentityRegistered>
+<DateRiskRatingwasLastUpdated></DateRiskRatingwasLastUpdated>
+<IdentityStatus>Active</IdentityStatus>
+<IdentityType>Organization</IdentityType>
+<OrganizationName>MATARATIBU LTD RAJAF EAST</OrganizationName>
+<OrganizationRiskRating></OrganizationRiskRating>
+<OrganizationUniqueReferenceDetails>100253</OrganizationUniqueReferenceDetails>
+<ParentUniqueReferenceIdentifier>201000000000032001</ParentUniqueReferenceIdentifier>
+<ParentName>GLOBAL FINANCE CABLES COMPANY LTD</ParentName>
+<Products>Agency Store Owned  Product</Products>
+<Segment></Segment>
+<TrustLevel>Child Organization Trust Level 1</TrustLevel>
+<Contacts>
+<ContactType>Main Contact</ContactType>
+<FirstName>GARANG MAKUEI GARANG</FirstName>
+<SecondName></SecondName>
+<SurName>MANGAR</SurName>
+<PhoneNumber>0916793705</PhoneNumber>
+<IDType>Passport</IDType>
+<IDReference>R00247648</IDReference>
+<ContactStatus></ContactStatus>
+</Contacts>
+<AddressLine1></AddressLine1>
+<AddressLine2></AddressLine2>
+<AddressLine3></AddressLine3>
+<TownCity>BOR</TownCity>
+<PostCode></PostCode>
+<CompanyUniqueIdenitifer></CompanyUniqueIdenitifer>
+<RuleProfile>25053</RuleProfile>
+</IdentityStrings>
+<IdentityStrings>
+<UniqueSystemIdentifier>201000000000032023</UniqueSystemIdentifier>
+<Account>
+<AccountID>500000000110171674</AccountID>
+<AccountType>Commission Account</AccountType>
+<AccountName></AccountName>
+<AccountStatus>Active</AccountStatus>
+<AccountCurrency>SSP</AccountCurrency>
+</Account>
+<Account>
+<AccountID>500000000110171682</AccountID>
+<AccountType>Organization eMoney Account (Float Account)</AccountType>
+<AccountName></AccountName>
+<AccountStatus>Active</AccountStatus>
+<AccountCurrency>SSP</AccountCurrency>
+</Account>
+<Account>
+<AccountID>500000000110171690</AccountID>
+<AccountType>Organization eMoney Account (working Account)</AccountType>
+<AccountName></AccountName>
+<AccountStatus>Active</AccountStatus>
+<AccountCurrency>SSP</AccountCurrency>
+</Account>
+<ChargeProfile>Organization Charge Profile</ChargeProfile>
+<DateIdentityRegistered>20190627145733</DateIdentityRegistered>
+<DateRiskRatingwasLastUpdated></DateRiskRatingwasLastUpdated>
+<IdentityStatus>Active</IdentityStatus>
+<IdentityType>Organization</IdentityType>
+<OrganizationName>ABC GENERAL TRADING CO LTD JUBA TOWN</OrganizationName>
+<OrganizationRiskRating></OrganizationRiskRating>
+<OrganizationUniqueReferenceDetails>100235</OrganizationUniqueReferenceDetails>
+<ParentUniqueReferenceIdentifier>201000000000032001</ParentUniqueReferenceIdentifier>
+<ParentName>GLOBAL FINANCE CABLES COMPANY LTD</ParentName>
+<Products>Agency Store Owned  Product</Products>
+<Segment></Segment>
+<TrustLevel>Child Organization Trust Level 1</TrustLevel>
+<Contacts>
+<ContactType>Main Contact</ContactType>
+<FirstName>AMAATH YIER ACIOT</FirstName>
+<SecondName></SecondName>
+<SurName>THIIK</SurName>
+<PhoneNumber>0913350390</PhoneNumber>
+<IDType>National ID</IDType>
+<IDReference>M8600002689458</IDReference>
+<ContactStatus></ContactStatus>
+</Contacts>
+<AddressLine1></AddressLine1>
+<AddressLine2></AddressLine2>
+<AddressLine3></AddressLine3>
+<TownCity>JUBA</TownCity>
+<PostCode></PostCode>
+<CompanyUniqueIdenitifer></CompanyUniqueIdenitifer>
+<RuleProfile>25053</RuleProfile>
+</IdentityStrings>
+<IdentityStrings>
+<UniqueSystemIdentifier>201000000000032024</UniqueSystemIdentifier>
+<Account>
+<AccountID>500000000110171708</AccountID>
+<AccountType>Commission Account</AccountType>
+<AccountName></AccountName>
+<AccountStatus>Active</AccountStatus>
+<AccountCurrency>SSP</AccountCurrency>
+</Account>
+<Account>
+<AccountID>500000000110171716</AccountID>
+<AccountType>Organization eMoney Account (Float Account)</AccountType>
+<AccountName></AccountName>
+<AccountStatus>Active</AccountStatus>
+<AccountCurrency>SSP</AccountCurrency>
+</Account>
+<Account>
+<AccountID>500000000110171724</AccountID>
+<AccountType>Organization eMoney Account (working Account)</AccountType>
+<AccountName></AccountName>
+<AccountStatus>Active</AccountStatus>
+<AccountCurrency>SSP</AccountCurrency>
+</Account>
+<ChargeProfile>Organization Charge Profile</ChargeProfile>
+<DateIdentityRegistered>20190627150358</DateIdentityRegistered>
+<DateRiskRatingwasLastUpdated></DateRiskRatingwasLastUpdated>
+<IdentityStatus>Active</IdentityStatus>
+<IdentityType>Organization</IdentityType>
+<OrganizationName>ABC GENERAL TRADING CO LTD RUMBEK EAST</OrganizationName>
+<OrganizationRiskRating></OrganizationRiskRating>
+<OrganizationUniqueReferenceDetails>100241</OrganizationUniqueReferenceDetails>
+<ParentUniqueReferenceIdentifier>201000000000032001</ParentUniqueReferenceIdentifier>
+<ParentName>GLOBAL FINANCE CABLES COMPANY LTD</ParentName>
+<Products>Agency Store Owned  Product</Products>
+<Segment></Segment>
+<TrustLevel>Child Organization Trust Level 1</TrustLevel>
+<Contacts>
+<ContactType>Director</ContactType>
+<FirstName>Thiik</FirstName>
+<SecondName></SecondName>
+<SurName>Bol Riiny</SurName>
+<PhoneNumber>0913350390</PhoneNumber>
+<IDType>National ID</IDType>
+<IDReference>M8600002689458</IDReference>
+<ContactStatus></ContactStatus>
+</Contacts>
+<AddressLine1></AddressLine1>
+<AddressLine2></AddressLine2>
+<AddressLine3></AddressLine3>
+<TownCity>Rumbek East</TownCity>
+<PostCode></PostCode>
+<CompanyUniqueIdenitifer></CompanyUniqueIdenitifer>
+<RuleProfile>25053</RuleProfile>
+</IdentityStrings>
+<IdentityStrings>
+<UniqueSystemIdentifier>201000000000032025</UniqueSystemIdentifier>
+<Account>
+<AccountID>500000000110171732</AccountID>
+<AccountType>Commission Account</AccountType>
+<AccountName></AccountName>
+<AccountStatus>Active</AccountStatus>
+<AccountCurrency>SSP</AccountCurrency>
+</Account>
+<Account>
+<AccountID>500000000110171740</AccountID>
+<AccountType>Organization eMoney Account (Float Account)</AccountType>
+<AccountName></AccountName>
+<AccountStatus>Active</AccountStatus>
+<AccountCurrency>SSP</AccountCurrency>
+</Account>
+<Account>
+<AccountID>500000000110171757</AccountID>
+<AccountType>Organization eMoney Account (working Account)</AccountType>
+<AccountName></AccountName>
+<AccountStatus>Active</AccountStatus>
+<AccountCurrency>SSP</AccountCurrency>
+</Account>
+<ChargeProfile>Organization Charge Profile</ChargeProfile>
+<DateIdentityRegistered>20190627150936</DateIdentityRegistered>
+<DateRiskRatingwasLastUpdated></DateRiskRatingwasLastUpdated>
+<IdentityStatus>Active</IdentityStatus>
+<IdentityType>Organization</IdentityType>
+<OrganizationName>ABC GENERAL TRADING CO LTD CUEI BET</OrganizationName>
+<OrganizationRiskRating></OrganizationRiskRating>
+<OrganizationUniqueReferenceDetails>100243</OrganizationUniqueReferenceDetails>
+<ParentUniqueReferenceIdentifier>201000000000032001</ParentUniqueReferenceIdentifier>
+<ParentName>GLOBAL FINANCE CABLES COMPANY LTD</ParentName>
+<Products>Agency Store Owned  Product</Products>
+<Segment></Segment>
+<TrustLevel>Child Organization Trust Level 1</TrustLevel>
+<Contacts>
+<ContactType>Director</ContactType>
+<FirstName>Bol Riiny</FirstName>
+<SecondName></SecondName>
+<SurName>Thiik</SurName>
+<PhoneNumber>0913350390</PhoneNumber>
+<IDType>National ID</IDType>
+<IDReference>M8600002689458</IDReference>
+<ContactStatus></ContactStatus>
+</Contacts>
+<AddressLine1></AddressLine1>
+<AddressLine2></AddressLine2>
+<AddressLine3></AddressLine3>
+<TownCity>CUEI BET</TownCity>
+<PostCode></PostCode>
+<CompanyUniqueIdenitifer></CompanyUniqueIdenitifer>
+<RuleProfile>25053</RuleProfile>
+</IdentityStrings>
+<IdentityStrings>
+<UniqueSystemIdentifier>201000000000032026</UniqueSystemIdentifier>
+<Account>
+<AccountID>500000000110171765</AccountID>
+<AccountType>Commission Account</AccountType>
+<AccountName></AccountName>
+<AccountStatus>Active</AccountStatus>
+<AccountCurrency>SSP</AccountCurrency>
+</Account>
+<Account>
+<AccountID>500000000110171773</AccountID>
+<AccountType>Organization eMoney Account (Float Account)</AccountType>
+<AccountName></AccountName>
+<AccountStatus>Active</AccountStatus>
+<AccountCurrency>SSP</AccountCurrency>
+</Account>
+<Account>
+<AccountID>500000000110171781</AccountID>
+<AccountType>Organization eMoney Account (working Account)</AccountType>
+<AccountName></AccountName>
+<AccountStatus>Active</AccountStatus>
+<AccountCurrency>SSP</AccountCurrency>
+</Account>
+<ChargeProfile>Organization Charge Profile</ChargeProfile>
+<DateIdentityRegistered>20190627150958</DateIdentityRegistered>
+<DateRiskRatingwasLastUpdated></DateRiskRatingwasLastUpdated>
+<IdentityStatus>Active</IdentityStatus>
+<IdentityType>Organization</IdentityType>
+<OrganizationName>ABC GENERAL TRADING CO LTD JUBA GUDELE</OrganizationName>
+<OrganizationRiskRating></OrganizationRiskRating>
+<OrganizationUniqueReferenceDetails>100237</OrganizationUniqueReferenceDetails>
+<ParentUniqueReferenceIdentifier>201000000000032001</ParentUniqueReferenceIdentifier>
+<ParentName>GLOBAL FINANCE CABLES COMPANY LTD</ParentName>
+<Products>Agency Store Owned  Product</Products>
+<Segment></Segment>
+<TrustLevel>Child Organization Trust Level 1</TrustLevel>
+<Contacts>
+<ContactType>Main Contact</ContactType>
+<FirstName>AMAATH YIER ACIOT</FirstName>
+<SecondName></SecondName>
+<SurName>THIIK</SurName>
+<PhoneNumber>0913350390</PhoneNumber>
+<IDType>National ID</IDType>
+<IDReference>M8600002689458</IDReference>
+<ContactStatus></ContactStatus>
+</Contacts>
+<AddressLine1></AddressLine1>
+<AddressLine2></AddressLine2>
+<AddressLine3></AddressLine3>
+<TownCity>JUBA TOWN</TownCity>
+<PostCode></PostCode>
+<CompanyUniqueIdenitifer></CompanyUniqueIdenitifer>
+<RuleProfile>25053</RuleProfile>
+</IdentityStrings>
+<IdentityStrings>
+<UniqueSystemIdentifier>201000000000032027</UniqueSystemIdentifier>
+<Account>
+<AccountID>500000000110171799</AccountID>
+<AccountType>Commission Account</AccountType>
+<AccountName></AccountName>
+<AccountStatus>Active</AccountStatus>
+<AccountCurrency>SSP</AccountCurrency>
+</Account>
+<Account>
+<AccountID>500000000110171807</AccountID>
+<AccountType>Organization eMoney Account (Float Account)</AccountType>
+<AccountName></AccountName>
+<AccountStatus>Active</AccountStatus>
+<AccountCurrency>SSP</AccountCurrency>
+</Account>
+<Account>
+<AccountID>500000000110171815</AccountID>
+<AccountType>Organization eMoney Account (working Account)</AccountType>
+<AccountName></AccountName>
+<AccountStatus>Active</AccountStatus>
+<AccountCurrency>SSP</AccountCurrency>
+</Account>
+<ChargeProfile>Organization Charge Profile</ChargeProfile>
+<DateIdentityRegistered>20190627151357</DateIdentityRegistered>
+<DateRiskRatingwasLastUpdated></DateRiskRatingwasLastUpdated>
+<IdentityStatus>Active</IdentityStatus>
+<IdentityType>Organization</IdentityType>
+<OrganizationName>ABC GENERAL TRADING CO LTD JUBA NEWSITE</OrganizationName>
+<OrganizationRiskRating></OrganizationRiskRating>
+<OrganizationUniqueReferenceDetails>100239</OrganizationUniqueReferenceDetails>
+<ParentUniqueReferenceIdentifier>201000000000032001</ParentUniqueReferenceIdentifier>
+<ParentName>GLOBAL FINANCE CABLES COMPANY LTD</ParentName>
+<Products>Agency Store Owned  Product</Products>
+<Segment></Segment>
+<TrustLevel>Child Organization Trust Level 1</TrustLevel>
+<Contacts>
+<ContactType>Main Contact</ContactType>
+<FirstName>AMAATH YIER ACIOT</FirstName>
+<SecondName></SecondName>
+<SurName>THIIK</SurName>
+<PhoneNumber>0913350390</PhoneNumber>
+<IDType>National ID</IDType>
+<IDReference>M8600002689458</IDReference>
+<ContactStatus></ContactStatus>
+</Contacts>
+<AddressLine1></AddressLine1>
+<AddressLine2></AddressLine2>
+<AddressLine3></AddressLine3>
+<TownCity>JUBA</TownCity>
+<PostCode></PostCode>
+<CompanyUniqueIdenitifer></CompanyUniqueIdenitifer>
+<RuleProfile>25053</RuleProfile>
+</IdentityStrings>
+<IdentityStrings>
+<UniqueSystemIdentifier>201000000000032028</UniqueSystemIdentifier>
+<Account>
+<AccountID>500000000110171823</AccountID>
+<AccountType>Commission Account</AccountType>
+<AccountName></AccountName>
+<AccountStatus>Active</AccountStatus>
+<AccountCurrency>SSP</AccountCurrency>
+</Account>
+<Account>
+<AccountID>500000000110171831</AccountID>
+<AccountType>Organization eMoney Account (Float Account)</AccountType>
+<AccountName></AccountName>
+<AccountStatus>Active</AccountStatus>
+<AccountCurrency>SSP</AccountCurrency>
+</Account>
+<Account>
+<AccountID>500000000110171849</AccountID>
+<AccountType>Organization eMoney Account (working Account)</AccountType>
+<AccountName></AccountName>
+<AccountStatus>Active</AccountStatus>
+<AccountCurrency>SSP</AccountCurrency>
+</Account>
+<ChargeProfile>Organization Charge Profile</ChargeProfile>
+<DateIdentityRegistered>20190627152659</DateIdentityRegistered>
+<DateRiskRatingwasLastUpdated></DateRiskRatingwasLastUpdated>
+<IdentityStatus>Active</IdentityStatus>
+<IdentityType>Organization</IdentityType>
+<OrganizationName>ABC GENERAL TRADING CO LTD WAU TOWN</OrganizationName>
+<OrganizationRiskRating></OrganizationRiskRating>
+<OrganizationUniqueReferenceDetails>100245</OrganizationUniqueReferenceDetails>
+<ParentUniqueReferenceIdentifier>201000000000032001</ParentUniqueReferenceIdentifier>
+<ParentName>GLOBAL FINANCE CABLES COMPANY LTD</ParentName>
+<Products>Agency Store Owned  Product</Products>
+<Segment></Segment>
+<TrustLevel>Child Organization Trust Level 1</TrustLevel>
+<Contacts>
+<ContactType>Director</ContactType>
+<FirstName>Bol Riiny</FirstName>
+<SecondName></SecondName>
+<SurName>Thiik</SurName>
+<PhoneNumber>0913350390</PhoneNumber>
+<IDType>National ID</IDType>
+<IDReference>M8600002689458</IDReference>
+<ContactStatus></ContactStatus>
+</Contacts>
+<AddressLine1></AddressLine1>
+<AddressLine2></AddressLine2>
+<AddressLine3></AddressLine3>
+<TownCity>WAU TOWN</TownCity>
+<PostCode></PostCode>
+<CompanyUniqueIdenitifer></CompanyUniqueIdenitifer>
+<RuleProfile>25053</RuleProfile>
+</IdentityStrings>
+<IdentityStrings>
+<UniqueSystemIdentifier>201000000000032029</UniqueSystemIdentifier>
+<Account>
+<AccountID>500000000110171856</AccountID>
+<AccountType>Commission Account</AccountType>
+<AccountName></AccountName>
+<AccountStatus>Active</AccountStatus>
+<AccountCurrency>SSP</AccountCurrency>
+</Account>
+<Account>
+<AccountID>500000000110171864</AccountID>
+<AccountType>Organization eMoney Account (Float Account)</AccountType>
+<AccountName></AccountName>
+<AccountStatus>Active</AccountStatus>
+<AccountCurrency>SSP</AccountCurrency>
+</Account>
+<Account>
+<AccountID>500000000110171872</AccountID>
+<AccountType>Organization eMoney Account (working Account)</AccountType>
+<AccountName></AccountName>
+<AccountStatus>Active</AccountStatus>
+<AccountCurrency>SSP</AccountCurrency>
+</Account>
+<ChargeProfile>Organization Charge Profile</ChargeProfile>
+<DateIdentityRegistered>20190627153156</DateIdentityRegistered>
+<DateRiskRatingwasLastUpdated></DateRiskRatingwasLastUpdated>
+<IdentityStatus>Active</IdentityStatus>
+<IdentityType>Organization</IdentityType>
+<OrganizationName>ABC GENERAL TRADING CO LTD LIETNOM</OrganizationName>
+<OrganizationRiskRating></OrganizationRiskRating>
+<OrganizationUniqueReferenceDetails>100247</OrganizationUniqueReferenceDetails>
+<ParentUniqueReferenceIdentifier>201000000000032001</ParentUniqueReferenceIdentifier>
+<ParentName>GLOBAL FINANCE CABLES COMPANY LTD</ParentName>
+<Products>Agency Store Owned  Product</Products>
+<Segment></Segment>
+<TrustLevel>Child Organization Trust Level 1</TrustLevel>
+<Contacts>
+<ContactType>Director</ContactType>
+<FirstName>Bol Riiny</FirstName>
+<SecondName></SecondName>
+<SurName>Thiik</SurName>
+<PhoneNumber>0913350390</PhoneNumber>
+<IDType>National ID</IDType>
+<IDReference>M8600002689458</IDReference>
+<ContactStatus></ContactStatus>
+</Contacts>
+<AddressLine1></AddressLine1>
+<AddressLine2></AddressLine2>
+<AddressLine3></AddressLine3>
+<TownCity>LIETNOM</TownCity>
+<PostCode></PostCode>
+<CompanyUniqueIdenitifer></CompanyUniqueIdenitifer>
+<RuleProfile>25053</RuleProfile>
+</IdentityStrings>
+<IdentityStrings>
+<UniqueSystemIdentifier>201000000000032030</UniqueSystemIdentifier>
+<Account>
+<AccountID>500000000110171880</AccountID>
+<AccountType>Commission Account</AccountType>
+<AccountName></AccountName>
+<AccountStatus>Active</AccountStatus>
+<AccountCurrency>SSP</AccountCurrency>
+</Account>
+<Account>
+<AccountID>500000000110171898</AccountID>
+<AccountType>Organization eMoney Account (Float Account)</AccountType>
+<AccountName></AccountName>
+<AccountStatus>Active</AccountStatus>
+<AccountCurrency>SSP</AccountCurrency>
+</Account>
+<Account>
+<AccountID>500000000110171906</AccountID>
+<AccountType>Organization eMoney Account (working Account)</AccountType>
+<AccountName></AccountName>
+<AccountStatus>Active</AccountStatus>
+<AccountCurrency>SSP</AccountCurrency>
+</Account>
+<ChargeProfile>Organization Charge Profile</ChargeProfile>
+<DateIdentityRegistered>20190627153710</DateIdentityRegistered>
+<DateRiskRatingwasLastUpdated></DateRiskRatingwasLastUpdated>
+<IdentityStatus>Active</IdentityStatus>
+<IdentityType>Organization</IdentityType>
+<OrganizationName>ABC GENERAL TRADING CO LTD WARRAP</OrganizationName>
+<OrganizationRiskRating></OrganizationRiskRating>
+<OrganizationUniqueReferenceDetails>100249</OrganizationUniqueReferenceDetails>
+<ParentUniqueReferenceIdentifier>201000000000032001</ParentUniqueReferenceIdentifier>
+<ParentName>GLOBAL FINANCE CABLES COMPANY LTD</ParentName>
+<Products>Agency Store Owned  Product</Products>
+<Segment></Segment>
+<TrustLevel>Child Organization Trust Level 1</TrustLevel>
+<Contacts>
+<ContactType>Director</ContactType>
+<FirstName>Bol Riiny</FirstName>
+<SecondName></SecondName>
+<SurName>Thiik</SurName>
+<PhoneNumber>0913350390</PhoneNumber>
+<IDType>National ID</IDType>
+<IDReference>M8600002689458</IDReference>
+<ContactStatus></ContactStatus>
+</Contacts>
+<AddressLine1></AddressLine1>
+<AddressLine2></AddressLine2>
+<AddressLine3></AddressLine3>
+<TownCity>WARRAP</TownCity>
+<PostCode></PostCode>
+<CompanyUniqueIdenitifer></CompanyUniqueIdenitifer>
+<RuleProfile>25053</RuleProfile>
+</IdentityStrings>
+<IdentityStrings>
+<UniqueSystemIdentifier>201000000000032031</UniqueSystemIdentifier>
+<Account>
+<AccountID>500000000110171914</AccountID>
+<AccountType>Commission Account</AccountType>
+<AccountName></AccountName>
+<AccountStatus>Active</AccountStatus>
+<AccountCurrency>SSP</AccountCurrency>
+</Account>
+<Account>
+<AccountID>500000000110171922</AccountID>
+<AccountType>Organization eMoney Account (Float Account)</AccountType>
+<AccountName></AccountName>
+<AccountStatus>Active</AccountStatus>
+<AccountCurrency>SSP</AccountCurrency>
+</Account>
+<Account>
+<AccountID>500000000110171930</AccountID>
+<AccountType>Organization eMoney Account (working Account)</AccountType>
+<AccountName></AccountName>
+<AccountStatus>Active</AccountStatus>
+<AccountCurrency>SSP</AccountCurrency>
+</Account>
+<ChargeProfile>Organization Charge Profile</ChargeProfile>
+<DateIdentityRegistered>20190627155204</DateIdentityRegistered>
+<DateRiskRatingwasLastUpdated></DateRiskRatingwasLastUpdated>
+<IdentityStatus>Active</IdentityStatus>
+<IdentityType>Organization</IdentityType>
+<OrganizationName>KONYROO GENERAL TRADING AND INVESTMENT</OrganizationName>
+<OrganizationRiskRating></OrganizationRiskRating>
+<OrganizationUniqueReferenceDetails>100232</OrganizationUniqueReferenceDetails>
+<ParentUniqueReferenceIdentifier>201000000000032001</ParentUniqueReferenceIdentifier>
+<ParentName>GLOBAL FINANCE CABLES COMPANY LTD</ParentName>
+<Products>Agency Store Owned  Product</Products>
+<Segment></Segment>
+<TrustLevel>Child Organization Trust Level 1</TrustLevel>
+<Contacts>
+<ContactType>Main Contact</ContactType>
+<FirstName>DHOR THOMAS KUOL</FirstName>
+<SecondName></SecondName>
+<SurName>REECH</SurName>
+<PhoneNumber>0920007909</PhoneNumber>
+<IDType>National ID</IDType>
+<IDReference>M8900000908233</IDReference>
+<ContactStatus></ContactStatus>
+</Contacts>
+<AddressLine1></AddressLine1>
+<AddressLine2></AddressLine2>
+<AddressLine3></AddressLine3>
+<TownCity>JUBA</TownCity>
+<PostCode></PostCode>
+<CompanyUniqueIdenitifer></CompanyUniqueIdenitifer>
+<RuleProfile>25053</RuleProfile>
+</IdentityStrings>
+</Organizations>
+<Footer>Number of Records:57</Footer>
+<Checksum>DC2D1455B47739123E201707F7B2552743AADCA59F4C4FA32F8D8322B9285EF5</Checksum>
+</AMLWatchList>

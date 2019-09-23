@@ -9,6 +9,7 @@
   "author": "KIM J",
   "license": "MIT",
   "dependencies": {
+    "ftp": "^0.3.10",
     "ssh2-sftp-client": "^4.1.0"
   }
 }

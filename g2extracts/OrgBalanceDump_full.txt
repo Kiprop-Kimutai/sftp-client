@@ -1,0 +1,1669 @@
+Short Code, Account Type, Available Balance, Currency, Date
+100200,Organization eMoney Account (working Account),0.00,SSP,2019-06-22 03:00:02
+123456,Organization eMoney Account (working Account),0.00,SSP,2019-06-22 03:00:02
+123457,Organization eMoney Account (working Account),0.00,SSP,2019-06-22 03:00:02
+100202,Organization eMoney Account (working Account),0.00,SSP,2019-06-22 03:00:02
+100201,Organization eMoney Account (working Account),0.00,SSP,2019-06-22 03:00:02
+100200,Commission Account,0.00,SSP,2019-06-22 03:00:02
+123456,Commission Account,0.00,SSP,2019-06-22 03:00:02
+123457,Commission Account,0.00,SSP,2019-06-22 03:00:02
+100202,Commission Account,0.00,SSP,2019-06-22 03:00:02
+100201,Commission Account,0.00,SSP,2019-06-22 03:00:02
+100200,Organization eMoney Account (Float Account),0.00,SSP,2019-06-22 03:00:02
+123456,Organization eMoney Account (Float Account),0.00,SSP,2019-06-22 03:00:02
+123457,Organization eMoney Account (Float Account),0.00,SSP,2019-06-22 03:00:02
+100202,Organization eMoney Account (Float Account),0.00,SSP,2019-06-22 03:00:02
+100201,Organization eMoney Account (Float Account),0.00,SSP,2019-06-22 03:00:02
+Short Code, Account Type, Available Balance, Currency, Date
+100200,Organization eMoney Account (working Account),400000.00,SSP,2019-06-23 03:00:01
+123456,Organization eMoney Account (working Account),0.00,SSP,2019-06-23 03:00:01
+123457,Organization eMoney Account (working Account),0.00,SSP,2019-06-23 03:00:01
+100202,Organization eMoney Account (working Account),0.00,SSP,2019-06-23 03:00:01
+100201,Organization eMoney Account (working Account),0.00,SSP,2019-06-23 03:00:01
+100200,Commission Account,0.00,SSP,2019-06-23 03:00:01
+123456,Commission Account,0.00,SSP,2019-06-23 03:00:01
+123457,Commission Account,0.00,SSP,2019-06-23 03:00:01
+100202,Commission Account,74.00,SSP,2019-06-23 03:00:01
+100201,Commission Account,0.00,SSP,2019-06-23 03:00:01
+100200,Organization eMoney Account (Float Account),200000.00,SSP,2019-06-23 03:00:01
+123456,Organization eMoney Account (Float Account),0.00,SSP,2019-06-23 03:00:01
+123457,Organization eMoney Account (Float Account),0.00,SSP,2019-06-23 03:00:01
+100202,Organization eMoney Account (Float Account),93460.00,SSP,2019-06-23 03:00:01
+100201,Organization eMoney Account (Float Account),0.00,SSP,2019-06-23 03:00:01
+Short Code, Account Type, Available Balance, Currency, Date
+100200,Organization eMoney Account (working Account),400000.00,SSP,2019-06-24 03:00:01
+123456,Organization eMoney Account (working Account),0.00,SSP,2019-06-24 03:00:01
+123457,Organization eMoney Account (working Account),0.00,SSP,2019-06-24 03:00:01
+100202,Organization eMoney Account (working Account),0.00,SSP,2019-06-24 03:00:01
+100201,Organization eMoney Account (working Account),0.00,SSP,2019-06-24 03:00:01
+100200,Commission Account,0.00,SSP,2019-06-24 03:00:01
+123456,Commission Account,0.00,SSP,2019-06-24 03:00:01
+123457,Commission Account,0.00,SSP,2019-06-24 03:00:01
+100202,Commission Account,74.00,SSP,2019-06-24 03:00:01
+100201,Commission Account,0.00,SSP,2019-06-24 03:00:01
+100200,Organization eMoney Account (Float Account),200000.00,SSP,2019-06-24 03:00:01
+123456,Organization eMoney Account (Float Account),0.00,SSP,2019-06-24 03:00:01
+123457,Organization eMoney Account (Float Account),0.00,SSP,2019-06-24 03:00:01
+100202,Organization eMoney Account (Float Account),93460.00,SSP,2019-06-24 03:00:01
+100201,Organization eMoney Account (Float Account),0.00,SSP,2019-06-24 03:00:01
+Short Code, Account Type, Available Balance, Currency, Date
+100200,Organization eMoney Account (working Account),398250.00,SSP,2019-06-25 03:00:02
+123456,Organization eMoney Account (working Account),0.00,SSP,2019-06-25 03:00:02
+123457,Organization eMoney Account (working Account),0.00,SSP,2019-06-25 03:00:02
+100202,Organization eMoney Account (working Account),0.00,SSP,2019-06-25 03:00:02
+100201,Organization eMoney Account (working Account),0.00,SSP,2019-06-25 03:00:02
+100200,Commission Account,0.00,SSP,2019-06-25 03:00:02
+123456,Commission Account,0.00,SSP,2019-06-25 03:00:02
+123457,Commission Account,0.00,SSP,2019-06-25 03:00:02
+100202,Commission Account,74.00,SSP,2019-06-25 03:00:02
+100201,Commission Account,0.00,SSP,2019-06-25 03:00:02
+100200,Organization eMoney Account (Float Account),200000.00,SSP,2019-06-25 03:00:02
+123456,Organization eMoney Account (Float Account),0.00,SSP,2019-06-25 03:00:02
+123457,Organization eMoney Account (Float Account),0.00,SSP,2019-06-25 03:00:02
+100202,Organization eMoney Account (Float Account),93460.00,SSP,2019-06-25 03:00:02
+100201,Organization eMoney Account (Float Account),0.00,SSP,2019-06-25 03:00:02
+Short Code, Account Type, Available Balance, Currency, Date
+100300,Organization eMoney Account (working Account),0.00,SSP,2019-06-26 03:00:02
+100200,Organization eMoney Account (working Account),398250.00,SSP,2019-06-26 03:00:02
+123456,Organization eMoney Account (working Account),0.00,SSP,2019-06-26 03:00:02
+123457,Organization eMoney Account (working Account),0.00,SSP,2019-06-26 03:00:02
+100202,Organization eMoney Account (working Account),0.00,SSP,2019-06-26 03:00:02
+100201,Organization eMoney Account (working Account),0.00,SSP,2019-06-26 03:00:02
+100300,Commission Account,0.00,SSP,2019-06-26 03:00:02
+100200,Commission Account,0.00,SSP,2019-06-26 03:00:02
+123456,Commission Account,0.00,SSP,2019-06-26 03:00:02
+123457,Commission Account,0.00,SSP,2019-06-26 03:00:02
+100202,Commission Account,120.00,SSP,2019-06-26 03:00:02
+100201,Commission Account,0.00,SSP,2019-06-26 03:00:02
+100300,Organization eMoney Account (Float Account),0.00,SSP,2019-06-26 03:00:02
+100200,Organization eMoney Account (Float Account),200000.00,SSP,2019-06-26 03:00:02
+123456,Organization eMoney Account (Float Account),0.00,SSP,2019-06-26 03:00:02
+123457,Organization eMoney Account (Float Account),0.00,SSP,2019-06-26 03:00:02
+100202,Organization eMoney Account (Float Account),89410.00,SSP,2019-06-26 03:00:02
+100201,Organization eMoney Account (Float Account),0.00,SSP,2019-06-26 03:00:02
+Short Code, Account Type, Available Balance, Currency, Date
+100300,Organization eMoney Account (working Account),0.00,SSP,2019-06-27 03:00:03
+100210,Organization eMoney Account (working Account),0.00,SSP,2019-06-27 03:00:03
+100215,Organization eMoney Account (working Account),0.00,SSP,2019-06-27 03:00:03
+100200,Organization eMoney Account (working Account),398250.00,SSP,2019-06-27 03:00:03
+100219,Organization eMoney Account (working Account),0.00,SSP,2019-06-27 03:00:03
+100206,Organization eMoney Account (working Account),0.00,SSP,2019-06-27 03:00:03
+100220,Organization eMoney Account (working Account),0.00,SSP,2019-06-27 03:00:03
+100214,Organization eMoney Account (working Account),0.00,SSP,2019-06-27 03:00:03
+100209,Organization eMoney Account (working Account),0.00,SSP,2019-06-27 03:00:03
+100207,Organization eMoney Account (working Account),0.00,SSP,2019-06-27 03:00:03
+123456,Organization eMoney Account (working Account),0.00,SSP,2019-06-27 03:00:03
+100212,Organization eMoney Account (working Account),0.00,SSP,2019-06-27 03:00:03
+100211,Organization eMoney Account (working Account),0.00,SSP,2019-06-27 03:00:03
+100205,Organization eMoney Account (working Account),0.00,SSP,2019-06-27 03:00:03
+123457,Organization eMoney Account (working Account),0.00,SSP,2019-06-27 03:00:03
+100217,Organization eMoney Account (working Account),0.00,SSP,2019-06-27 03:00:03
+100218,Organization eMoney Account (working Account),0.00,SSP,2019-06-27 03:00:03
+100221,Organization eMoney Account (working Account),0.00,SSP,2019-06-27 03:00:03
+100204,Organization eMoney Account (working Account),0.00,SSP,2019-06-27 03:00:03
+100213,Organization eMoney Account (working Account),0.00,SSP,2019-06-27 03:00:03
+100202,Organization eMoney Account (working Account),0.00,SSP,2019-06-27 03:00:03
+100208,Organization eMoney Account (working Account),0.00,SSP,2019-06-27 03:00:03
+100216,Organization eMoney Account (working Account),0.00,SSP,2019-06-27 03:00:03
+100201,Organization eMoney Account (working Account),0.00,SSP,2019-06-27 03:00:03
+100300,Commission Account,0.00,SSP,2019-06-27 03:00:03
+100210,Commission Account,0.00,SSP,2019-06-27 03:00:03
+100215,Commission Account,0.00,SSP,2019-06-27 03:00:03
+100200,Commission Account,0.00,SSP,2019-06-27 03:00:03
+100219,Commission Account,0.00,SSP,2019-06-27 03:00:03
+100206,Commission Account,0.00,SSP,2019-06-27 03:00:03
+123456,Commission Account,0.00,SSP,2019-06-27 03:00:03
+100220,Commission Account,0.00,SSP,2019-06-27 03:00:03
+100214,Commission Account,0.00,SSP,2019-06-27 03:00:03
+100209,Commission Account,0.00,SSP,2019-06-27 03:00:03
+100207,Commission Account,0.00,SSP,2019-06-27 03:00:03
+100212,Commission Account,0.00,SSP,2019-06-27 03:00:03
+100211,Commission Account,0.00,SSP,2019-06-27 03:00:03
+100205,Commission Account,0.00,SSP,2019-06-27 03:00:03
+123457,Commission Account,0.00,SSP,2019-06-27 03:00:03
+100217,Commission Account,0.00,SSP,2019-06-27 03:00:03
+100218,Commission Account,0.00,SSP,2019-06-27 03:00:03
+100221,Commission Account,0.00,SSP,2019-06-27 03:00:03
+100204,Commission Account,0.00,SSP,2019-06-27 03:00:03
+100213,Commission Account,0.00,SSP,2019-06-27 03:00:03
+100202,Commission Account,120.00,SSP,2019-06-27 03:00:03
+100208,Commission Account,0.00,SSP,2019-06-27 03:00:03
+100216,Commission Account,0.00,SSP,2019-06-27 03:00:03
+100201,Commission Account,0.00,SSP,2019-06-27 03:00:03
+100300,Organization eMoney Account (Float Account),0.00,SSP,2019-06-27 03:00:03
+100210,Organization eMoney Account (Float Account),0.00,SSP,2019-06-27 03:00:03
+100215,Organization eMoney Account (Float Account),0.00,SSP,2019-06-27 03:00:03
+100200,Organization eMoney Account (Float Account),200000.00,SSP,2019-06-27 03:00:03
+100219,Organization eMoney Account (Float Account),0.00,SSP,2019-06-27 03:00:03
+100206,Organization eMoney Account (Float Account),0.00,SSP,2019-06-27 03:00:03
+100220,Organization eMoney Account (Float Account),0.00,SSP,2019-06-27 03:00:03
+100214,Organization eMoney Account (Float Account),0.00,SSP,2019-06-27 03:00:03
+100209,Organization eMoney Account (Float Account),0.00,SSP,2019-06-27 03:00:03
+100207,Organization eMoney Account (Float Account),0.00,SSP,2019-06-27 03:00:03
+123456,Organization eMoney Account (Float Account),0.00,SSP,2019-06-27 03:00:03
+100212,Organization eMoney Account (Float Account),0.00,SSP,2019-06-27 03:00:03
+100211,Organization eMoney Account (Float Account),0.00,SSP,2019-06-27 03:00:03
+100205,Organization eMoney Account (Float Account),0.00,SSP,2019-06-27 03:00:03
+123457,Organization eMoney Account (Float Account),0.00,SSP,2019-06-27 03:00:03
+100217,Organization eMoney Account (Float Account),0.00,SSP,2019-06-27 03:00:03
+100218,Organization eMoney Account (Float Account),0.00,SSP,2019-06-27 03:00:03
+100221,Organization eMoney Account (Float Account),0.00,SSP,2019-06-27 03:00:03
+100204,Organization eMoney Account (Float Account),0.00,SSP,2019-06-27 03:00:03
+100213,Organization eMoney Account (Float Account),0.00,SSP,2019-06-27 03:00:03
+100202,Organization eMoney Account (Float Account),89410.00,SSP,2019-06-27 03:00:03
+100208,Organization eMoney Account (Float Account),0.00,SSP,2019-06-27 03:00:03
+100216,Organization eMoney Account (Float Account),0.00,SSP,2019-06-27 03:00:03
+100201,Organization eMoney Account (Float Account),0.00,SSP,2019-06-27 03:00:03
+Short Code, Account Type, Available Balance, Currency, Date
+100300,Organization eMoney Account (working Account),0.00,SSP,2019-06-28 03:00:03
+100235,Organization eMoney Account (working Account),0.00,SSP,2019-06-28 03:00:03
+100228,Organization eMoney Account (working Account),0.00,SSP,2019-06-28 03:00:03
+100251,Organization eMoney Account (working Account),0.00,SSP,2019-06-28 03:00:03
+100223,Organization eMoney Account (working Account),0.00,SSP,2019-06-28 03:00:03
+100210,Organization eMoney Account (working Account),0.00,SSP,2019-06-28 03:00:03
+100215,Organization eMoney Account (working Account),0.00,SSP,2019-06-28 03:00:03
+100200,Organization eMoney Account (working Account),398250.00,SSP,2019-06-28 03:00:03
+100233,Organization eMoney Account (working Account),0.00,SSP,2019-06-28 03:00:03
+100231,Organization eMoney Account (working Account),0.00,SSP,2019-06-28 03:00:03
+100244,Organization eMoney Account (working Account),0.00,SSP,2019-06-28 03:00:03
+100240,Organization eMoney Account (working Account),0.00,SSP,2019-06-28 03:00:03
+100229,Organization eMoney Account (working Account),0.00,SSP,2019-06-28 03:00:03
+100252,Organization eMoney Account (working Account),0.00,SSP,2019-06-28 03:00:03
+100227,Organization eMoney Account (working Account),0.00,SSP,2019-06-28 03:00:03
+100249,Organization eMoney Account (working Account),0.00,SSP,2019-06-28 03:00:03
+100239,Organization eMoney Account (working Account),0.00,SSP,2019-06-28 03:00:03
+100241,Organization eMoney Account (working Account),0.00,SSP,2019-06-28 03:00:03
+100253,Organization eMoney Account (working Account),0.00,SSP,2019-06-28 03:00:03
+100222,Organization eMoney Account (working Account),0.00,SSP,2019-06-28 03:00:03
+100219,Organization eMoney Account (working Account),0.00,SSP,2019-06-28 03:00:03
+100206,Organization eMoney Account (working Account),0.00,SSP,2019-06-28 03:00:03
+100220,Organization eMoney Account (working Account),0.00,SSP,2019-06-28 03:00:03
+100214,Organization eMoney Account (working Account),0.00,SSP,2019-06-28 03:00:03
+100209,Organization eMoney Account (working Account),0.00,SSP,2019-06-28 03:00:03
+100207,Organization eMoney Account (working Account),0.00,SSP,2019-06-28 03:00:03
+123456,Organization eMoney Account (working Account),0.00,SSP,2019-06-28 03:00:03
+100245,Organization eMoney Account (working Account),0.00,SSP,2019-06-28 03:00:03
+100226,Organization eMoney Account (working Account),0.00,SSP,2019-06-28 03:00:03
+100212,Organization eMoney Account (working Account),0.00,SSP,2019-06-28 03:00:03
+100211,Organization eMoney Account (working Account),0.00,SSP,2019-06-28 03:00:03
+100205,Organization eMoney Account (working Account),0.00,SSP,2019-06-28 03:00:03
+123457,Organization eMoney Account (working Account),0.00,SSP,2019-06-28 03:00:03
+100217,Organization eMoney Account (working Account),0.00,SSP,2019-06-28 03:00:03
+100218,Organization eMoney Account (working Account),0.00,SSP,2019-06-28 03:00:03
+100221,Organization eMoney Account (working Account),0.00,SSP,2019-06-28 03:00:03
+100250,Organization eMoney Account (working Account),0.00,SSP,2019-06-28 03:00:03
+100232,Organization eMoney Account (working Account),0.00,SSP,2019-06-28 03:00:03
+100237,Organization eMoney Account (working Account),0.00,SSP,2019-06-28 03:00:03
+100243,Organization eMoney Account (working Account),0.00,SSP,2019-06-28 03:00:03
+100204,Organization eMoney Account (working Account),0.00,SSP,2019-06-28 03:00:03
+100247,Organization eMoney Account (working Account),0.00,SSP,2019-06-28 03:00:03
+100224,Organization eMoney Account (working Account),0.00,SSP,2019-06-28 03:00:03
+100213,Organization eMoney Account (working Account),0.00,SSP,2019-06-28 03:00:03
+100202,Organization eMoney Account (working Account),0.00,SSP,2019-06-28 03:00:03
+100248,Organization eMoney Account (working Account),0.00,SSP,2019-06-28 03:00:03
+100246,Organization eMoney Account (working Account),0.00,SSP,2019-06-28 03:00:03
+100238,Organization eMoney Account (working Account),0.00,SSP,2019-06-28 03:00:03
+100236,Organization eMoney Account (working Account),0.00,SSP,2019-06-28 03:00:03
+100242,Organization eMoney Account (working Account),0.00,SSP,2019-06-28 03:00:03
+100230,Organization eMoney Account (working Account),0.00,SSP,2019-06-28 03:00:03
+100225,Organization eMoney Account (working Account),0.00,SSP,2019-06-28 03:00:03
+100208,Organization eMoney Account (working Account),0.00,SSP,2019-06-28 03:00:03
+100216,Organization eMoney Account (working Account),0.00,SSP,2019-06-28 03:00:03
+100201,Organization eMoney Account (working Account),0.00,SSP,2019-06-28 03:00:03
+100300,Commission Account,0.00,SSP,2019-06-28 03:00:03
+100235,Commission Account,0.00,SSP,2019-06-28 03:00:03
+100228,Commission Account,0.00,SSP,2019-06-28 03:00:03
+100251,Commission Account,0.00,SSP,2019-06-28 03:00:03
+100223,Commission Account,0.00,SSP,2019-06-28 03:00:03
+100210,Commission Account,0.00,SSP,2019-06-28 03:00:03
+100215,Commission Account,0.00,SSP,2019-06-28 03:00:03
+100200,Commission Account,0.00,SSP,2019-06-28 03:00:03
+100233,Commission Account,0.00,SSP,2019-06-28 03:00:03
+100231,Commission Account,0.00,SSP,2019-06-28 03:00:03
+100244,Commission Account,0.00,SSP,2019-06-28 03:00:03
+100240,Commission Account,0.00,SSP,2019-06-28 03:00:03
+100229,Commission Account,0.00,SSP,2019-06-28 03:00:03
+100252,Commission Account,0.00,SSP,2019-06-28 03:00:03
+100227,Commission Account,0.00,SSP,2019-06-28 03:00:03
+100249,Commission Account,0.00,SSP,2019-06-28 03:00:03
+100239,Commission Account,0.00,SSP,2019-06-28 03:00:03
+100241,Commission Account,0.00,SSP,2019-06-28 03:00:03
+100253,Commission Account,0.00,SSP,2019-06-28 03:00:03
+100222,Commission Account,0.00,SSP,2019-06-28 03:00:03
+100219,Commission Account,0.00,SSP,2019-06-28 03:00:03
+100206,Commission Account,0.00,SSP,2019-06-28 03:00:03
+123456,Commission Account,0.00,SSP,2019-06-28 03:00:03
+100220,Commission Account,0.00,SSP,2019-06-28 03:00:03
+100214,Commission Account,0.00,SSP,2019-06-28 03:00:03
+100209,Commission Account,0.00,SSP,2019-06-28 03:00:03
+100207,Commission Account,0.00,SSP,2019-06-28 03:00:03
+100245,Commission Account,0.00,SSP,2019-06-28 03:00:03
+100226,Commission Account,0.00,SSP,2019-06-28 03:00:03
+100212,Commission Account,0.00,SSP,2019-06-28 03:00:03
+100211,Commission Account,0.00,SSP,2019-06-28 03:00:03
+100205,Commission Account,0.00,SSP,2019-06-28 03:00:03
+123457,Commission Account,0.00,SSP,2019-06-28 03:00:03
+100217,Commission Account,0.00,SSP,2019-06-28 03:00:03
+100218,Commission Account,0.00,SSP,2019-06-28 03:00:03
+100221,Commission Account,0.00,SSP,2019-06-28 03:00:03
+100250,Commission Account,0.00,SSP,2019-06-28 03:00:03
+100232,Commission Account,0.00,SSP,2019-06-28 03:00:03
+100237,Commission Account,0.00,SSP,2019-06-28 03:00:03
+100243,Commission Account,0.00,SSP,2019-06-28 03:00:03
+100204,Commission Account,0.00,SSP,2019-06-28 03:00:03
+100247,Commission Account,0.00,SSP,2019-06-28 03:00:03
+100224,Commission Account,0.00,SSP,2019-06-28 03:00:03
+100213,Commission Account,0.00,SSP,2019-06-28 03:00:03
+100202,Commission Account,120.00,SSP,2019-06-28 03:00:03
+100248,Commission Account,0.00,SSP,2019-06-28 03:00:03
+100246,Commission Account,0.00,SSP,2019-06-28 03:00:03
+100238,Commission Account,0.00,SSP,2019-06-28 03:00:03
+100236,Commission Account,0.00,SSP,2019-06-28 03:00:03
+100242,Commission Account,0.00,SSP,2019-06-28 03:00:03
+100230,Commission Account,0.00,SSP,2019-06-28 03:00:03
+100225,Commission Account,0.00,SSP,2019-06-28 03:00:03
+100208,Commission Account,0.00,SSP,2019-06-28 03:00:03
+100216,Commission Account,0.00,SSP,2019-06-28 03:00:03
+100201,Commission Account,0.00,SSP,2019-06-28 03:00:03
+100300,Organization eMoney Account (Float Account),0.00,SSP,2019-06-28 03:00:03
+100235,Organization eMoney Account (Float Account),0.00,SSP,2019-06-28 03:00:03
+100228,Organization eMoney Account (Float Account),0.00,SSP,2019-06-28 03:00:03
+100251,Organization eMoney Account (Float Account),0.00,SSP,2019-06-28 03:00:03
+100223,Organization eMoney Account (Float Account),0.00,SSP,2019-06-28 03:00:03
+100210,Organization eMoney Account (Float Account),0.00,SSP,2019-06-28 03:00:03
+100215,Organization eMoney Account (Float Account),0.00,SSP,2019-06-28 03:00:03
+100200,Organization eMoney Account (Float Account),200000.00,SSP,2019-06-28 03:00:03
+100233,Organization eMoney Account (Float Account),0.00,SSP,2019-06-28 03:00:03
+100231,Organization eMoney Account (Float Account),0.00,SSP,2019-06-28 03:00:03
+100244,Organization eMoney Account (Float Account),0.00,SSP,2019-06-28 03:00:03
+100240,Organization eMoney Account (Float Account),0.00,SSP,2019-06-28 03:00:03
+100229,Organization eMoney Account (Float Account),0.00,SSP,2019-06-28 03:00:03
+100252,Organization eMoney Account (Float Account),0.00,SSP,2019-06-28 03:00:03
+100227,Organization eMoney Account (Float Account),0.00,SSP,2019-06-28 03:00:03
+100249,Organization eMoney Account (Float Account),0.00,SSP,2019-06-28 03:00:03
+100239,Organization eMoney Account (Float Account),0.00,SSP,2019-06-28 03:00:03
+100241,Organization eMoney Account (Float Account),0.00,SSP,2019-06-28 03:00:03
+100253,Organization eMoney Account (Float Account),0.00,SSP,2019-06-28 03:00:03
+100222,Organization eMoney Account (Float Account),0.00,SSP,2019-06-28 03:00:03
+100219,Organization eMoney Account (Float Account),0.00,SSP,2019-06-28 03:00:03
+100206,Organization eMoney Account (Float Account),0.00,SSP,2019-06-28 03:00:03
+100220,Organization eMoney Account (Float Account),0.00,SSP,2019-06-28 03:00:03
+100214,Organization eMoney Account (Float Account),0.00,SSP,2019-06-28 03:00:03
+100209,Organization eMoney Account (Float Account),0.00,SSP,2019-06-28 03:00:03
+100207,Organization eMoney Account (Float Account),0.00,SSP,2019-06-28 03:00:03
+123456,Organization eMoney Account (Float Account),0.00,SSP,2019-06-28 03:00:03
+100245,Organization eMoney Account (Float Account),0.00,SSP,2019-06-28 03:00:03
+100226,Organization eMoney Account (Float Account),0.00,SSP,2019-06-28 03:00:03
+100212,Organization eMoney Account (Float Account),0.00,SSP,2019-06-28 03:00:03
+100211,Organization eMoney Account (Float Account),0.00,SSP,2019-06-28 03:00:03
+100205,Organization eMoney Account (Float Account),0.00,SSP,2019-06-28 03:00:03
+123457,Organization eMoney Account (Float Account),0.00,SSP,2019-06-28 03:00:03
+100217,Organization eMoney Account (Float Account),0.00,SSP,2019-06-28 03:00:03
+100218,Organization eMoney Account (Float Account),0.00,SSP,2019-06-28 03:00:03
+100221,Organization eMoney Account (Float Account),0.00,SSP,2019-06-28 03:00:03
+100250,Organization eMoney Account (Float Account),0.00,SSP,2019-06-28 03:00:03
+100232,Organization eMoney Account (Float Account),0.00,SSP,2019-06-28 03:00:03
+100237,Organization eMoney Account (Float Account),0.00,SSP,2019-06-28 03:00:03
+100243,Organization eMoney Account (Float Account),0.00,SSP,2019-06-28 03:00:03
+100204,Organization eMoney Account (Float Account),0.00,SSP,2019-06-28 03:00:03
+100247,Organization eMoney Account (Float Account),0.00,SSP,2019-06-28 03:00:03
+100224,Organization eMoney Account (Float Account),0.00,SSP,2019-06-28 03:00:03
+100213,Organization eMoney Account (Float Account),0.00,SSP,2019-06-28 03:00:03
+100202,Organization eMoney Account (Float Account),89410.00,SSP,2019-06-28 03:00:03
+100248,Organization eMoney Account (Float Account),0.00,SSP,2019-06-28 03:00:03
+100246,Organization eMoney Account (Float Account),0.00,SSP,2019-06-28 03:00:03
+100238,Organization eMoney Account (Float Account),0.00,SSP,2019-06-28 03:00:03
+100236,Organization eMoney Account (Float Account),0.00,SSP,2019-06-28 03:00:03
+100242,Organization eMoney Account (Float Account),0.00,SSP,2019-06-28 03:00:03
+100230,Organization eMoney Account (Float Account),0.00,SSP,2019-06-28 03:00:03
+100225,Organization eMoney Account (Float Account),0.00,SSP,2019-06-28 03:00:03
+100208,Organization eMoney Account (Float Account),0.00,SSP,2019-06-28 03:00:03
+100216,Organization eMoney Account (Float Account),0.00,SSP,2019-06-28 03:00:03
+100201,Organization eMoney Account (Float Account),0.00,SSP,2019-06-28 03:00:03
+Short Code, Account Type, Available Balance, Currency, Date
+100201,Commission Account,0.00,SSP,2019-06-29 03:00:00
+100201,Organization eMoney Account (Float Account),0.00,SSP,2019-06-29 03:00:00
+100201,Organization eMoney Account (working Account),0.00,SSP,2019-06-29 03:00:00
+100216,Commission Account,0.00,SSP,2019-06-29 03:00:00
+100216,Organization eMoney Account (Float Account),0.00,SSP,2019-06-29 03:00:00
+100216,Organization eMoney Account (working Account),0.00,SSP,2019-06-29 03:00:00
+100208,Commission Account,0.00,SSP,2019-06-29 03:00:00
+100208,Organization eMoney Account (Float Account),0.00,SSP,2019-06-29 03:00:00
+100208,Organization eMoney Account (working Account),0.00,SSP,2019-06-29 03:00:00
+100225,Commission Account,0.00,SSP,2019-06-29 03:00:00
+100225,Organization eMoney Account (Float Account),0.00,SSP,2019-06-29 03:00:00
+100225,Organization eMoney Account (working Account),0.00,SSP,2019-06-29 03:00:00
+100230,Commission Account,0.00,SSP,2019-06-29 03:00:00
+100230,Organization eMoney Account (Float Account),0.00,SSP,2019-06-29 03:00:00
+100230,Organization eMoney Account (working Account),0.00,SSP,2019-06-29 03:00:00
+100242,Commission Account,0.00,SSP,2019-06-29 03:00:00
+100242,Organization eMoney Account (Float Account),0.00,SSP,2019-06-29 03:00:00
+100242,Organization eMoney Account (working Account),0.00,SSP,2019-06-29 03:00:00
+100236,Commission Account,0.00,SSP,2019-06-29 03:00:00
+100236,Organization eMoney Account (Float Account),0.00,SSP,2019-06-29 03:00:00
+100236,Organization eMoney Account (working Account),0.00,SSP,2019-06-29 03:00:00
+100238,Commission Account,0.00,SSP,2019-06-29 03:00:00
+100238,Organization eMoney Account (Float Account),0.00,SSP,2019-06-29 03:00:00
+100238,Organization eMoney Account (working Account),0.00,SSP,2019-06-29 03:00:00
+100246,Commission Account,0.00,SSP,2019-06-29 03:00:00
+100246,Organization eMoney Account (Float Account),0.00,SSP,2019-06-29 03:00:00
+100246,Organization eMoney Account (working Account),0.00,SSP,2019-06-29 03:00:00
+100248,Commission Account,0.00,SSP,2019-06-29 03:00:00
+100248,Organization eMoney Account (Float Account),0.00,SSP,2019-06-29 03:00:00
+100248,Organization eMoney Account (working Account),0.00,SSP,2019-06-29 03:00:00
+100262,Commission Account,0.00,SSP,2019-06-29 03:00:00
+100262,Organization eMoney Account (Float Account),0.00,SSP,2019-06-29 03:00:00
+100262,Organization eMoney Account (working Account),0.00,SSP,2019-06-29 03:00:00
+100202,Commission Account,124.00,SSP,2019-06-29 03:00:00
+100202,Organization eMoney Account (Float Account),89310.00,SSP,2019-06-29 03:00:00
+100202,Organization eMoney Account (working Account),0.00,SSP,2019-06-29 03:00:00
+100213,Commission Account,0.00,SSP,2019-06-29 03:00:00
+100213,Organization eMoney Account (Float Account),0.00,SSP,2019-06-29 03:00:00
+100213,Organization eMoney Account (working Account),0.00,SSP,2019-06-29 03:00:00
+100224,Commission Account,0.00,SSP,2019-06-29 03:00:00
+100224,Organization eMoney Account (Float Account),0.00,SSP,2019-06-29 03:00:00
+100224,Organization eMoney Account (working Account),0.00,SSP,2019-06-29 03:00:00
+100247,Commission Account,0.00,SSP,2019-06-29 03:00:00
+100247,Organization eMoney Account (Float Account),0.00,SSP,2019-06-29 03:00:00
+100247,Organization eMoney Account (working Account),0.00,SSP,2019-06-29 03:00:00
+100256,Commission Account,0.00,SSP,2019-06-29 03:00:00
+100256,Organization eMoney Account (Float Account),0.00,SSP,2019-06-29 03:00:00
+100256,Organization eMoney Account (working Account),0.00,SSP,2019-06-29 03:00:00
+100204,Commission Account,0.00,SSP,2019-06-29 03:00:00
+100204,Organization eMoney Account (Float Account),0.00,SSP,2019-06-29 03:00:00
+100204,Organization eMoney Account (working Account),0.00,SSP,2019-06-29 03:00:00
+100263,Commission Account,0.00,SSP,2019-06-29 03:00:00
+100263,Organization eMoney Account (Float Account),0.00,SSP,2019-06-29 03:00:00
+100263,Organization eMoney Account (working Account),0.00,SSP,2019-06-29 03:00:00
+100243,Commission Account,0.00,SSP,2019-06-29 03:00:00
+100243,Organization eMoney Account (Float Account),0.00,SSP,2019-06-29 03:00:00
+100243,Organization eMoney Account (working Account),0.00,SSP,2019-06-29 03:00:00
+100237,Commission Account,0.00,SSP,2019-06-29 03:00:00
+100237,Organization eMoney Account (Float Account),0.00,SSP,2019-06-29 03:00:00
+100237,Organization eMoney Account (working Account),0.00,SSP,2019-06-29 03:00:00
+100232,Commission Account,0.00,SSP,2019-06-29 03:00:00
+100232,Organization eMoney Account (Float Account),0.00,SSP,2019-06-29 03:00:00
+100232,Organization eMoney Account (working Account),0.00,SSP,2019-06-29 03:00:00
+100250,Commission Account,0.00,SSP,2019-06-29 03:00:00
+100250,Organization eMoney Account (Float Account),0.00,SSP,2019-06-29 03:00:00
+100250,Organization eMoney Account (working Account),0.00,SSP,2019-06-29 03:00:00
+100221,Commission Account,0.00,SSP,2019-06-29 03:00:00
+100221,Organization eMoney Account (Float Account),0.00,SSP,2019-06-29 03:00:00
+100221,Organization eMoney Account (working Account),0.00,SSP,2019-06-29 03:00:00
+100218,Commission Account,0.00,SSP,2019-06-29 03:00:00
+100218,Organization eMoney Account (Float Account),0.00,SSP,2019-06-29 03:00:00
+100218,Organization eMoney Account (working Account),0.00,SSP,2019-06-29 03:00:00
+100260,Commission Account,0.00,SSP,2019-06-29 03:00:00
+100260,Organization eMoney Account (Float Account),0.00,SSP,2019-06-29 03:00:00
+100260,Organization eMoney Account (working Account),0.00,SSP,2019-06-29 03:00:00
+100217,Commission Account,0.00,SSP,2019-06-29 03:00:00
+100217,Organization eMoney Account (Float Account),0.00,SSP,2019-06-29 03:00:00
+100217,Organization eMoney Account (working Account),0.00,SSP,2019-06-29 03:00:00
+123457,Commission Account,0.00,SSP,2019-06-29 03:00:00
+123457,Organization eMoney Account (Float Account),0.00,SSP,2019-06-29 03:00:00
+123457,Organization eMoney Account (working Account),0.00,SSP,2019-06-29 03:00:00
+100205,Commission Account,0.00,SSP,2019-06-29 03:00:00
+100205,Organization eMoney Account (Float Account),0.00,SSP,2019-06-29 03:00:00
+100205,Organization eMoney Account (working Account),0.00,SSP,2019-06-29 03:00:00
+100211,Commission Account,0.00,SSP,2019-06-29 03:00:00
+100211,Organization eMoney Account (Float Account),0.00,SSP,2019-06-29 03:00:00
+100211,Organization eMoney Account (working Account),0.00,SSP,2019-06-29 03:00:00
+100212,Commission Account,0.00,SSP,2019-06-29 03:00:00
+100212,Organization eMoney Account (Float Account),0.00,SSP,2019-06-29 03:00:00
+100212,Organization eMoney Account (working Account),0.00,SSP,2019-06-29 03:00:00
+100226,Commission Account,0.00,SSP,2019-06-29 03:00:00
+100226,Organization eMoney Account (Float Account),0.00,SSP,2019-06-29 03:00:00
+100226,Organization eMoney Account (working Account),0.00,SSP,2019-06-29 03:00:00
+100245,Commission Account,0.00,SSP,2019-06-29 03:00:00
+100245,Organization eMoney Account (Float Account),0.00,SSP,2019-06-29 03:00:00
+100245,Organization eMoney Account (working Account),0.00,SSP,2019-06-29 03:00:00
+100257,Commission Account,0.00,SSP,2019-06-29 03:00:00
+100257,Organization eMoney Account (Float Account),0.00,SSP,2019-06-29 03:00:00
+100257,Organization eMoney Account (working Account),0.00,SSP,2019-06-29 03:00:00
+123456,Organization eMoney Account (Float Account),0.00,SSP,2019-06-29 03:00:00
+123456,Organization eMoney Account (working Account),0.00,SSP,2019-06-29 03:00:00
+100207,Commission Account,0.00,SSP,2019-06-29 03:00:00
+100207,Organization eMoney Account (Float Account),0.00,SSP,2019-06-29 03:00:00
+100207,Organization eMoney Account (working Account),0.00,SSP,2019-06-29 03:00:00
+100209,Commission Account,0.00,SSP,2019-06-29 03:00:00
+100209,Organization eMoney Account (Float Account),0.00,SSP,2019-06-29 03:00:00
+100209,Organization eMoney Account (working Account),0.00,SSP,2019-06-29 03:00:00
+100214,Commission Account,0.00,SSP,2019-06-29 03:00:00
+100214,Organization eMoney Account (Float Account),0.00,SSP,2019-06-29 03:00:00
+100214,Organization eMoney Account (working Account),0.00,SSP,2019-06-29 03:00:00
+100220,Commission Account,0.00,SSP,2019-06-29 03:00:00
+100220,Organization eMoney Account (Float Account),0.00,SSP,2019-06-29 03:00:00
+100220,Organization eMoney Account (working Account),0.00,SSP,2019-06-29 03:00:00
+123456,Commission Account,0.00,SSP,2019-06-29 03:00:00
+100206,Commission Account,0.00,SSP,2019-06-29 03:00:00
+100206,Organization eMoney Account (Float Account),0.00,SSP,2019-06-29 03:00:00
+100206,Organization eMoney Account (working Account),0.00,SSP,2019-06-29 03:00:00
+100219,Commission Account,0.00,SSP,2019-06-29 03:00:00
+100219,Organization eMoney Account (Float Account),0.00,SSP,2019-06-29 03:00:00
+100219,Organization eMoney Account (working Account),0.00,SSP,2019-06-29 03:00:00
+100222,Commission Account,0.00,SSP,2019-06-29 03:00:00
+100222,Organization eMoney Account (Float Account),0.00,SSP,2019-06-29 03:00:00
+100222,Organization eMoney Account (working Account),0.00,SSP,2019-06-29 03:00:00
+100253,Commission Account,0.00,SSP,2019-06-29 03:00:00
+100253,Organization eMoney Account (Float Account),0.00,SSP,2019-06-29 03:00:00
+100253,Organization eMoney Account (working Account),0.00,SSP,2019-06-29 03:00:00
+100241,Commission Account,0.00,SSP,2019-06-29 03:00:00
+100241,Organization eMoney Account (Float Account),0.00,SSP,2019-06-29 03:00:00
+100241,Organization eMoney Account (working Account),0.00,SSP,2019-06-29 03:00:00
+100239,Commission Account,0.00,SSP,2019-06-29 03:00:00
+100239,Organization eMoney Account (Float Account),0.00,SSP,2019-06-29 03:00:00
+100239,Organization eMoney Account (working Account),0.00,SSP,2019-06-29 03:00:00
+100249,Commission Account,0.00,SSP,2019-06-29 03:00:00
+100249,Organization eMoney Account (Float Account),0.00,SSP,2019-06-29 03:00:00
+100249,Organization eMoney Account (working Account),0.00,SSP,2019-06-29 03:00:00
+100255,Commission Account,0.00,SSP,2019-06-29 03:00:00
+100255,Organization eMoney Account (Float Account),0.00,SSP,2019-06-29 03:00:00
+100255,Organization eMoney Account (working Account),0.00,SSP,2019-06-29 03:00:00
+100227,Commission Account,0.00,SSP,2019-06-29 03:00:00
+100227,Organization eMoney Account (Float Account),0.00,SSP,2019-06-29 03:00:00
+100227,Organization eMoney Account (working Account),0.00,SSP,2019-06-29 03:00:00
+100252,Commission Account,0.00,SSP,2019-06-29 03:00:00
+100252,Organization eMoney Account (Float Account),0.00,SSP,2019-06-29 03:00:00
+100252,Organization eMoney Account (working Account),0.00,SSP,2019-06-29 03:00:00
+100229,Commission Account,0.00,SSP,2019-06-29 03:00:00
+100229,Organization eMoney Account (Float Account),0.00,SSP,2019-06-29 03:00:00
+100229,Organization eMoney Account (working Account),0.00,SSP,2019-06-29 03:00:00
+100240,Commission Account,0.00,SSP,2019-06-29 03:00:00
+100240,Organization eMoney Account (Float Account),0.00,SSP,2019-06-29 03:00:00
+100240,Organization eMoney Account (working Account),0.00,SSP,2019-06-29 03:00:00
+100244,Commission Account,0.00,SSP,2019-06-29 03:00:00
+100244,Organization eMoney Account (Float Account),0.00,SSP,2019-06-29 03:00:00
+100244,Organization eMoney Account (working Account),0.00,SSP,2019-06-29 03:00:00
+100231,Commission Account,0.00,SSP,2019-06-29 03:00:00
+100231,Organization eMoney Account (Float Account),0.00,SSP,2019-06-29 03:00:00
+100231,Organization eMoney Account (working Account),0.00,SSP,2019-06-29 03:00:00
+100233,Commission Account,0.00,SSP,2019-06-29 03:00:00
+100233,Organization eMoney Account (Float Account),0.00,SSP,2019-06-29 03:00:00
+100233,Organization eMoney Account (working Account),0.00,SSP,2019-06-29 03:00:00
+100254,Commission Account,0.00,SSP,2019-06-29 03:00:00
+100254,Organization eMoney Account (Float Account),0.00,SSP,2019-06-29 03:00:00
+100254,Organization eMoney Account (working Account),0.00,SSP,2019-06-29 03:00:00
+100259,Commission Account,0.00,SSP,2019-06-29 03:00:00
+100259,Organization eMoney Account (Float Account),0.00,SSP,2019-06-29 03:00:00
+100259,Organization eMoney Account (working Account),0.00,SSP,2019-06-29 03:00:00
+100200,Commission Account,0.00,SSP,2019-06-29 03:00:00
+100200,Organization eMoney Account (Float Account),200000.00,SSP,2019-06-29 03:00:00
+100200,Organization eMoney Account (working Account),398250.00,SSP,2019-06-29 03:00:00
+100215,Commission Account,0.00,SSP,2019-06-29 03:00:00
+100215,Organization eMoney Account (Float Account),0.00,SSP,2019-06-29 03:00:00
+100215,Organization eMoney Account (working Account),0.00,SSP,2019-06-29 03:00:00
+100210,Commission Account,0.00,SSP,2019-06-29 03:00:00
+100210,Organization eMoney Account (Float Account),0.00,SSP,2019-06-29 03:00:00
+100210,Organization eMoney Account (working Account),0.00,SSP,2019-06-29 03:00:00
+100223,Commission Account,0.00,SSP,2019-06-29 03:00:00
+100223,Organization eMoney Account (Float Account),0.00,SSP,2019-06-29 03:00:00
+100223,Organization eMoney Account (working Account),0.00,SSP,2019-06-29 03:00:00
+100251,Commission Account,0.00,SSP,2019-06-29 03:00:00
+100251,Organization eMoney Account (Float Account),0.00,SSP,2019-06-29 03:00:00
+100251,Organization eMoney Account (working Account),0.00,SSP,2019-06-29 03:00:00
+100228,Commission Account,0.00,SSP,2019-06-29 03:00:00
+100228,Organization eMoney Account (Float Account),0.00,SSP,2019-06-29 03:00:00
+100228,Organization eMoney Account (working Account),0.00,SSP,2019-06-29 03:00:00
+100235,Commission Account,0.00,SSP,2019-06-29 03:00:00
+100235,Organization eMoney Account (Float Account),0.00,SSP,2019-06-29 03:00:00
+100235,Organization eMoney Account (working Account),0.00,SSP,2019-06-29 03:00:00
+100258,Commission Account,0.00,SSP,2019-06-29 03:00:00
+100258,Organization eMoney Account (Float Account),0.00,SSP,2019-06-29 03:00:00
+100258,Organization eMoney Account (working Account),0.00,SSP,2019-06-29 03:00:00
+100261,Commission Account,0.00,SSP,2019-06-29 03:00:00
+100261,Organization eMoney Account (Float Account),0.00,SSP,2019-06-29 03:00:00
+100261,Organization eMoney Account (working Account),0.00,SSP,2019-06-29 03:00:00
+100300,Commission Account,0.00,SSP,2019-06-29 03:00:00
+100300,Organization eMoney Account (Float Account),0.00,SSP,2019-06-29 03:00:00
+100300,Organization eMoney Account (working Account),0.00,SSP,2019-06-29 03:00:00
+Short Code, Account Type, Available Balance, Currency, Date
+100201,Commission Account,0.00,SSP,2019-06-30 03:00:00
+100201,Organization eMoney Account (Float Account),0.00,SSP,2019-06-30 03:00:00
+100201,Organization eMoney Account (working Account),0.00,SSP,2019-06-30 03:00:00
+100216,Commission Account,0.00,SSP,2019-06-30 03:00:00
+100216,Organization eMoney Account (Float Account),0.00,SSP,2019-06-30 03:00:00
+100216,Organization eMoney Account (working Account),0.00,SSP,2019-06-30 03:00:00
+100208,Commission Account,0.00,SSP,2019-06-30 03:00:00
+100208,Organization eMoney Account (Float Account),0.00,SSP,2019-06-30 03:00:00
+100208,Organization eMoney Account (working Account),0.00,SSP,2019-06-30 03:00:00
+100225,Commission Account,0.00,SSP,2019-06-30 03:00:00
+100225,Organization eMoney Account (Float Account),0.00,SSP,2019-06-30 03:00:00
+100225,Organization eMoney Account (working Account),0.00,SSP,2019-06-30 03:00:00
+100230,Commission Account,0.00,SSP,2019-06-30 03:00:00
+100230,Organization eMoney Account (Float Account),0.00,SSP,2019-06-30 03:00:00
+100230,Organization eMoney Account (working Account),0.00,SSP,2019-06-30 03:00:00
+100242,Commission Account,0.00,SSP,2019-06-30 03:00:00
+100242,Organization eMoney Account (Float Account),0.00,SSP,2019-06-30 03:00:00
+100242,Organization eMoney Account (working Account),0.00,SSP,2019-06-30 03:00:00
+100236,Commission Account,0.00,SSP,2019-06-30 03:00:00
+100236,Organization eMoney Account (Float Account),0.00,SSP,2019-06-30 03:00:00
+100236,Organization eMoney Account (working Account),0.00,SSP,2019-06-30 03:00:00
+100238,Commission Account,0.00,SSP,2019-06-30 03:00:00
+100238,Organization eMoney Account (Float Account),0.00,SSP,2019-06-30 03:00:00
+100238,Organization eMoney Account (working Account),0.00,SSP,2019-06-30 03:00:00
+100246,Commission Account,0.00,SSP,2019-06-30 03:00:00
+100246,Organization eMoney Account (Float Account),0.00,SSP,2019-06-30 03:00:00
+100246,Organization eMoney Account (working Account),0.00,SSP,2019-06-30 03:00:00
+100248,Commission Account,0.00,SSP,2019-06-30 03:00:00
+100248,Organization eMoney Account (Float Account),0.00,SSP,2019-06-30 03:00:00
+100248,Organization eMoney Account (working Account),0.00,SSP,2019-06-30 03:00:00
+100262,Commission Account,0.00,SSP,2019-06-30 03:00:00
+100262,Organization eMoney Account (Float Account),0.00,SSP,2019-06-30 03:00:00
+100262,Organization eMoney Account (working Account),0.00,SSP,2019-06-30 03:00:00
+100202,Commission Account,147.00,SSP,2019-06-30 03:00:00
+100202,Organization eMoney Account (Float Account),87710.00,SSP,2019-06-30 03:00:00
+100202,Organization eMoney Account (working Account),0.00,SSP,2019-06-30 03:00:00
+100213,Commission Account,0.00,SSP,2019-06-30 03:00:00
+100213,Organization eMoney Account (Float Account),0.00,SSP,2019-06-30 03:00:00
+100213,Organization eMoney Account (working Account),0.00,SSP,2019-06-30 03:00:00
+100224,Commission Account,0.00,SSP,2019-06-30 03:00:00
+100224,Organization eMoney Account (Float Account),0.00,SSP,2019-06-30 03:00:00
+100224,Organization eMoney Account (working Account),0.00,SSP,2019-06-30 03:00:00
+100247,Commission Account,0.00,SSP,2019-06-30 03:00:00
+100247,Organization eMoney Account (Float Account),0.00,SSP,2019-06-30 03:00:00
+100247,Organization eMoney Account (working Account),0.00,SSP,2019-06-30 03:00:00
+100256,Commission Account,0.00,SSP,2019-06-30 03:00:00
+100256,Organization eMoney Account (Float Account),0.00,SSP,2019-06-30 03:00:00
+100256,Organization eMoney Account (working Account),0.00,SSP,2019-06-30 03:00:00
+100204,Commission Account,0.00,SSP,2019-06-30 03:00:00
+100204,Organization eMoney Account (Float Account),0.00,SSP,2019-06-30 03:00:00
+100204,Organization eMoney Account (working Account),0.00,SSP,2019-06-30 03:00:00
+100263,Commission Account,0.00,SSP,2019-06-30 03:00:00
+100263,Organization eMoney Account (Float Account),0.00,SSP,2019-06-30 03:00:00
+100263,Organization eMoney Account (working Account),0.00,SSP,2019-06-30 03:00:00
+100243,Commission Account,0.00,SSP,2019-06-30 03:00:00
+100243,Organization eMoney Account (Float Account),0.00,SSP,2019-06-30 03:00:00
+100243,Organization eMoney Account (working Account),0.00,SSP,2019-06-30 03:00:00
+100237,Commission Account,0.00,SSP,2019-06-30 03:00:00
+100237,Organization eMoney Account (Float Account),0.00,SSP,2019-06-30 03:00:00
+100237,Organization eMoney Account (working Account),0.00,SSP,2019-06-30 03:00:00
+100232,Commission Account,0.00,SSP,2019-06-30 03:00:00
+100232,Organization eMoney Account (Float Account),0.00,SSP,2019-06-30 03:00:00
+100232,Organization eMoney Account (working Account),0.00,SSP,2019-06-30 03:00:00
+100250,Commission Account,0.00,SSP,2019-06-30 03:00:00
+100250,Organization eMoney Account (Float Account),0.00,SSP,2019-06-30 03:00:00
+100250,Organization eMoney Account (working Account),0.00,SSP,2019-06-30 03:00:00
+100221,Commission Account,0.00,SSP,2019-06-30 03:00:00
+100221,Organization eMoney Account (Float Account),0.00,SSP,2019-06-30 03:00:00
+100221,Organization eMoney Account (working Account),0.00,SSP,2019-06-30 03:00:00
+100218,Commission Account,0.00,SSP,2019-06-30 03:00:00
+100218,Organization eMoney Account (Float Account),0.00,SSP,2019-06-30 03:00:00
+100218,Organization eMoney Account (working Account),0.00,SSP,2019-06-30 03:00:00
+100260,Commission Account,0.00,SSP,2019-06-30 03:00:00
+100260,Organization eMoney Account (Float Account),0.00,SSP,2019-06-30 03:00:00
+100260,Organization eMoney Account (working Account),0.00,SSP,2019-06-30 03:00:00
+100217,Commission Account,0.00,SSP,2019-06-30 03:00:00
+100217,Organization eMoney Account (Float Account),0.00,SSP,2019-06-30 03:00:00
+100217,Organization eMoney Account (working Account),0.00,SSP,2019-06-30 03:00:00
+123457,Commission Account,0.00,SSP,2019-06-30 03:00:00
+123457,Organization eMoney Account (Float Account),0.00,SSP,2019-06-30 03:00:00
+123457,Organization eMoney Account (working Account),0.00,SSP,2019-06-30 03:00:00
+100205,Commission Account,0.00,SSP,2019-06-30 03:00:00
+100205,Organization eMoney Account (Float Account),0.00,SSP,2019-06-30 03:00:00
+100205,Organization eMoney Account (working Account),0.00,SSP,2019-06-30 03:00:00
+100211,Commission Account,0.00,SSP,2019-06-30 03:00:00
+100211,Organization eMoney Account (Float Account),0.00,SSP,2019-06-30 03:00:00
+100211,Organization eMoney Account (working Account),0.00,SSP,2019-06-30 03:00:00
+100212,Commission Account,0.00,SSP,2019-06-30 03:00:00
+100212,Organization eMoney Account (Float Account),0.00,SSP,2019-06-30 03:00:00
+100212,Organization eMoney Account (working Account),0.00,SSP,2019-06-30 03:00:00
+100226,Commission Account,0.00,SSP,2019-06-30 03:00:00
+100226,Organization eMoney Account (Float Account),0.00,SSP,2019-06-30 03:00:00
+100226,Organization eMoney Account (working Account),0.00,SSP,2019-06-30 03:00:00
+100245,Commission Account,0.00,SSP,2019-06-30 03:00:00
+100245,Organization eMoney Account (Float Account),0.00,SSP,2019-06-30 03:00:00
+100245,Organization eMoney Account (working Account),0.00,SSP,2019-06-30 03:00:00
+100257,Commission Account,0.00,SSP,2019-06-30 03:00:00
+100257,Organization eMoney Account (Float Account),0.00,SSP,2019-06-30 03:00:00
+100257,Organization eMoney Account (working Account),0.00,SSP,2019-06-30 03:00:00
+123456,Organization eMoney Account (Float Account),0.00,SSP,2019-06-30 03:00:00
+123456,Organization eMoney Account (working Account),0.00,SSP,2019-06-30 03:00:00
+100207,Commission Account,0.00,SSP,2019-06-30 03:00:00
+100207,Organization eMoney Account (Float Account),0.00,SSP,2019-06-30 03:00:00
+100207,Organization eMoney Account (working Account),0.00,SSP,2019-06-30 03:00:00
+100209,Commission Account,0.00,SSP,2019-06-30 03:00:00
+100209,Organization eMoney Account (Float Account),0.00,SSP,2019-06-30 03:00:00
+100209,Organization eMoney Account (working Account),0.00,SSP,2019-06-30 03:00:00
+100214,Commission Account,0.00,SSP,2019-06-30 03:00:00
+100214,Organization eMoney Account (Float Account),0.00,SSP,2019-06-30 03:00:00
+100214,Organization eMoney Account (working Account),0.00,SSP,2019-06-30 03:00:00
+100220,Commission Account,0.00,SSP,2019-06-30 03:00:00
+100220,Organization eMoney Account (Float Account),0.00,SSP,2019-06-30 03:00:00
+100220,Organization eMoney Account (working Account),0.00,SSP,2019-06-30 03:00:00
+123456,Commission Account,0.00,SSP,2019-06-30 03:00:00
+100206,Commission Account,0.00,SSP,2019-06-30 03:00:00
+100206,Organization eMoney Account (Float Account),0.00,SSP,2019-06-30 03:00:00
+100206,Organization eMoney Account (working Account),0.00,SSP,2019-06-30 03:00:00
+100219,Commission Account,0.00,SSP,2019-06-30 03:00:00
+100219,Organization eMoney Account (Float Account),0.00,SSP,2019-06-30 03:00:00
+100219,Organization eMoney Account (working Account),0.00,SSP,2019-06-30 03:00:00
+100222,Commission Account,0.00,SSP,2019-06-30 03:00:00
+100222,Organization eMoney Account (Float Account),0.00,SSP,2019-06-30 03:00:00
+100222,Organization eMoney Account (working Account),0.00,SSP,2019-06-30 03:00:00
+100253,Commission Account,0.00,SSP,2019-06-30 03:00:00
+100253,Organization eMoney Account (Float Account),0.00,SSP,2019-06-30 03:00:00
+100253,Organization eMoney Account (working Account),0.00,SSP,2019-06-30 03:00:00
+100241,Commission Account,0.00,SSP,2019-06-30 03:00:00
+100241,Organization eMoney Account (Float Account),0.00,SSP,2019-06-30 03:00:00
+100241,Organization eMoney Account (working Account),0.00,SSP,2019-06-30 03:00:00
+100239,Commission Account,0.00,SSP,2019-06-30 03:00:00
+100239,Organization eMoney Account (Float Account),0.00,SSP,2019-06-30 03:00:00
+100239,Organization eMoney Account (working Account),0.00,SSP,2019-06-30 03:00:00
+100249,Commission Account,0.00,SSP,2019-06-30 03:00:00
+100249,Organization eMoney Account (Float Account),0.00,SSP,2019-06-30 03:00:00
+100249,Organization eMoney Account (working Account),0.00,SSP,2019-06-30 03:00:00
+100255,Commission Account,0.00,SSP,2019-06-30 03:00:00
+100255,Organization eMoney Account (Float Account),0.00,SSP,2019-06-30 03:00:00
+100255,Organization eMoney Account (working Account),0.00,SSP,2019-06-30 03:00:00
+100227,Commission Account,0.00,SSP,2019-06-30 03:00:00
+100227,Organization eMoney Account (Float Account),0.00,SSP,2019-06-30 03:00:00
+100227,Organization eMoney Account (working Account),0.00,SSP,2019-06-30 03:00:00
+100252,Commission Account,0.00,SSP,2019-06-30 03:00:00
+100252,Organization eMoney Account (Float Account),0.00,SSP,2019-06-30 03:00:00
+100252,Organization eMoney Account (working Account),0.00,SSP,2019-06-30 03:00:00
+100229,Commission Account,0.00,SSP,2019-06-30 03:00:00
+100229,Organization eMoney Account (Float Account),0.00,SSP,2019-06-30 03:00:00
+100229,Organization eMoney Account (working Account),0.00,SSP,2019-06-30 03:00:00
+100240,Commission Account,0.00,SSP,2019-06-30 03:00:00
+100240,Organization eMoney Account (Float Account),0.00,SSP,2019-06-30 03:00:00
+100240,Organization eMoney Account (working Account),0.00,SSP,2019-06-30 03:00:00
+100244,Commission Account,0.00,SSP,2019-06-30 03:00:00
+100244,Organization eMoney Account (Float Account),0.00,SSP,2019-06-30 03:00:00
+100244,Organization eMoney Account (working Account),0.00,SSP,2019-06-30 03:00:00
+100231,Commission Account,0.00,SSP,2019-06-30 03:00:00
+100231,Organization eMoney Account (Float Account),0.00,SSP,2019-06-30 03:00:00
+100231,Organization eMoney Account (working Account),0.00,SSP,2019-06-30 03:00:00
+100233,Commission Account,0.00,SSP,2019-06-30 03:00:00
+100233,Organization eMoney Account (Float Account),0.00,SSP,2019-06-30 03:00:00
+100233,Organization eMoney Account (working Account),0.00,SSP,2019-06-30 03:00:00
+100254,Commission Account,0.00,SSP,2019-06-30 03:00:00
+100254,Organization eMoney Account (Float Account),0.00,SSP,2019-06-30 03:00:00
+100254,Organization eMoney Account (working Account),0.00,SSP,2019-06-30 03:00:00
+100259,Commission Account,0.00,SSP,2019-06-30 03:00:00
+100259,Organization eMoney Account (Float Account),0.00,SSP,2019-06-30 03:00:00
+100259,Organization eMoney Account (working Account),0.00,SSP,2019-06-30 03:00:00
+100200,Commission Account,0.00,SSP,2019-06-30 03:00:00
+100200,Organization eMoney Account (Float Account),200000.00,SSP,2019-06-30 03:00:00
+100200,Organization eMoney Account (working Account),398250.00,SSP,2019-06-30 03:00:00
+100215,Commission Account,0.00,SSP,2019-06-30 03:00:00
+100215,Organization eMoney Account (Float Account),0.00,SSP,2019-06-30 03:00:00
+100215,Organization eMoney Account (working Account),0.00,SSP,2019-06-30 03:00:00
+100210,Commission Account,0.00,SSP,2019-06-30 03:00:00
+100210,Organization eMoney Account (Float Account),0.00,SSP,2019-06-30 03:00:00
+100210,Organization eMoney Account (working Account),0.00,SSP,2019-06-30 03:00:00
+100223,Commission Account,0.00,SSP,2019-06-30 03:00:00
+100223,Organization eMoney Account (Float Account),0.00,SSP,2019-06-30 03:00:00
+100223,Organization eMoney Account (working Account),0.00,SSP,2019-06-30 03:00:00
+100251,Commission Account,0.00,SSP,2019-06-30 03:00:00
+100251,Organization eMoney Account (Float Account),0.00,SSP,2019-06-30 03:00:00
+100251,Organization eMoney Account (working Account),0.00,SSP,2019-06-30 03:00:00
+100228,Commission Account,0.00,SSP,2019-06-30 03:00:00
+100228,Organization eMoney Account (Float Account),0.00,SSP,2019-06-30 03:00:00
+100228,Organization eMoney Account (working Account),0.00,SSP,2019-06-30 03:00:00
+100235,Commission Account,0.00,SSP,2019-06-30 03:00:00
+100235,Organization eMoney Account (Float Account),0.00,SSP,2019-06-30 03:00:00
+100235,Organization eMoney Account (working Account),0.00,SSP,2019-06-30 03:00:00
+100258,Commission Account,0.00,SSP,2019-06-30 03:00:00
+100258,Organization eMoney Account (Float Account),0.00,SSP,2019-06-30 03:00:00
+100258,Organization eMoney Account (working Account),0.00,SSP,2019-06-30 03:00:00
+100261,Commission Account,0.00,SSP,2019-06-30 03:00:00
+100261,Organization eMoney Account (Float Account),0.00,SSP,2019-06-30 03:00:00
+100261,Organization eMoney Account (working Account),0.00,SSP,2019-06-30 03:00:00
+100300,Commission Account,0.00,SSP,2019-06-30 03:00:00
+100300,Organization eMoney Account (Float Account),0.00,SSP,2019-06-30 03:00:00
+100300,Organization eMoney Account (working Account),0.00,SSP,2019-06-30 03:00:00
+Short Code, Account Type, Available Balance, Currency, Date
+100201,Commission Account,0.00,SSP,2019-07-01 03:00:01
+100201,Organization eMoney Account (Float Account),0.00,SSP,2019-07-01 03:00:01
+100201,Organization eMoney Account (working Account),0.00,SSP,2019-07-01 03:00:01
+100216,Commission Account,0.00,SSP,2019-07-01 03:00:01
+100216,Organization eMoney Account (Float Account),0.00,SSP,2019-07-01 03:00:01
+100216,Organization eMoney Account (working Account),0.00,SSP,2019-07-01 03:00:01
+100208,Commission Account,0.00,SSP,2019-07-01 03:00:01
+100208,Organization eMoney Account (Float Account),0.00,SSP,2019-07-01 03:00:01
+100208,Organization eMoney Account (working Account),0.00,SSP,2019-07-01 03:00:01
+100225,Commission Account,0.00,SSP,2019-07-01 03:00:01
+100225,Organization eMoney Account (Float Account),0.00,SSP,2019-07-01 03:00:01
+100225,Organization eMoney Account (working Account),0.00,SSP,2019-07-01 03:00:01
+100230,Commission Account,0.00,SSP,2019-07-01 03:00:01
+100230,Organization eMoney Account (Float Account),0.00,SSP,2019-07-01 03:00:01
+100230,Organization eMoney Account (working Account),0.00,SSP,2019-07-01 03:00:01
+100242,Commission Account,0.00,SSP,2019-07-01 03:00:01
+100242,Organization eMoney Account (Float Account),0.00,SSP,2019-07-01 03:00:01
+100242,Organization eMoney Account (working Account),0.00,SSP,2019-07-01 03:00:01
+100236,Commission Account,0.00,SSP,2019-07-01 03:00:01
+100236,Organization eMoney Account (Float Account),0.00,SSP,2019-07-01 03:00:01
+100236,Organization eMoney Account (working Account),0.00,SSP,2019-07-01 03:00:01
+100238,Commission Account,0.00,SSP,2019-07-01 03:00:01
+100238,Organization eMoney Account (Float Account),0.00,SSP,2019-07-01 03:00:01
+100238,Organization eMoney Account (working Account),0.00,SSP,2019-07-01 03:00:01
+100246,Commission Account,0.00,SSP,2019-07-01 03:00:01
+100246,Organization eMoney Account (Float Account),0.00,SSP,2019-07-01 03:00:01
+100246,Organization eMoney Account (working Account),0.00,SSP,2019-07-01 03:00:01
+100248,Commission Account,0.00,SSP,2019-07-01 03:00:01
+100248,Organization eMoney Account (Float Account),0.00,SSP,2019-07-01 03:00:01
+100248,Organization eMoney Account (working Account),0.00,SSP,2019-07-01 03:00:01
+100262,Commission Account,0.00,SSP,2019-07-01 03:00:01
+100262,Organization eMoney Account (Float Account),0.00,SSP,2019-07-01 03:00:01
+100262,Organization eMoney Account (working Account),0.00,SSP,2019-07-01 03:00:01
+100202,Commission Account,147.00,SSP,2019-07-01 03:00:01
+100202,Organization eMoney Account (Float Account),87710.00,SSP,2019-07-01 03:00:01
+100202,Organization eMoney Account (working Account),0.00,SSP,2019-07-01 03:00:01
+100213,Commission Account,0.00,SSP,2019-07-01 03:00:01
+100213,Organization eMoney Account (Float Account),0.00,SSP,2019-07-01 03:00:01
+100213,Organization eMoney Account (working Account),0.00,SSP,2019-07-01 03:00:01
+100224,Commission Account,0.00,SSP,2019-07-01 03:00:01
+100224,Organization eMoney Account (Float Account),0.00,SSP,2019-07-01 03:00:01
+100224,Organization eMoney Account (working Account),0.00,SSP,2019-07-01 03:00:01
+100247,Commission Account,0.00,SSP,2019-07-01 03:00:01
+100247,Organization eMoney Account (Float Account),0.00,SSP,2019-07-01 03:00:01
+100247,Organization eMoney Account (working Account),0.00,SSP,2019-07-01 03:00:01
+100256,Commission Account,0.00,SSP,2019-07-01 03:00:01
+100256,Organization eMoney Account (Float Account),0.00,SSP,2019-07-01 03:00:01
+100256,Organization eMoney Account (working Account),0.00,SSP,2019-07-01 03:00:01
+100204,Commission Account,0.00,SSP,2019-07-01 03:00:01
+100204,Organization eMoney Account (Float Account),0.00,SSP,2019-07-01 03:00:01
+100204,Organization eMoney Account (working Account),0.00,SSP,2019-07-01 03:00:01
+100263,Commission Account,0.00,SSP,2019-07-01 03:00:01
+100263,Organization eMoney Account (Float Account),0.00,SSP,2019-07-01 03:00:01
+100263,Organization eMoney Account (working Account),0.00,SSP,2019-07-01 03:00:01
+100243,Commission Account,0.00,SSP,2019-07-01 03:00:01
+100243,Organization eMoney Account (Float Account),0.00,SSP,2019-07-01 03:00:01
+100243,Organization eMoney Account (working Account),0.00,SSP,2019-07-01 03:00:01
+100237,Commission Account,0.00,SSP,2019-07-01 03:00:01
+100237,Organization eMoney Account (Float Account),0.00,SSP,2019-07-01 03:00:01
+100237,Organization eMoney Account (working Account),0.00,SSP,2019-07-01 03:00:01
+100232,Commission Account,0.00,SSP,2019-07-01 03:00:01
+100232,Organization eMoney Account (Float Account),0.00,SSP,2019-07-01 03:00:01
+100232,Organization eMoney Account (working Account),0.00,SSP,2019-07-01 03:00:01
+100250,Commission Account,0.00,SSP,2019-07-01 03:00:01
+100250,Organization eMoney Account (Float Account),0.00,SSP,2019-07-01 03:00:01
+100250,Organization eMoney Account (working Account),0.00,SSP,2019-07-01 03:00:01
+100221,Commission Account,0.00,SSP,2019-07-01 03:00:01
+100221,Organization eMoney Account (Float Account),0.00,SSP,2019-07-01 03:00:01
+100221,Organization eMoney Account (working Account),0.00,SSP,2019-07-01 03:00:01
+100218,Commission Account,0.00,SSP,2019-07-01 03:00:01
+100218,Organization eMoney Account (Float Account),0.00,SSP,2019-07-01 03:00:01
+100218,Organization eMoney Account (working Account),0.00,SSP,2019-07-01 03:00:01
+100260,Commission Account,0.00,SSP,2019-07-01 03:00:01
+100260,Organization eMoney Account (Float Account),0.00,SSP,2019-07-01 03:00:01
+100260,Organization eMoney Account (working Account),0.00,SSP,2019-07-01 03:00:01
+100217,Commission Account,0.00,SSP,2019-07-01 03:00:01
+100217,Organization eMoney Account (Float Account),0.00,SSP,2019-07-01 03:00:01
+100217,Organization eMoney Account (working Account),0.00,SSP,2019-07-01 03:00:01
+123457,Commission Account,0.00,SSP,2019-07-01 03:00:01
+123457,Organization eMoney Account (Float Account),0.00,SSP,2019-07-01 03:00:01
+123457,Organization eMoney Account (working Account),0.00,SSP,2019-07-01 03:00:01
+100205,Commission Account,0.00,SSP,2019-07-01 03:00:01
+100205,Organization eMoney Account (Float Account),0.00,SSP,2019-07-01 03:00:01
+100205,Organization eMoney Account (working Account),0.00,SSP,2019-07-01 03:00:01
+100211,Commission Account,0.00,SSP,2019-07-01 03:00:01
+100211,Organization eMoney Account (Float Account),0.00,SSP,2019-07-01 03:00:01
+100211,Organization eMoney Account (working Account),0.00,SSP,2019-07-01 03:00:01
+100212,Commission Account,0.00,SSP,2019-07-01 03:00:01
+100212,Organization eMoney Account (Float Account),0.00,SSP,2019-07-01 03:00:01
+100212,Organization eMoney Account (working Account),0.00,SSP,2019-07-01 03:00:01
+100226,Commission Account,0.00,SSP,2019-07-01 03:00:01
+100226,Organization eMoney Account (Float Account),0.00,SSP,2019-07-01 03:00:01
+100226,Organization eMoney Account (working Account),0.00,SSP,2019-07-01 03:00:01
+100245,Commission Account,0.00,SSP,2019-07-01 03:00:01
+100245,Organization eMoney Account (Float Account),0.00,SSP,2019-07-01 03:00:01
+100245,Organization eMoney Account (working Account),0.00,SSP,2019-07-01 03:00:01
+100257,Commission Account,0.00,SSP,2019-07-01 03:00:01
+100257,Organization eMoney Account (Float Account),0.00,SSP,2019-07-01 03:00:01
+100257,Organization eMoney Account (working Account),0.00,SSP,2019-07-01 03:00:01
+123456,Organization eMoney Account (Float Account),0.00,SSP,2019-07-01 03:00:01
+123456,Organization eMoney Account (working Account),0.00,SSP,2019-07-01 03:00:01
+100207,Commission Account,0.00,SSP,2019-07-01 03:00:01
+100207,Organization eMoney Account (Float Account),0.00,SSP,2019-07-01 03:00:01
+100207,Organization eMoney Account (working Account),0.00,SSP,2019-07-01 03:00:01
+100209,Commission Account,0.00,SSP,2019-07-01 03:00:01
+100209,Organization eMoney Account (Float Account),0.00,SSP,2019-07-01 03:00:01
+100209,Organization eMoney Account (working Account),0.00,SSP,2019-07-01 03:00:01
+100214,Commission Account,0.00,SSP,2019-07-01 03:00:01
+100214,Organization eMoney Account (Float Account),0.00,SSP,2019-07-01 03:00:01
+100214,Organization eMoney Account (working Account),0.00,SSP,2019-07-01 03:00:01
+100220,Commission Account,0.00,SSP,2019-07-01 03:00:01
+100220,Organization eMoney Account (Float Account),0.00,SSP,2019-07-01 03:00:01
+100220,Organization eMoney Account (working Account),0.00,SSP,2019-07-01 03:00:01
+123456,Commission Account,0.00,SSP,2019-07-01 03:00:01
+100206,Commission Account,0.00,SSP,2019-07-01 03:00:01
+100206,Organization eMoney Account (Float Account),0.00,SSP,2019-07-01 03:00:01
+100206,Organization eMoney Account (working Account),0.00,SSP,2019-07-01 03:00:01
+100219,Commission Account,0.00,SSP,2019-07-01 03:00:01
+100219,Organization eMoney Account (Float Account),0.00,SSP,2019-07-01 03:00:01
+100219,Organization eMoney Account (working Account),0.00,SSP,2019-07-01 03:00:01
+100222,Commission Account,0.00,SSP,2019-07-01 03:00:01
+100222,Organization eMoney Account (Float Account),0.00,SSP,2019-07-01 03:00:01
+100222,Organization eMoney Account (working Account),0.00,SSP,2019-07-01 03:00:01
+100253,Commission Account,0.00,SSP,2019-07-01 03:00:01
+100253,Organization eMoney Account (Float Account),0.00,SSP,2019-07-01 03:00:01
+100253,Organization eMoney Account (working Account),0.00,SSP,2019-07-01 03:00:01
+100241,Commission Account,0.00,SSP,2019-07-01 03:00:01
+100241,Organization eMoney Account (Float Account),0.00,SSP,2019-07-01 03:00:01
+100241,Organization eMoney Account (working Account),0.00,SSP,2019-07-01 03:00:01
+100239,Commission Account,0.00,SSP,2019-07-01 03:00:01
+100239,Organization eMoney Account (Float Account),0.00,SSP,2019-07-01 03:00:01
+100239,Organization eMoney Account (working Account),0.00,SSP,2019-07-01 03:00:01
+100249,Commission Account,0.00,SSP,2019-07-01 03:00:01
+100249,Organization eMoney Account (Float Account),0.00,SSP,2019-07-01 03:00:01
+100249,Organization eMoney Account (working Account),0.00,SSP,2019-07-01 03:00:01
+100255,Commission Account,0.00,SSP,2019-07-01 03:00:01
+100255,Organization eMoney Account (Float Account),0.00,SSP,2019-07-01 03:00:01
+100255,Organization eMoney Account (working Account),0.00,SSP,2019-07-01 03:00:01
+100227,Commission Account,0.00,SSP,2019-07-01 03:00:01
+100227,Organization eMoney Account (Float Account),0.00,SSP,2019-07-01 03:00:01
+100227,Organization eMoney Account (working Account),0.00,SSP,2019-07-01 03:00:01
+100252,Commission Account,0.00,SSP,2019-07-01 03:00:01
+100252,Organization eMoney Account (Float Account),0.00,SSP,2019-07-01 03:00:01
+100252,Organization eMoney Account (working Account),0.00,SSP,2019-07-01 03:00:01
+100229,Commission Account,0.00,SSP,2019-07-01 03:00:01
+100229,Organization eMoney Account (Float Account),0.00,SSP,2019-07-01 03:00:01
+100229,Organization eMoney Account (working Account),0.00,SSP,2019-07-01 03:00:01
+100240,Commission Account,0.00,SSP,2019-07-01 03:00:01
+100240,Organization eMoney Account (Float Account),0.00,SSP,2019-07-01 03:00:01
+100240,Organization eMoney Account (working Account),0.00,SSP,2019-07-01 03:00:01
+100244,Commission Account,0.00,SSP,2019-07-01 03:00:01
+100244,Organization eMoney Account (Float Account),0.00,SSP,2019-07-01 03:00:01
+100244,Organization eMoney Account (working Account),0.00,SSP,2019-07-01 03:00:01
+100231,Commission Account,0.00,SSP,2019-07-01 03:00:01
+100231,Organization eMoney Account (Float Account),0.00,SSP,2019-07-01 03:00:01
+100231,Organization eMoney Account (working Account),0.00,SSP,2019-07-01 03:00:01
+100233,Commission Account,0.00,SSP,2019-07-01 03:00:01
+100233,Organization eMoney Account (Float Account),0.00,SSP,2019-07-01 03:00:01
+100233,Organization eMoney Account (working Account),0.00,SSP,2019-07-01 03:00:01
+100254,Commission Account,0.00,SSP,2019-07-01 03:00:01
+100254,Organization eMoney Account (Float Account),0.00,SSP,2019-07-01 03:00:01
+100254,Organization eMoney Account (working Account),0.00,SSP,2019-07-01 03:00:01
+100259,Commission Account,0.00,SSP,2019-07-01 03:00:01
+100259,Organization eMoney Account (Float Account),0.00,SSP,2019-07-01 03:00:01
+100259,Organization eMoney Account (working Account),0.00,SSP,2019-07-01 03:00:01
+100200,Commission Account,0.00,SSP,2019-07-01 03:00:01
+100200,Organization eMoney Account (Float Account),200000.00,SSP,2019-07-01 03:00:01
+100200,Organization eMoney Account (working Account),398250.00,SSP,2019-07-01 03:00:01
+100215,Commission Account,0.00,SSP,2019-07-01 03:00:01
+100215,Organization eMoney Account (Float Account),0.00,SSP,2019-07-01 03:00:01
+100215,Organization eMoney Account (working Account),0.00,SSP,2019-07-01 03:00:01
+100210,Commission Account,0.00,SSP,2019-07-01 03:00:01
+100210,Organization eMoney Account (Float Account),0.00,SSP,2019-07-01 03:00:01
+100210,Organization eMoney Account (working Account),0.00,SSP,2019-07-01 03:00:01
+100223,Commission Account,0.00,SSP,2019-07-01 03:00:01
+100223,Organization eMoney Account (Float Account),0.00,SSP,2019-07-01 03:00:01
+100223,Organization eMoney Account (working Account),0.00,SSP,2019-07-01 03:00:01
+100251,Commission Account,0.00,SSP,2019-07-01 03:00:01
+100251,Organization eMoney Account (Float Account),0.00,SSP,2019-07-01 03:00:01
+100251,Organization eMoney Account (working Account),0.00,SSP,2019-07-01 03:00:01
+100228,Commission Account,0.00,SSP,2019-07-01 03:00:01
+100228,Organization eMoney Account (Float Account),0.00,SSP,2019-07-01 03:00:01
+100228,Organization eMoney Account (working Account),0.00,SSP,2019-07-01 03:00:01
+100235,Commission Account,0.00,SSP,2019-07-01 03:00:01
+100235,Organization eMoney Account (Float Account),0.00,SSP,2019-07-01 03:00:01
+100235,Organization eMoney Account (working Account),0.00,SSP,2019-07-01 03:00:01
+100258,Commission Account,0.00,SSP,2019-07-01 03:00:01
+100258,Organization eMoney Account (Float Account),0.00,SSP,2019-07-01 03:00:01
+100258,Organization eMoney Account (working Account),0.00,SSP,2019-07-01 03:00:01
+100261,Commission Account,0.00,SSP,2019-07-01 03:00:01
+100261,Organization eMoney Account (Float Account),0.00,SSP,2019-07-01 03:00:01
+100261,Organization eMoney Account (working Account),0.00,SSP,2019-07-01 03:00:01
+100300,Commission Account,0.00,SSP,2019-07-01 03:00:01
+100300,Organization eMoney Account (Float Account),0.00,SSP,2019-07-01 03:00:01
+100300,Organization eMoney Account (working Account),0.00,SSP,2019-07-01 03:00:01
+Short Code, Account Type, Available Balance, Currency, Date
+100201,Commission Account,0.00,SSP,2019-07-02 03:00:02
+100201,Organization eMoney Account (Float Account),0.00,SSP,2019-07-02 03:00:02
+100201,Organization eMoney Account (working Account),0.00,SSP,2019-07-02 03:00:02
+100216,Commission Account,0.00,SSP,2019-07-02 03:00:02
+100216,Organization eMoney Account (Float Account),0.00,SSP,2019-07-02 03:00:02
+100216,Organization eMoney Account (working Account),0.00,SSP,2019-07-02 03:00:02
+100208,Commission Account,0.00,SSP,2019-07-02 03:00:02
+100208,Organization eMoney Account (Float Account),0.00,SSP,2019-07-02 03:00:02
+100208,Organization eMoney Account (working Account),0.00,SSP,2019-07-02 03:00:02
+100225,Commission Account,0.00,SSP,2019-07-02 03:00:02
+100225,Organization eMoney Account (Float Account),0.00,SSP,2019-07-02 03:00:02
+100225,Organization eMoney Account (working Account),0.00,SSP,2019-07-02 03:00:02
+100230,Commission Account,0.00,SSP,2019-07-02 03:00:02
+100230,Organization eMoney Account (Float Account),0.00,SSP,2019-07-02 03:00:02
+100230,Organization eMoney Account (working Account),0.00,SSP,2019-07-02 03:00:02
+100242,Commission Account,0.00,SSP,2019-07-02 03:00:02
+100242,Organization eMoney Account (Float Account),0.00,SSP,2019-07-02 03:00:02
+100242,Organization eMoney Account (working Account),0.00,SSP,2019-07-02 03:00:02
+100236,Commission Account,0.00,SSP,2019-07-02 03:00:02
+100236,Organization eMoney Account (Float Account),0.00,SSP,2019-07-02 03:00:02
+100236,Organization eMoney Account (working Account),0.00,SSP,2019-07-02 03:00:02
+100238,Commission Account,0.00,SSP,2019-07-02 03:00:02
+100238,Organization eMoney Account (Float Account),0.00,SSP,2019-07-02 03:00:02
+100238,Organization eMoney Account (working Account),0.00,SSP,2019-07-02 03:00:02
+100246,Commission Account,0.00,SSP,2019-07-02 03:00:02
+100246,Organization eMoney Account (Float Account),0.00,SSP,2019-07-02 03:00:02
+100246,Organization eMoney Account (working Account),0.00,SSP,2019-07-02 03:00:02
+100248,Commission Account,0.00,SSP,2019-07-02 03:00:02
+100248,Organization eMoney Account (Float Account),0.00,SSP,2019-07-02 03:00:02
+100248,Organization eMoney Account (working Account),0.00,SSP,2019-07-02 03:00:02
+100262,Commission Account,0.00,SSP,2019-07-02 03:00:02
+100262,Organization eMoney Account (Float Account),0.00,SSP,2019-07-02 03:00:02
+100262,Organization eMoney Account (working Account),0.00,SSP,2019-07-02 03:00:02
+100202,Commission Account,151.00,SSP,2019-07-02 03:00:02
+100202,Organization eMoney Account (Float Account),87560.00,SSP,2019-07-02 03:00:02
+100202,Organization eMoney Account (working Account),0.00,SSP,2019-07-02 03:00:02
+100278,Commission Account,0.00,SSP,2019-07-02 03:00:02
+100278,Organization eMoney Account (Float Account),0.00,SSP,2019-07-02 03:00:02
+100278,Organization eMoney Account (working Account),0.00,SSP,2019-07-02 03:00:02
+100296,Commission Account,0.00,SSP,2019-07-02 03:00:02
+100296,Organization eMoney Account (Float Account),0.00,SSP,2019-07-02 03:00:02
+100296,Organization eMoney Account (working Account),0.00,SSP,2019-07-02 03:00:02
+100299,Commission Account,0.00,SSP,2019-07-02 03:00:02
+100299,Organization eMoney Account (Float Account),0.00,SSP,2019-07-02 03:00:02
+100299,Organization eMoney Account (working Account),0.00,SSP,2019-07-02 03:00:02
+100291,Commission Account,0.00,SSP,2019-07-02 03:00:02
+100291,Organization eMoney Account (Float Account),0.00,SSP,2019-07-02 03:00:02
+100291,Organization eMoney Account (working Account),0.00,SSP,2019-07-02 03:00:02
+100293,Commission Account,0.00,SSP,2019-07-02 03:00:02
+100293,Organization eMoney Account (Float Account),0.00,SSP,2019-07-02 03:00:02
+100293,Organization eMoney Account (working Account),0.00,SSP,2019-07-02 03:00:02
+100404,Commission Account,0.00,SSP,2019-07-02 03:00:02
+100404,Organization eMoney Account (Float Account),0.00,SSP,2019-07-02 03:00:02
+100404,Organization eMoney Account (working Account),0.00,SSP,2019-07-02 03:00:02
+100406,Commission Account,0.00,SSP,2019-07-02 03:00:02
+100406,Organization eMoney Account (Float Account),0.00,SSP,2019-07-02 03:00:02
+100406,Organization eMoney Account (working Account),0.00,SSP,2019-07-02 03:00:02
+110206,Commission Account,0.00,SSP,2019-07-02 03:00:02
+110206,Organization eMoney Account (Float Account),0.00,SSP,2019-07-02 03:00:02
+110206,Organization eMoney Account (working Account),0.00,SSP,2019-07-02 03:00:02
+100400,Commission Account,0.00,SSP,2019-07-02 03:00:02
+100400,Organization eMoney Account (Float Account),0.00,SSP,2019-07-02 03:00:02
+100400,Organization eMoney Account (working Account),0.00,SSP,2019-07-02 03:00:02
+100213,Commission Account,0.00,SSP,2019-07-02 03:00:02
+100213,Organization eMoney Account (Float Account),0.00,SSP,2019-07-02 03:00:02
+100213,Organization eMoney Account (working Account),0.00,SSP,2019-07-02 03:00:02
+100224,Commission Account,0.00,SSP,2019-07-02 03:00:02
+100224,Organization eMoney Account (Float Account),0.00,SSP,2019-07-02 03:00:02
+100224,Organization eMoney Account (working Account),0.00,SSP,2019-07-02 03:00:02
+100247,Commission Account,0.00,SSP,2019-07-02 03:00:02
+100247,Organization eMoney Account (Float Account),0.00,SSP,2019-07-02 03:00:02
+100247,Organization eMoney Account (working Account),0.00,SSP,2019-07-02 03:00:02
+100256,Commission Account,0.00,SSP,2019-07-02 03:00:02
+100256,Organization eMoney Account (Float Account),0.00,SSP,2019-07-02 03:00:02
+100256,Organization eMoney Account (working Account),0.00,SSP,2019-07-02 03:00:02
+100269,Commission Account,0.00,SSP,2019-07-02 03:00:02
+100269,Organization eMoney Account (Float Account),0.00,SSP,2019-07-02 03:00:02
+100269,Organization eMoney Account (working Account),0.00,SSP,2019-07-02 03:00:02
+100277,Commission Account,0.00,SSP,2019-07-02 03:00:02
+100277,Organization eMoney Account (Float Account),0.00,SSP,2019-07-02 03:00:02
+100277,Organization eMoney Account (working Account),0.00,SSP,2019-07-02 03:00:02
+100279,Commission Account,0.00,SSP,2019-07-02 03:00:02
+100279,Organization eMoney Account (Float Account),0.00,SSP,2019-07-02 03:00:02
+100279,Organization eMoney Account (working Account),0.00,SSP,2019-07-02 03:00:02
+100280,Commission Account,0.00,SSP,2019-07-02 03:00:02
+100280,Organization eMoney Account (Float Account),0.00,SSP,2019-07-02 03:00:02
+100280,Organization eMoney Account (working Account),0.00,SSP,2019-07-02 03:00:02
+100273,Commission Account,0.00,SSP,2019-07-02 03:00:02
+100273,Organization eMoney Account (Float Account),0.00,SSP,2019-07-02 03:00:02
+100273,Organization eMoney Account (working Account),0.00,SSP,2019-07-02 03:00:02
+100282,Commission Account,0.00,SSP,2019-07-02 03:00:02
+100282,Organization eMoney Account (Float Account),0.00,SSP,2019-07-02 03:00:02
+100282,Organization eMoney Account (working Account),0.00,SSP,2019-07-02 03:00:02
+100275,Commission Account,0.00,SSP,2019-07-02 03:00:02
+100275,Organization eMoney Account (Float Account),0.00,SSP,2019-07-02 03:00:02
+100275,Organization eMoney Account (working Account),0.00,SSP,2019-07-02 03:00:02
+100284,Commission Account,0.00,SSP,2019-07-02 03:00:02
+100284,Organization eMoney Account (Float Account),0.00,SSP,2019-07-02 03:00:02
+100284,Organization eMoney Account (working Account),0.00,SSP,2019-07-02 03:00:02
+100286,Commission Account,0.00,SSP,2019-07-02 03:00:02
+100286,Organization eMoney Account (Float Account),0.00,SSP,2019-07-02 03:00:02
+100286,Organization eMoney Account (working Account),0.00,SSP,2019-07-02 03:00:02
+100298,Commission Account,0.00,SSP,2019-07-02 03:00:02
+100298,Organization eMoney Account (Float Account),0.00,SSP,2019-07-02 03:00:02
+100298,Organization eMoney Account (working Account),0.00,SSP,2019-07-02 03:00:02
+100288,Commission Account,0.00,SSP,2019-07-02 03:00:02
+100288,Organization eMoney Account (Float Account),0.00,SSP,2019-07-02 03:00:02
+100288,Organization eMoney Account (working Account),0.00,SSP,2019-07-02 03:00:02
+100294,Commission Account,0.00,SSP,2019-07-02 03:00:02
+100294,Organization eMoney Account (Float Account),0.00,SSP,2019-07-02 03:00:02
+100294,Organization eMoney Account (working Account),0.00,SSP,2019-07-02 03:00:02
+100401,Commission Account,0.00,SSP,2019-07-02 03:00:02
+100401,Organization eMoney Account (Float Account),0.00,SSP,2019-07-02 03:00:02
+100401,Organization eMoney Account (working Account),0.00,SSP,2019-07-02 03:00:02
+100405,Commission Account,0.00,SSP,2019-07-02 03:00:02
+100405,Organization eMoney Account (Float Account),0.00,SSP,2019-07-02 03:00:02
+100405,Organization eMoney Account (working Account),0.00,SSP,2019-07-02 03:00:02
+110205,Commission Account,0.00,SSP,2019-07-02 03:00:02
+110205,Organization eMoney Account (Float Account),0.00,SSP,2019-07-02 03:00:02
+110205,Organization eMoney Account (working Account),0.00,SSP,2019-07-02 03:00:02
+110207,Commission Account,0.00,SSP,2019-07-02 03:00:02
+110207,Organization eMoney Account (Float Account),0.00,SSP,2019-07-02 03:00:02
+110207,Organization eMoney Account (working Account),0.00,SSP,2019-07-02 03:00:02
+110200,Commission Account,0.00,SSP,2019-07-02 03:00:02
+110200,Organization eMoney Account (Float Account),0.00,SSP,2019-07-02 03:00:02
+110200,Organization eMoney Account (working Account),0.00,SSP,2019-07-02 03:00:02
+110201,Commission Account,0.00,SSP,2019-07-02 03:00:02
+100272,Commission Account,0.00,SSP,2019-07-02 03:00:02
+100272,Organization eMoney Account (Float Account),0.00,SSP,2019-07-02 03:00:02
+100272,Organization eMoney Account (working Account),0.00,SSP,2019-07-02 03:00:02
+100290,Commission Account,0.00,SSP,2019-07-02 03:00:02
+100290,Organization eMoney Account (Float Account),0.00,SSP,2019-07-02 03:00:02
+100290,Organization eMoney Account (working Account),0.00,SSP,2019-07-02 03:00:02
+110204,Commission Account,0.00,SSP,2019-07-02 03:00:02
+110204,Organization eMoney Account (Float Account),0.00,SSP,2019-07-02 03:00:02
+110204,Organization eMoney Account (working Account),0.00,SSP,2019-07-02 03:00:02
+110208,Commission Account,0.00,SSP,2019-07-02 03:00:02
+110208,Organization eMoney Account (Float Account),0.00,SSP,2019-07-02 03:00:02
+110208,Organization eMoney Account (working Account),0.00,SSP,2019-07-02 03:00:02
+110201,Organization eMoney Account (Float Account),0.00,SSP,2019-07-02 03:00:02
+110201,Organization eMoney Account (working Account),0.00,SSP,2019-07-02 03:00:02
+110209,Commission Account,0.00,SSP,2019-07-02 03:00:02
+110209,Organization eMoney Account (Float Account),0.00,SSP,2019-07-02 03:00:02
+110209,Organization eMoney Account (working Account),0.00,SSP,2019-07-02 03:00:02
+100408,Commission Account,0.00,SSP,2019-07-02 03:00:02
+100408,Organization eMoney Account (Float Account),0.00,SSP,2019-07-02 03:00:02
+100408,Organization eMoney Account (working Account),0.00,SSP,2019-07-02 03:00:02
+100409,Commission Account,0.00,SSP,2019-07-02 03:00:02
+100409,Organization eMoney Account (Float Account),0.00,SSP,2019-07-02 03:00:02
+100409,Organization eMoney Account (working Account),0.00,SSP,2019-07-02 03:00:02
+100204,Commission Account,0.00,SSP,2019-07-02 03:00:02
+100204,Organization eMoney Account (Float Account),0.00,SSP,2019-07-02 03:00:02
+100204,Organization eMoney Account (working Account),0.00,SSP,2019-07-02 03:00:02
+100263,Commission Account,0.00,SSP,2019-07-02 03:00:02
+100263,Organization eMoney Account (Float Account),0.00,SSP,2019-07-02 03:00:02
+100263,Organization eMoney Account (working Account),0.00,SSP,2019-07-02 03:00:02
+100243,Commission Account,0.00,SSP,2019-07-02 03:00:02
+100243,Organization eMoney Account (Float Account),0.00,SSP,2019-07-02 03:00:02
+100243,Organization eMoney Account (working Account),0.00,SSP,2019-07-02 03:00:02
+100237,Commission Account,0.00,SSP,2019-07-02 03:00:02
+100237,Organization eMoney Account (Float Account),0.00,SSP,2019-07-02 03:00:02
+100237,Organization eMoney Account (working Account),0.00,SSP,2019-07-02 03:00:02
+100232,Commission Account,0.00,SSP,2019-07-02 03:00:02
+100232,Organization eMoney Account (Float Account),0.00,SSP,2019-07-02 03:00:02
+100232,Organization eMoney Account (working Account),10000.00,SSP,2019-07-02 03:00:02
+100250,Commission Account,0.00,SSP,2019-07-02 03:00:02
+100250,Organization eMoney Account (Float Account),0.00,SSP,2019-07-02 03:00:02
+100250,Organization eMoney Account (working Account),0.00,SSP,2019-07-02 03:00:02
+100221,Commission Account,0.00,SSP,2019-07-02 03:00:02
+100221,Organization eMoney Account (Float Account),0.00,SSP,2019-07-02 03:00:02
+100221,Organization eMoney Account (working Account),0.00,SSP,2019-07-02 03:00:02
+100218,Commission Account,0.00,SSP,2019-07-02 03:00:02
+100218,Organization eMoney Account (Float Account),0.00,SSP,2019-07-02 03:00:02
+100218,Organization eMoney Account (working Account),0.00,SSP,2019-07-02 03:00:02
+100260,Commission Account,0.00,SSP,2019-07-02 03:00:02
+100260,Organization eMoney Account (Float Account),0.00,SSP,2019-07-02 03:00:02
+100260,Organization eMoney Account (working Account),0.00,SSP,2019-07-02 03:00:02
+100285,Organization eMoney Account (working Account),0.00,SSP,2019-07-02 03:00:02
+100287,Commission Account,0.00,SSP,2019-07-02 03:00:02
+100287,Organization eMoney Account (Float Account),0.00,SSP,2019-07-02 03:00:02
+100287,Organization eMoney Account (working Account),0.00,SSP,2019-07-02 03:00:02
+100289,Commission Account,0.00,SSP,2019-07-02 03:00:02
+100289,Organization eMoney Account (Float Account),0.00,SSP,2019-07-02 03:00:02
+100289,Organization eMoney Account (working Account),0.00,SSP,2019-07-02 03:00:02
+100292,Commission Account,0.00,SSP,2019-07-02 03:00:02
+100292,Organization eMoney Account (Float Account),0.00,SSP,2019-07-02 03:00:02
+100292,Organization eMoney Account (working Account),0.00,SSP,2019-07-02 03:00:02
+100417,Organization eMoney Account (Float Account),0.00,SSP,2019-07-02 03:00:02
+100417,Organization eMoney Account (working Account),0.00,SSP,2019-07-02 03:00:02
+100402,Commission Account,0.00,SSP,2019-07-02 03:00:02
+100402,Organization eMoney Account (Float Account),0.00,SSP,2019-07-02 03:00:02
+100402,Organization eMoney Account (working Account),0.00,SSP,2019-07-02 03:00:02
+100403,Commission Account,0.00,SSP,2019-07-02 03:00:02
+100217,Commission Account,0.00,SSP,2019-07-02 03:00:02
+100217,Organization eMoney Account (Float Account),0.00,SSP,2019-07-02 03:00:02
+100217,Organization eMoney Account (working Account),0.00,SSP,2019-07-02 03:00:02
+100403,Organization eMoney Account (Float Account),0.00,SSP,2019-07-02 03:00:02
+100403,Organization eMoney Account (working Account),0.00,SSP,2019-07-02 03:00:02
+110203,Commission Account,0.00,SSP,2019-07-02 03:00:02
+110203,Organization eMoney Account (Float Account),0.00,SSP,2019-07-02 03:00:02
+110203,Organization eMoney Account (working Account),0.00,SSP,2019-07-02 03:00:02
+100407,Commission Account,0.00,SSP,2019-07-02 03:00:02
+100407,Organization eMoney Account (Float Account),0.00,SSP,2019-07-02 03:00:02
+123457,Commission Account,0.00,SSP,2019-07-02 03:00:02
+123457,Organization eMoney Account (Float Account),0.00,SSP,2019-07-02 03:00:02
+123457,Organization eMoney Account (working Account),0.00,SSP,2019-07-02 03:00:02
+100205,Commission Account,0.00,SSP,2019-07-02 03:00:02
+100205,Organization eMoney Account (Float Account),0.00,SSP,2019-07-02 03:00:02
+100205,Organization eMoney Account (working Account),0.00,SSP,2019-07-02 03:00:02
+100211,Commission Account,0.00,SSP,2019-07-02 03:00:02
+100211,Organization eMoney Account (Float Account),0.00,SSP,2019-07-02 03:00:02
+100211,Organization eMoney Account (working Account),0.00,SSP,2019-07-02 03:00:02
+100212,Commission Account,0.00,SSP,2019-07-02 03:00:02
+100212,Organization eMoney Account (Float Account),0.00,SSP,2019-07-02 03:00:02
+100212,Organization eMoney Account (working Account),0.00,SSP,2019-07-02 03:00:02
+100226,Commission Account,0.00,SSP,2019-07-02 03:00:02
+100226,Organization eMoney Account (Float Account),0.00,SSP,2019-07-02 03:00:02
+100226,Organization eMoney Account (working Account),0.00,SSP,2019-07-02 03:00:02
+100245,Commission Account,0.00,SSP,2019-07-02 03:00:02
+100245,Organization eMoney Account (Float Account),0.00,SSP,2019-07-02 03:00:02
+100245,Organization eMoney Account (working Account),0.00,SSP,2019-07-02 03:00:02
+100257,Commission Account,0.00,SSP,2019-07-02 03:00:02
+100257,Organization eMoney Account (Float Account),0.00,SSP,2019-07-02 03:00:02
+100257,Organization eMoney Account (working Account),0.00,SSP,2019-07-02 03:00:02
+100407,Organization eMoney Account (working Account),0.00,SSP,2019-07-02 03:00:02
+100410,Commission Account,0.00,SSP,2019-07-02 03:00:02
+100410,Organization eMoney Account (Float Account),0.00,SSP,2019-07-02 03:00:02
+100410,Organization eMoney Account (working Account),0.00,SSP,2019-07-02 03:00:02
+123456,Organization eMoney Account (Float Account),0.00,SSP,2019-07-02 03:00:02
+123456,Organization eMoney Account (working Account),0.00,SSP,2019-07-02 03:00:02
+100207,Commission Account,0.00,SSP,2019-07-02 03:00:02
+100207,Organization eMoney Account (Float Account),0.00,SSP,2019-07-02 03:00:02
+100207,Organization eMoney Account (working Account),0.00,SSP,2019-07-02 03:00:02
+100209,Commission Account,0.00,SSP,2019-07-02 03:00:02
+100209,Organization eMoney Account (Float Account),0.00,SSP,2019-07-02 03:00:02
+100209,Organization eMoney Account (working Account),0.00,SSP,2019-07-02 03:00:02
+100214,Commission Account,0.00,SSP,2019-07-02 03:00:02
+100214,Organization eMoney Account (Float Account),0.00,SSP,2019-07-02 03:00:02
+100214,Organization eMoney Account (working Account),0.00,SSP,2019-07-02 03:00:02
+100220,Commission Account,0.00,SSP,2019-07-02 03:00:02
+100220,Organization eMoney Account (Float Account),0.00,SSP,2019-07-02 03:00:02
+100220,Organization eMoney Account (working Account),0.00,SSP,2019-07-02 03:00:02
+100265,Commission Account,0.00,SSP,2019-07-02 03:00:02
+100265,Organization eMoney Account (Float Account),0.00,SSP,2019-07-02 03:00:02
+100265,Organization eMoney Account (working Account),0.00,SSP,2019-07-02 03:00:02
+100267,Commission Account,0.00,SSP,2019-07-02 03:00:02
+100267,Organization eMoney Account (Float Account),0.00,SSP,2019-07-02 03:00:02
+100267,Organization eMoney Account (working Account),0.00,SSP,2019-07-02 03:00:02
+100295,Commission Account,0.00,SSP,2019-07-02 03:00:02
+100295,Organization eMoney Account (Float Account),0.00,SSP,2019-07-02 03:00:02
+100295,Organization eMoney Account (working Account),0.00,SSP,2019-07-02 03:00:02
+123456,Commission Account,0.00,SSP,2019-07-02 03:00:02
+100206,Commission Account,0.00,SSP,2019-07-02 03:00:02
+100206,Organization eMoney Account (Float Account),0.00,SSP,2019-07-02 03:00:02
+100206,Organization eMoney Account (working Account),0.00,SSP,2019-07-02 03:00:02
+100219,Commission Account,0.00,SSP,2019-07-02 03:00:02
+100219,Organization eMoney Account (Float Account),0.00,SSP,2019-07-02 03:00:02
+100219,Organization eMoney Account (working Account),0.00,SSP,2019-07-02 03:00:02
+100222,Commission Account,0.00,SSP,2019-07-02 03:00:02
+100222,Organization eMoney Account (Float Account),0.00,SSP,2019-07-02 03:00:02
+100222,Organization eMoney Account (working Account),0.00,SSP,2019-07-02 03:00:02
+100253,Commission Account,0.00,SSP,2019-07-02 03:00:02
+100253,Organization eMoney Account (Float Account),0.00,SSP,2019-07-02 03:00:02
+100253,Organization eMoney Account (working Account),0.00,SSP,2019-07-02 03:00:02
+100241,Commission Account,0.00,SSP,2019-07-02 03:00:02
+100241,Organization eMoney Account (Float Account),0.00,SSP,2019-07-02 03:00:02
+100241,Organization eMoney Account (working Account),0.00,SSP,2019-07-02 03:00:02
+100239,Commission Account,0.00,SSP,2019-07-02 03:00:02
+100239,Organization eMoney Account (Float Account),0.00,SSP,2019-07-02 03:00:02
+100239,Organization eMoney Account (working Account),0.00,SSP,2019-07-02 03:00:02
+100249,Commission Account,0.00,SSP,2019-07-02 03:00:02
+100249,Organization eMoney Account (Float Account),0.00,SSP,2019-07-02 03:00:02
+100249,Organization eMoney Account (working Account),0.00,SSP,2019-07-02 03:00:02
+100255,Commission Account,0.00,SSP,2019-07-02 03:00:02
+100255,Organization eMoney Account (Float Account),0.00,SSP,2019-07-02 03:00:02
+100255,Organization eMoney Account (working Account),0.00,SSP,2019-07-02 03:00:02
+100227,Commission Account,0.00,SSP,2019-07-02 03:00:02
+100227,Organization eMoney Account (Float Account),0.00,SSP,2019-07-02 03:00:02
+100227,Organization eMoney Account (working Account),0.00,SSP,2019-07-02 03:00:02
+100252,Commission Account,0.00,SSP,2019-07-02 03:00:02
+100252,Organization eMoney Account (Float Account),0.00,SSP,2019-07-02 03:00:02
+100252,Organization eMoney Account (working Account),0.00,SSP,2019-07-02 03:00:02
+100229,Commission Account,0.00,SSP,2019-07-02 03:00:02
+100229,Organization eMoney Account (Float Account),0.00,SSP,2019-07-02 03:00:02
+100229,Organization eMoney Account (working Account),0.00,SSP,2019-07-02 03:00:02
+100240,Commission Account,0.00,SSP,2019-07-02 03:00:02
+100240,Organization eMoney Account (Float Account),0.00,SSP,2019-07-02 03:00:02
+100240,Organization eMoney Account (working Account),0.00,SSP,2019-07-02 03:00:02
+100244,Commission Account,0.00,SSP,2019-07-02 03:00:02
+100244,Organization eMoney Account (Float Account),0.00,SSP,2019-07-02 03:00:02
+100244,Organization eMoney Account (working Account),0.00,SSP,2019-07-02 03:00:02
+100231,Commission Account,0.00,SSP,2019-07-02 03:00:02
+100231,Organization eMoney Account (Float Account),0.00,SSP,2019-07-02 03:00:02
+100231,Organization eMoney Account (working Account),0.00,SSP,2019-07-02 03:00:02
+100233,Commission Account,0.00,SSP,2019-07-02 03:00:02
+100233,Organization eMoney Account (Float Account),0.00,SSP,2019-07-02 03:00:02
+100233,Organization eMoney Account (working Account),0.00,SSP,2019-07-02 03:00:02
+100254,Commission Account,0.00,SSP,2019-07-02 03:00:02
+100254,Organization eMoney Account (Float Account),0.00,SSP,2019-07-02 03:00:02
+100254,Organization eMoney Account (working Account),0.00,SSP,2019-07-02 03:00:02
+100259,Commission Account,0.00,SSP,2019-07-02 03:00:02
+100259,Organization eMoney Account (Float Account),0.00,SSP,2019-07-02 03:00:02
+100259,Organization eMoney Account (working Account),0.00,SSP,2019-07-02 03:00:02
+100264,Commission Account,0.00,SSP,2019-07-02 03:00:02
+100264,Organization eMoney Account (Float Account),0.00,SSP,2019-07-02 03:00:02
+100264,Organization eMoney Account (working Account),0.00,SSP,2019-07-02 03:00:02
+100276,Commission Account,0.00,SSP,2019-07-02 03:00:02
+100276,Organization eMoney Account (Float Account),0.00,SSP,2019-07-02 03:00:02
+100200,Commission Account,0.00,SSP,2019-07-02 03:00:02
+100200,Organization eMoney Account (Float Account),200000.00,SSP,2019-07-02 03:00:02
+100200,Organization eMoney Account (working Account),388250.00,SSP,2019-07-02 03:00:02
+100215,Commission Account,0.00,SSP,2019-07-02 03:00:02
+100215,Organization eMoney Account (Float Account),0.00,SSP,2019-07-02 03:00:02
+100215,Organization eMoney Account (working Account),0.00,SSP,2019-07-02 03:00:02
+100210,Commission Account,0.00,SSP,2019-07-02 03:00:02
+100210,Organization eMoney Account (Float Account),0.00,SSP,2019-07-02 03:00:02
+100210,Organization eMoney Account (working Account),0.00,SSP,2019-07-02 03:00:02
+100223,Commission Account,0.00,SSP,2019-07-02 03:00:02
+100223,Organization eMoney Account (Float Account),0.00,SSP,2019-07-02 03:00:02
+100223,Organization eMoney Account (working Account),0.00,SSP,2019-07-02 03:00:02
+100251,Commission Account,0.00,SSP,2019-07-02 03:00:02
+100251,Organization eMoney Account (Float Account),0.00,SSP,2019-07-02 03:00:02
+100251,Organization eMoney Account (working Account),0.00,SSP,2019-07-02 03:00:02
+100228,Commission Account,0.00,SSP,2019-07-02 03:00:02
+100228,Organization eMoney Account (Float Account),0.00,SSP,2019-07-02 03:00:02
+100228,Organization eMoney Account (working Account),0.00,SSP,2019-07-02 03:00:02
+100235,Commission Account,0.00,SSP,2019-07-02 03:00:02
+100235,Organization eMoney Account (Float Account),0.00,SSP,2019-07-02 03:00:02
+100235,Organization eMoney Account (working Account),0.00,SSP,2019-07-02 03:00:02
+100258,Commission Account,0.00,SSP,2019-07-02 03:00:02
+100258,Organization eMoney Account (Float Account),0.00,SSP,2019-07-02 03:00:02
+100258,Organization eMoney Account (working Account),0.00,SSP,2019-07-02 03:00:02
+100261,Commission Account,0.00,SSP,2019-07-02 03:00:02
+100261,Organization eMoney Account (Float Account),0.00,SSP,2019-07-02 03:00:02
+100261,Organization eMoney Account (working Account),0.00,SSP,2019-07-02 03:00:02
+100276,Organization eMoney Account (working Account),0.00,SSP,2019-07-02 03:00:02
+100297,Commission Account,0.00,SSP,2019-07-02 03:00:02
+100297,Organization eMoney Account (Float Account),0.00,SSP,2019-07-02 03:00:02
+100297,Organization eMoney Account (working Account),0.00,SSP,2019-07-02 03:00:02
+100417,Commission Account,0.00,SSP,2019-07-02 03:00:02
+100300,Commission Account,0.00,SSP,2019-07-02 03:00:02
+100300,Organization eMoney Account (Float Account),0.00,SSP,2019-07-02 03:00:02
+100300,Organization eMoney Account (working Account),0.00,SSP,2019-07-02 03:00:02
+100234,Commission Account,0.00,SSP,2019-07-02 03:00:02
+100234,Organization eMoney Account (Float Account),0.00,SSP,2019-07-02 03:00:02
+100234,Organization eMoney Account (working Account),0.00,SSP,2019-07-02 03:00:02
+100270,Commission Account,0.00,SSP,2019-07-02 03:00:02
+100270,Organization eMoney Account (Float Account),0.00,SSP,2019-07-02 03:00:02
+100270,Organization eMoney Account (working Account),0.00,SSP,2019-07-02 03:00:02
+100271,Commission Account,0.00,SSP,2019-07-02 03:00:02
+100271,Organization eMoney Account (Float Account),0.00,SSP,2019-07-02 03:00:02
+100271,Organization eMoney Account (working Account),0.00,SSP,2019-07-02 03:00:02
+100266,Commission Account,0.00,SSP,2019-07-02 03:00:02
+100266,Organization eMoney Account (Float Account),0.00,SSP,2019-07-02 03:00:02
+100266,Organization eMoney Account (working Account),0.00,SSP,2019-07-02 03:00:02
+100268,Commission Account,0.00,SSP,2019-07-02 03:00:02
+100268,Organization eMoney Account (Float Account),0.00,SSP,2019-07-02 03:00:02
+100268,Organization eMoney Account (working Account),0.00,SSP,2019-07-02 03:00:02
+100281,Commission Account,0.00,SSP,2019-07-02 03:00:02
+100281,Organization eMoney Account (Float Account),0.00,SSP,2019-07-02 03:00:02
+100281,Organization eMoney Account (working Account),0.00,SSP,2019-07-02 03:00:02
+100274,Commission Account,0.00,SSP,2019-07-02 03:00:02
+100274,Organization eMoney Account (Float Account),0.00,SSP,2019-07-02 03:00:02
+100274,Organization eMoney Account (working Account),0.00,SSP,2019-07-02 03:00:02
+100283,Commission Account,0.00,SSP,2019-07-02 03:00:02
+100283,Organization eMoney Account (Float Account),0.00,SSP,2019-07-02 03:00:02
+100283,Organization eMoney Account (working Account),0.00,SSP,2019-07-02 03:00:02
+100285,Commission Account,0.00,SSP,2019-07-02 03:00:02
+100285,Organization eMoney Account (Float Account),0.00,SSP,2019-07-02 03:00:02
+Short Code, Account Type, Available Balance, Currency, Date
+100201,Commission Account,0.00,SSP,2019-07-03 03:00:02
+100201,Organization eMoney Account (Float Account),0.00,SSP,2019-07-03 03:00:02
+100201,Organization eMoney Account (working Account),0.00,SSP,2019-07-03 03:00:02
+100216,Commission Account,0.00,SSP,2019-07-03 03:00:02
+100216,Organization eMoney Account (Float Account),0.00,SSP,2019-07-03 03:00:02
+100216,Organization eMoney Account (working Account),0.00,SSP,2019-07-03 03:00:02
+100208,Commission Account,0.00,SSP,2019-07-03 03:00:02
+100208,Organization eMoney Account (Float Account),0.00,SSP,2019-07-03 03:00:02
+100208,Organization eMoney Account (working Account),0.00,SSP,2019-07-03 03:00:02
+100225,Commission Account,0.00,SSP,2019-07-03 03:00:02
+100225,Organization eMoney Account (Float Account),0.00,SSP,2019-07-03 03:00:02
+100225,Organization eMoney Account (working Account),0.00,SSP,2019-07-03 03:00:02
+100230,Commission Account,0.00,SSP,2019-07-03 03:00:02
+100230,Organization eMoney Account (Float Account),0.00,SSP,2019-07-03 03:00:02
+100230,Organization eMoney Account (working Account),0.00,SSP,2019-07-03 03:00:02
+100242,Commission Account,0.00,SSP,2019-07-03 03:00:02
+100242,Organization eMoney Account (Float Account),0.00,SSP,2019-07-03 03:00:02
+100242,Organization eMoney Account (working Account),0.00,SSP,2019-07-03 03:00:02
+100236,Commission Account,0.00,SSP,2019-07-03 03:00:02
+100236,Organization eMoney Account (Float Account),0.00,SSP,2019-07-03 03:00:02
+100236,Organization eMoney Account (working Account),0.00,SSP,2019-07-03 03:00:02
+100238,Commission Account,0.00,SSP,2019-07-03 03:00:02
+100238,Organization eMoney Account (Float Account),0.00,SSP,2019-07-03 03:00:02
+100238,Organization eMoney Account (working Account),0.00,SSP,2019-07-03 03:00:02
+100246,Commission Account,0.00,SSP,2019-07-03 03:00:02
+100246,Organization eMoney Account (Float Account),0.00,SSP,2019-07-03 03:00:02
+100246,Organization eMoney Account (working Account),0.00,SSP,2019-07-03 03:00:02
+100248,Commission Account,0.00,SSP,2019-07-03 03:00:02
+100248,Organization eMoney Account (Float Account),0.00,SSP,2019-07-03 03:00:02
+100248,Organization eMoney Account (working Account),0.00,SSP,2019-07-03 03:00:02
+100262,Commission Account,0.00,SSP,2019-07-03 03:00:02
+100262,Organization eMoney Account (Float Account),0.00,SSP,2019-07-03 03:00:02
+100262,Organization eMoney Account (working Account),0.00,SSP,2019-07-03 03:00:02
+100202,Commission Account,151.00,SSP,2019-07-03 03:00:02
+100202,Organization eMoney Account (Float Account),87560.00,SSP,2019-07-03 03:00:02
+100202,Organization eMoney Account (working Account),0.00,SSP,2019-07-03 03:00:02
+100278,Commission Account,0.00,SSP,2019-07-03 03:00:02
+100278,Organization eMoney Account (Float Account),0.00,SSP,2019-07-03 03:00:02
+100278,Organization eMoney Account (working Account),0.00,SSP,2019-07-03 03:00:02
+100296,Commission Account,0.00,SSP,2019-07-03 03:00:02
+100296,Organization eMoney Account (Float Account),0.00,SSP,2019-07-03 03:00:02
+100296,Organization eMoney Account (working Account),0.00,SSP,2019-07-03 03:00:02
+100299,Commission Account,0.00,SSP,2019-07-03 03:00:02
+100299,Organization eMoney Account (Float Account),0.00,SSP,2019-07-03 03:00:02
+100299,Organization eMoney Account (working Account),0.00,SSP,2019-07-03 03:00:02
+100291,Commission Account,0.00,SSP,2019-07-03 03:00:02
+100291,Organization eMoney Account (Float Account),0.00,SSP,2019-07-03 03:00:02
+100291,Organization eMoney Account (working Account),0.00,SSP,2019-07-03 03:00:02
+100293,Commission Account,0.00,SSP,2019-07-03 03:00:02
+100293,Organization eMoney Account (Float Account),0.00,SSP,2019-07-03 03:00:02
+100293,Organization eMoney Account (working Account),0.00,SSP,2019-07-03 03:00:02
+100404,Commission Account,0.00,SSP,2019-07-03 03:00:02
+100404,Organization eMoney Account (Float Account),0.00,SSP,2019-07-03 03:00:02
+100404,Organization eMoney Account (working Account),0.00,SSP,2019-07-03 03:00:02
+100406,Commission Account,0.00,SSP,2019-07-03 03:00:02
+100406,Organization eMoney Account (Float Account),0.00,SSP,2019-07-03 03:00:02
+100406,Organization eMoney Account (working Account),0.00,SSP,2019-07-03 03:00:02
+110206,Commission Account,0.00,SSP,2019-07-03 03:00:02
+110206,Organization eMoney Account (Float Account),0.00,SSP,2019-07-03 03:00:02
+110206,Organization eMoney Account (working Account),0.00,SSP,2019-07-03 03:00:02
+100400,Commission Account,0.00,SSP,2019-07-03 03:00:02
+100400,Organization eMoney Account (Float Account),0.00,SSP,2019-07-03 03:00:02
+100400,Organization eMoney Account (working Account),400000.00,SSP,2019-07-03 03:00:02
+100213,Commission Account,0.00,SSP,2019-07-03 03:00:02
+100213,Organization eMoney Account (Float Account),0.00,SSP,2019-07-03 03:00:02
+100213,Organization eMoney Account (working Account),0.00,SSP,2019-07-03 03:00:02
+100224,Commission Account,0.00,SSP,2019-07-03 03:00:02
+100224,Organization eMoney Account (Float Account),0.00,SSP,2019-07-03 03:00:02
+100224,Organization eMoney Account (working Account),0.00,SSP,2019-07-03 03:00:02
+100247,Commission Account,0.00,SSP,2019-07-03 03:00:02
+100247,Organization eMoney Account (Float Account),0.00,SSP,2019-07-03 03:00:02
+100247,Organization eMoney Account (working Account),0.00,SSP,2019-07-03 03:00:02
+100256,Commission Account,0.00,SSP,2019-07-03 03:00:02
+100256,Organization eMoney Account (Float Account),0.00,SSP,2019-07-03 03:00:02
+100256,Organization eMoney Account (working Account),0.00,SSP,2019-07-03 03:00:02
+100269,Commission Account,0.00,SSP,2019-07-03 03:00:02
+100269,Organization eMoney Account (Float Account),0.00,SSP,2019-07-03 03:00:02
+100269,Organization eMoney Account (working Account),0.00,SSP,2019-07-03 03:00:02
+100277,Commission Account,0.00,SSP,2019-07-03 03:00:02
+100277,Organization eMoney Account (Float Account),0.00,SSP,2019-07-03 03:00:02
+100277,Organization eMoney Account (working Account),0.00,SSP,2019-07-03 03:00:02
+100279,Commission Account,0.00,SSP,2019-07-03 03:00:02
+100279,Organization eMoney Account (Float Account),0.00,SSP,2019-07-03 03:00:02
+100279,Organization eMoney Account (working Account),0.00,SSP,2019-07-03 03:00:02
+100280,Commission Account,0.00,SSP,2019-07-03 03:00:02
+100280,Organization eMoney Account (Float Account),0.00,SSP,2019-07-03 03:00:02
+100280,Organization eMoney Account (working Account),0.00,SSP,2019-07-03 03:00:02
+100273,Commission Account,0.00,SSP,2019-07-03 03:00:02
+100273,Organization eMoney Account (Float Account),0.00,SSP,2019-07-03 03:00:02
+100273,Organization eMoney Account (working Account),0.00,SSP,2019-07-03 03:00:02
+100282,Commission Account,0.00,SSP,2019-07-03 03:00:02
+100282,Organization eMoney Account (Float Account),0.00,SSP,2019-07-03 03:00:02
+100282,Organization eMoney Account (working Account),0.00,SSP,2019-07-03 03:00:02
+100275,Commission Account,0.00,SSP,2019-07-03 03:00:02
+100275,Organization eMoney Account (Float Account),0.00,SSP,2019-07-03 03:00:02
+100275,Organization eMoney Account (working Account),0.00,SSP,2019-07-03 03:00:02
+100284,Commission Account,0.00,SSP,2019-07-03 03:00:02
+100284,Organization eMoney Account (Float Account),0.00,SSP,2019-07-03 03:00:02
+100284,Organization eMoney Account (working Account),0.00,SSP,2019-07-03 03:00:02
+100286,Commission Account,0.00,SSP,2019-07-03 03:00:02
+100286,Organization eMoney Account (Float Account),0.00,SSP,2019-07-03 03:00:02
+100286,Organization eMoney Account (working Account),0.00,SSP,2019-07-03 03:00:02
+100298,Commission Account,0.00,SSP,2019-07-03 03:00:02
+100298,Organization eMoney Account (Float Account),0.00,SSP,2019-07-03 03:00:02
+100298,Organization eMoney Account (working Account),0.00,SSP,2019-07-03 03:00:02
+100288,Commission Account,0.00,SSP,2019-07-03 03:00:02
+100288,Organization eMoney Account (Float Account),0.00,SSP,2019-07-03 03:00:02
+100288,Organization eMoney Account (working Account),0.00,SSP,2019-07-03 03:00:02
+100294,Commission Account,0.00,SSP,2019-07-03 03:00:02
+100294,Organization eMoney Account (Float Account),0.00,SSP,2019-07-03 03:00:02
+100294,Organization eMoney Account (working Account),0.00,SSP,2019-07-03 03:00:02
+100401,Commission Account,0.00,SSP,2019-07-03 03:00:02
+100401,Organization eMoney Account (Float Account),0.00,SSP,2019-07-03 03:00:02
+100401,Organization eMoney Account (working Account),0.00,SSP,2019-07-03 03:00:02
+100405,Commission Account,0.00,SSP,2019-07-03 03:00:02
+100405,Organization eMoney Account (Float Account),0.00,SSP,2019-07-03 03:00:02
+100405,Organization eMoney Account (working Account),0.00,SSP,2019-07-03 03:00:02
+110205,Commission Account,0.00,SSP,2019-07-03 03:00:02
+110205,Organization eMoney Account (Float Account),0.00,SSP,2019-07-03 03:00:02
+110205,Organization eMoney Account (working Account),0.00,SSP,2019-07-03 03:00:02
+110207,Commission Account,0.00,SSP,2019-07-03 03:00:02
+110207,Organization eMoney Account (Float Account),0.00,SSP,2019-07-03 03:00:02
+110207,Organization eMoney Account (working Account),0.00,SSP,2019-07-03 03:00:02
+110200,Commission Account,0.00,SSP,2019-07-03 03:00:02
+110200,Organization eMoney Account (Float Account),0.00,SSP,2019-07-03 03:00:02
+110200,Organization eMoney Account (working Account),0.00,SSP,2019-07-03 03:00:02
+110201,Commission Account,0.00,SSP,2019-07-03 03:00:02
+100272,Commission Account,0.00,SSP,2019-07-03 03:00:02
+100272,Organization eMoney Account (Float Account),0.00,SSP,2019-07-03 03:00:02
+100272,Organization eMoney Account (working Account),0.00,SSP,2019-07-03 03:00:02
+100290,Commission Account,0.00,SSP,2019-07-03 03:00:02
+100290,Organization eMoney Account (Float Account),0.00,SSP,2019-07-03 03:00:02
+100290,Organization eMoney Account (working Account),0.00,SSP,2019-07-03 03:00:02
+110204,Commission Account,0.00,SSP,2019-07-03 03:00:02
+110204,Organization eMoney Account (Float Account),0.00,SSP,2019-07-03 03:00:02
+110204,Organization eMoney Account (working Account),0.00,SSP,2019-07-03 03:00:02
+110208,Commission Account,0.00,SSP,2019-07-03 03:00:02
+110208,Organization eMoney Account (Float Account),0.00,SSP,2019-07-03 03:00:02
+110208,Organization eMoney Account (working Account),0.00,SSP,2019-07-03 03:00:02
+110201,Organization eMoney Account (Float Account),0.00,SSP,2019-07-03 03:00:02
+110201,Organization eMoney Account (working Account),0.00,SSP,2019-07-03 03:00:02
+110209,Commission Account,0.00,SSP,2019-07-03 03:00:02
+110209,Organization eMoney Account (Float Account),0.00,SSP,2019-07-03 03:00:02
+110209,Organization eMoney Account (working Account),0.00,SSP,2019-07-03 03:00:02
+100408,Commission Account,0.00,SSP,2019-07-03 03:00:02
+100408,Organization eMoney Account (Float Account),0.00,SSP,2019-07-03 03:00:02
+100408,Organization eMoney Account (working Account),0.00,SSP,2019-07-03 03:00:02
+100409,Commission Account,0.00,SSP,2019-07-03 03:00:02
+100409,Organization eMoney Account (Float Account),0.00,SSP,2019-07-03 03:00:02
+100409,Organization eMoney Account (working Account),0.00,SSP,2019-07-03 03:00:02
+100204,Commission Account,0.00,SSP,2019-07-03 03:00:02
+100204,Organization eMoney Account (Float Account),0.00,SSP,2019-07-03 03:00:02
+100204,Organization eMoney Account (working Account),0.00,SSP,2019-07-03 03:00:02
+100263,Commission Account,0.00,SSP,2019-07-03 03:00:02
+100263,Organization eMoney Account (Float Account),0.00,SSP,2019-07-03 03:00:02
+100263,Organization eMoney Account (working Account),0.00,SSP,2019-07-03 03:00:02
+100243,Commission Account,0.00,SSP,2019-07-03 03:00:02
+100243,Organization eMoney Account (Float Account),0.00,SSP,2019-07-03 03:00:02
+100243,Organization eMoney Account (working Account),0.00,SSP,2019-07-03 03:00:02
+100237,Commission Account,0.00,SSP,2019-07-03 03:00:02
+100237,Organization eMoney Account (Float Account),0.00,SSP,2019-07-03 03:00:02
+100237,Organization eMoney Account (working Account),0.00,SSP,2019-07-03 03:00:02
+100232,Commission Account,0.00,SSP,2019-07-03 03:00:02
+100232,Organization eMoney Account (Float Account),0.00,SSP,2019-07-03 03:00:02
+100232,Organization eMoney Account (working Account),10000.00,SSP,2019-07-03 03:00:02
+100250,Commission Account,0.00,SSP,2019-07-03 03:00:02
+100250,Organization eMoney Account (Float Account),0.00,SSP,2019-07-03 03:00:02
+100250,Organization eMoney Account (working Account),0.00,SSP,2019-07-03 03:00:02
+100221,Commission Account,0.00,SSP,2019-07-03 03:00:02
+100221,Organization eMoney Account (Float Account),0.00,SSP,2019-07-03 03:00:02
+100221,Organization eMoney Account (working Account),0.00,SSP,2019-07-03 03:00:02
+100218,Commission Account,0.00,SSP,2019-07-03 03:00:02
+100218,Organization eMoney Account (Float Account),0.00,SSP,2019-07-03 03:00:02
+100218,Organization eMoney Account (working Account),0.00,SSP,2019-07-03 03:00:02
+100260,Commission Account,0.00,SSP,2019-07-03 03:00:02
+100260,Organization eMoney Account (Float Account),0.00,SSP,2019-07-03 03:00:02
+100260,Organization eMoney Account (working Account),0.00,SSP,2019-07-03 03:00:02
+100285,Organization eMoney Account (working Account),0.00,SSP,2019-07-03 03:00:02
+100287,Commission Account,0.00,SSP,2019-07-03 03:00:02
+100287,Organization eMoney Account (Float Account),0.00,SSP,2019-07-03 03:00:02
+100287,Organization eMoney Account (working Account),0.00,SSP,2019-07-03 03:00:02
+100289,Commission Account,0.00,SSP,2019-07-03 03:00:02
+100289,Organization eMoney Account (Float Account),0.00,SSP,2019-07-03 03:00:02
+100289,Organization eMoney Account (working Account),0.00,SSP,2019-07-03 03:00:02
+100292,Commission Account,0.00,SSP,2019-07-03 03:00:02
+100292,Organization eMoney Account (Float Account),0.00,SSP,2019-07-03 03:00:02
+100292,Organization eMoney Account (working Account),0.00,SSP,2019-07-03 03:00:02
+100417,Organization eMoney Account (Float Account),0.00,SSP,2019-07-03 03:00:02
+100417,Organization eMoney Account (working Account),0.00,SSP,2019-07-03 03:00:02
+100402,Commission Account,0.00,SSP,2019-07-03 03:00:02
+100402,Organization eMoney Account (Float Account),0.00,SSP,2019-07-03 03:00:02
+100402,Organization eMoney Account (working Account),0.00,SSP,2019-07-03 03:00:02
+100403,Commission Account,0.00,SSP,2019-07-03 03:00:02
+100217,Commission Account,0.00,SSP,2019-07-03 03:00:02
+100217,Organization eMoney Account (Float Account),0.00,SSP,2019-07-03 03:00:02
+100217,Organization eMoney Account (working Account),0.00,SSP,2019-07-03 03:00:02
+100403,Organization eMoney Account (Float Account),0.00,SSP,2019-07-03 03:00:02
+100403,Organization eMoney Account (working Account),0.00,SSP,2019-07-03 03:00:02
+110203,Commission Account,0.00,SSP,2019-07-03 03:00:02
+110203,Organization eMoney Account (Float Account),0.00,SSP,2019-07-03 03:00:02
+110203,Organization eMoney Account (working Account),0.00,SSP,2019-07-03 03:00:02
+100407,Commission Account,0.00,SSP,2019-07-03 03:00:02
+100407,Organization eMoney Account (Float Account),0.00,SSP,2019-07-03 03:00:02
+123457,Commission Account,0.00,SSP,2019-07-03 03:00:02
+123457,Organization eMoney Account (Float Account),0.00,SSP,2019-07-03 03:00:02
+123457,Organization eMoney Account (working Account),0.00,SSP,2019-07-03 03:00:02
+100205,Commission Account,0.00,SSP,2019-07-03 03:00:02
+100205,Organization eMoney Account (Float Account),0.00,SSP,2019-07-03 03:00:02
+100205,Organization eMoney Account (working Account),0.00,SSP,2019-07-03 03:00:02
+100211,Commission Account,0.00,SSP,2019-07-03 03:00:02
+100211,Organization eMoney Account (Float Account),0.00,SSP,2019-07-03 03:00:02
+100211,Organization eMoney Account (working Account),0.00,SSP,2019-07-03 03:00:02
+100212,Commission Account,0.00,SSP,2019-07-03 03:00:02
+100212,Organization eMoney Account (Float Account),0.00,SSP,2019-07-03 03:00:02
+100212,Organization eMoney Account (working Account),0.00,SSP,2019-07-03 03:00:02
+100226,Commission Account,0.00,SSP,2019-07-03 03:00:02
+100226,Organization eMoney Account (Float Account),0.00,SSP,2019-07-03 03:00:02
+100226,Organization eMoney Account (working Account),0.00,SSP,2019-07-03 03:00:02
+100245,Commission Account,0.00,SSP,2019-07-03 03:00:02
+100245,Organization eMoney Account (Float Account),0.00,SSP,2019-07-03 03:00:02
+100245,Organization eMoney Account (working Account),0.00,SSP,2019-07-03 03:00:02
+100257,Commission Account,0.00,SSP,2019-07-03 03:00:02
+100257,Organization eMoney Account (Float Account),0.00,SSP,2019-07-03 03:00:02
+100257,Organization eMoney Account (working Account),0.00,SSP,2019-07-03 03:00:02
+100407,Organization eMoney Account (working Account),0.00,SSP,2019-07-03 03:00:02
+100410,Commission Account,0.00,SSP,2019-07-03 03:00:02
+100410,Organization eMoney Account (Float Account),0.00,SSP,2019-07-03 03:00:02
+100410,Organization eMoney Account (working Account),0.00,SSP,2019-07-03 03:00:02
+100411,Commission Account,0.00,SSP,2019-07-03 03:00:02
+100411,Organization eMoney Account (Float Account),0.00,SSP,2019-07-03 03:00:02
+100411,Organization eMoney Account (working Account),0.00,SSP,2019-07-03 03:00:02
+100415,Commission Account,0.00,SSP,2019-07-03 03:00:02
+100415,Organization eMoney Account (Float Account),0.00,SSP,2019-07-03 03:00:02
+100415,Organization eMoney Account (working Account),0.00,SSP,2019-07-03 03:00:02
+123456,Organization eMoney Account (Float Account),0.00,SSP,2019-07-03 03:00:02
+123456,Organization eMoney Account (working Account),0.00,SSP,2019-07-03 03:00:02
+100207,Commission Account,0.00,SSP,2019-07-03 03:00:02
+100207,Organization eMoney Account (Float Account),0.00,SSP,2019-07-03 03:00:02
+100207,Organization eMoney Account (working Account),0.00,SSP,2019-07-03 03:00:02
+100209,Commission Account,0.00,SSP,2019-07-03 03:00:02
+100209,Organization eMoney Account (Float Account),0.00,SSP,2019-07-03 03:00:02
+100209,Organization eMoney Account (working Account),0.00,SSP,2019-07-03 03:00:02
+100214,Commission Account,0.00,SSP,2019-07-03 03:00:02
+100214,Organization eMoney Account (Float Account),0.00,SSP,2019-07-03 03:00:02
+100214,Organization eMoney Account (working Account),0.00,SSP,2019-07-03 03:00:02
+100220,Commission Account,0.00,SSP,2019-07-03 03:00:02
+100220,Organization eMoney Account (Float Account),0.00,SSP,2019-07-03 03:00:02
+100220,Organization eMoney Account (working Account),0.00,SSP,2019-07-03 03:00:02
+100265,Commission Account,0.00,SSP,2019-07-03 03:00:02
+100265,Organization eMoney Account (Float Account),0.00,SSP,2019-07-03 03:00:02
+100265,Organization eMoney Account (working Account),0.00,SSP,2019-07-03 03:00:02
+100267,Commission Account,0.00,SSP,2019-07-03 03:00:02
+100267,Organization eMoney Account (Float Account),0.00,SSP,2019-07-03 03:00:02
+100267,Organization eMoney Account (working Account),0.00,SSP,2019-07-03 03:00:02
+100295,Commission Account,0.00,SSP,2019-07-03 03:00:02
+100295,Organization eMoney Account (Float Account),0.00,SSP,2019-07-03 03:00:02
+100295,Organization eMoney Account (working Account),0.00,SSP,2019-07-03 03:00:02
+100412,Commission Account,0.00,SSP,2019-07-03 03:00:02
+100412,Organization eMoney Account (Float Account),0.00,SSP,2019-07-03 03:00:02
+100412,Organization eMoney Account (working Account),0.00,SSP,2019-07-03 03:00:02
+100413,Commission Account,0.00,SSP,2019-07-03 03:00:02
+100413,Organization eMoney Account (Float Account),0.00,SSP,2019-07-03 03:00:02
+100413,Organization eMoney Account (working Account),0.00,SSP,2019-07-03 03:00:02
+100414,Commission Account,0.00,SSP,2019-07-03 03:00:02
+100414,Organization eMoney Account (Float Account),0.00,SSP,2019-07-03 03:00:02
+123456,Commission Account,0.00,SSP,2019-07-03 03:00:02
+100206,Commission Account,0.00,SSP,2019-07-03 03:00:02
+100206,Organization eMoney Account (Float Account),0.00,SSP,2019-07-03 03:00:02
+100206,Organization eMoney Account (working Account),0.00,SSP,2019-07-03 03:00:02
+100219,Commission Account,0.00,SSP,2019-07-03 03:00:02
+100219,Organization eMoney Account (Float Account),0.00,SSP,2019-07-03 03:00:02
+100219,Organization eMoney Account (working Account),0.00,SSP,2019-07-03 03:00:02
+100222,Commission Account,0.00,SSP,2019-07-03 03:00:02
+100222,Organization eMoney Account (Float Account),0.00,SSP,2019-07-03 03:00:02
+100222,Organization eMoney Account (working Account),0.00,SSP,2019-07-03 03:00:02
+100253,Commission Account,0.00,SSP,2019-07-03 03:00:02
+100253,Organization eMoney Account (Float Account),0.00,SSP,2019-07-03 03:00:02
+100253,Organization eMoney Account (working Account),0.00,SSP,2019-07-03 03:00:02
+100241,Commission Account,0.00,SSP,2019-07-03 03:00:02
+100241,Organization eMoney Account (Float Account),0.00,SSP,2019-07-03 03:00:02
+100241,Organization eMoney Account (working Account),0.00,SSP,2019-07-03 03:00:02
+100239,Commission Account,0.00,SSP,2019-07-03 03:00:02
+100239,Organization eMoney Account (Float Account),0.00,SSP,2019-07-03 03:00:02
+100239,Organization eMoney Account (working Account),0.00,SSP,2019-07-03 03:00:02
+100249,Commission Account,0.00,SSP,2019-07-03 03:00:02
+100249,Organization eMoney Account (Float Account),0.00,SSP,2019-07-03 03:00:02
+100249,Organization eMoney Account (working Account),0.00,SSP,2019-07-03 03:00:02
+100255,Commission Account,0.00,SSP,2019-07-03 03:00:02
+100255,Organization eMoney Account (Float Account),0.00,SSP,2019-07-03 03:00:02
+100255,Organization eMoney Account (working Account),0.00,SSP,2019-07-03 03:00:02
+100414,Organization eMoney Account (working Account),0.00,SSP,2019-07-03 03:00:02
+100416,Commission Account,0.00,SSP,2019-07-03 03:00:02
+100416,Organization eMoney Account (Float Account),0.00,SSP,2019-07-03 03:00:02
+100416,Organization eMoney Account (working Account),0.00,SSP,2019-07-03 03:00:02
+100227,Commission Account,0.00,SSP,2019-07-03 03:00:02
+100227,Organization eMoney Account (Float Account),0.00,SSP,2019-07-03 03:00:02
+100227,Organization eMoney Account (working Account),0.00,SSP,2019-07-03 03:00:02
+100252,Commission Account,0.00,SSP,2019-07-03 03:00:02
+100252,Organization eMoney Account (Float Account),0.00,SSP,2019-07-03 03:00:02
+100252,Organization eMoney Account (working Account),0.00,SSP,2019-07-03 03:00:02
+100229,Commission Account,0.00,SSP,2019-07-03 03:00:02
+100229,Organization eMoney Account (Float Account),0.00,SSP,2019-07-03 03:00:02
+100229,Organization eMoney Account (working Account),0.00,SSP,2019-07-03 03:00:02
+100240,Commission Account,0.00,SSP,2019-07-03 03:00:02
+100240,Organization eMoney Account (Float Account),0.00,SSP,2019-07-03 03:00:02
+100240,Organization eMoney Account (working Account),0.00,SSP,2019-07-03 03:00:02
+100244,Commission Account,0.00,SSP,2019-07-03 03:00:02
+100244,Organization eMoney Account (Float Account),0.00,SSP,2019-07-03 03:00:02
+100244,Organization eMoney Account (working Account),0.00,SSP,2019-07-03 03:00:02
+100231,Commission Account,0.00,SSP,2019-07-03 03:00:02
+100231,Organization eMoney Account (Float Account),0.00,SSP,2019-07-03 03:00:02
+100231,Organization eMoney Account (working Account),0.00,SSP,2019-07-03 03:00:02
+100233,Commission Account,0.00,SSP,2019-07-03 03:00:02
+100233,Organization eMoney Account (Float Account),0.00,SSP,2019-07-03 03:00:02
+100233,Organization eMoney Account (working Account),0.00,SSP,2019-07-03 03:00:02
+100254,Commission Account,0.00,SSP,2019-07-03 03:00:02
+100254,Organization eMoney Account (Float Account),0.00,SSP,2019-07-03 03:00:02
+100254,Organization eMoney Account (working Account),0.00,SSP,2019-07-03 03:00:02
+100259,Commission Account,0.00,SSP,2019-07-03 03:00:02
+100259,Organization eMoney Account (Float Account),0.00,SSP,2019-07-03 03:00:02
+100259,Organization eMoney Account (working Account),0.00,SSP,2019-07-03 03:00:02
+100264,Commission Account,0.00,SSP,2019-07-03 03:00:02
+100264,Organization eMoney Account (Float Account),0.00,SSP,2019-07-03 03:00:02
+100264,Organization eMoney Account (working Account),0.00,SSP,2019-07-03 03:00:02
+100276,Commission Account,0.00,SSP,2019-07-03 03:00:02
+100276,Organization eMoney Account (Float Account),0.00,SSP,2019-07-03 03:00:02
+100200,Commission Account,0.00,SSP,2019-07-03 03:00:02
+100200,Organization eMoney Account (Float Account),200000.00,SSP,2019-07-03 03:00:02
+100200,Organization eMoney Account (working Account),388250.00,SSP,2019-07-03 03:00:02
+100215,Commission Account,0.00,SSP,2019-07-03 03:00:02
+100215,Organization eMoney Account (Float Account),0.00,SSP,2019-07-03 03:00:02
+100215,Organization eMoney Account (working Account),0.00,SSP,2019-07-03 03:00:02
+100210,Commission Account,0.00,SSP,2019-07-03 03:00:02
+100210,Organization eMoney Account (Float Account),0.00,SSP,2019-07-03 03:00:02
+100210,Organization eMoney Account (working Account),0.00,SSP,2019-07-03 03:00:02
+100223,Commission Account,0.00,SSP,2019-07-03 03:00:02
+100223,Organization eMoney Account (Float Account),0.00,SSP,2019-07-03 03:00:02
+100223,Organization eMoney Account (working Account),0.00,SSP,2019-07-03 03:00:02
+100251,Commission Account,0.00,SSP,2019-07-03 03:00:02
+100251,Organization eMoney Account (Float Account),0.00,SSP,2019-07-03 03:00:02
+100251,Organization eMoney Account (working Account),0.00,SSP,2019-07-03 03:00:02
+100228,Commission Account,0.00,SSP,2019-07-03 03:00:02
+100228,Organization eMoney Account (Float Account),0.00,SSP,2019-07-03 03:00:02
+100228,Organization eMoney Account (working Account),0.00,SSP,2019-07-03 03:00:02
+100235,Commission Account,0.00,SSP,2019-07-03 03:00:02
+100235,Organization eMoney Account (Float Account),0.00,SSP,2019-07-03 03:00:02
+100235,Organization eMoney Account (working Account),0.00,SSP,2019-07-03 03:00:02
+100258,Commission Account,0.00,SSP,2019-07-03 03:00:02
+100258,Organization eMoney Account (Float Account),0.00,SSP,2019-07-03 03:00:02
+100258,Organization eMoney Account (working Account),0.00,SSP,2019-07-03 03:00:02
+100261,Commission Account,0.00,SSP,2019-07-03 03:00:02
+100261,Organization eMoney Account (Float Account),0.00,SSP,2019-07-03 03:00:02
+100261,Organization eMoney Account (working Account),0.00,SSP,2019-07-03 03:00:02
+100276,Organization eMoney Account (working Account),0.00,SSP,2019-07-03 03:00:02
+100297,Commission Account,0.00,SSP,2019-07-03 03:00:02
+100297,Organization eMoney Account (Float Account),0.00,SSP,2019-07-03 03:00:02
+100297,Organization eMoney Account (working Account),0.00,SSP,2019-07-03 03:00:02
+100417,Commission Account,0.00,SSP,2019-07-03 03:00:02
+100300,Commission Account,0.00,SSP,2019-07-03 03:00:02
+100300,Organization eMoney Account (Float Account),0.00,SSP,2019-07-03 03:00:02
+100300,Organization eMoney Account (working Account),0.00,SSP,2019-07-03 03:00:02
+100234,Commission Account,0.00,SSP,2019-07-03 03:00:02
+100234,Organization eMoney Account (Float Account),0.00,SSP,2019-07-03 03:00:02
+100234,Organization eMoney Account (working Account),0.00,SSP,2019-07-03 03:00:02
+100270,Commission Account,0.00,SSP,2019-07-03 03:00:02
+100270,Organization eMoney Account (Float Account),0.00,SSP,2019-07-03 03:00:02
+100270,Organization eMoney Account (working Account),0.00,SSP,2019-07-03 03:00:02
+100271,Commission Account,0.00,SSP,2019-07-03 03:00:02
+100271,Organization eMoney Account (Float Account),0.00,SSP,2019-07-03 03:00:02
+100271,Organization eMoney Account (working Account),0.00,SSP,2019-07-03 03:00:02
+100266,Commission Account,0.00,SSP,2019-07-03 03:00:02
+100266,Organization eMoney Account (Float Account),0.00,SSP,2019-07-03 03:00:02
+100266,Organization eMoney Account (working Account),0.00,SSP,2019-07-03 03:00:02
+100268,Commission Account,0.00,SSP,2019-07-03 03:00:02
+100268,Organization eMoney Account (Float Account),0.00,SSP,2019-07-03 03:00:02
+100268,Organization eMoney Account (working Account),0.00,SSP,2019-07-03 03:00:02
+100281,Commission Account,0.00,SSP,2019-07-03 03:00:02
+100281,Organization eMoney Account (Float Account),0.00,SSP,2019-07-03 03:00:02
+100281,Organization eMoney Account (working Account),0.00,SSP,2019-07-03 03:00:02
+100274,Commission Account,0.00,SSP,2019-07-03 03:00:02
+100274,Organization eMoney Account (Float Account),0.00,SSP,2019-07-03 03:00:02
+100274,Organization eMoney Account (working Account),0.00,SSP,2019-07-03 03:00:02
+100283,Commission Account,0.00,SSP,2019-07-03 03:00:02
+100283,Organization eMoney Account (Float Account),0.00,SSP,2019-07-03 03:00:02
+100283,Organization eMoney Account (working Account),0.00,SSP,2019-07-03 03:00:02
+100285,Commission Account,0.00,SSP,2019-07-03 03:00:02
+100285,Organization eMoney Account (Float Account),0.00,SSP,2019-07-03 03:00:02
+
