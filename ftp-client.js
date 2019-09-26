@@ -1,4 +1,5 @@
 var Client = require('ftp');
+const fs = require('fs');
 const identity_full_organizations = [];
 let identity_full_organizationsRegexP = /Identity_full_Organization/g;
 let identity_full_organizationsFile = '';
@@ -10,40 +11,54 @@ let latest_transactionsRegexP = /latest_transactions.txt/g;
 let latest_transactionsFile = '';
 let OrgBalanceDump_fullRegexP = /OrgBalanceDump_full.txt/g;
 let OrgBalanceDump_fullFile = '';
-var c = new Client({
-    host: '',
-    port: 21,
-    user: '',
-    password: '',
-    connTimeout: 10000
-});
+let testFile = '';
+var c = new Client();
+async function alex() {
 c.on('ready', function() {
-  c.list(function(err, list) {
+  await c.list(function(err, list) {
     if (err) throw err;
-    //console.dir(list);
+    // console.log(list);
     //list.forEach(file => {})
-    prepareReportingFiles(list).then(() => {
-        sortIdentityFullOrganizationFiles().then((cleanFiles) => {
-            cleanFiles.sort();
+    prepareReportingFiles(list).then(() => { 
+        sortIdentityFullOrganizationFiles(identity_full_organizations).then((cleanFiless) => {
+           // console.log(cleanFiless);
+            let cleanFiles = [];
+            cleanFiles = cleanFiless.sort();
+            console.log('-------------');
+            console.log(cleanFiles);
             let latestFile = cleanFiles[cleanFiles.length -1];
             latestFile = latestFile.split('');
             latestFile.splice(8,0,'_');
             latestFile = latestFile.join('');
             identity_full_organizationsFile = 'Identity_full_Organization_' + '' +latestFile + '.xml';
+            console.log(identity_full_organizationsFile);
         }, (err) => {
             console.error(err);
         }).then(() => {
-            readFilesToLocalDirectory();
+            // readFilesToLocalDirectory(c);
         })
     },(err) => {console.error(err);})
-    c.end();
+    // c.end();
+  });
+  c.get(testFile, function(err, stream) {
+      console.log(`${identity_full_organizationsFile}`);
+    if (err) throw err;
+    console.log('done...');
+    stream.once('close', function() { c.end() });
+    stream.pipe(fs.createWriteStream(`./g2/${identity_full_organizationsFile}`));
   });
 });
 // connect to localhost:21 as anonymous
-c.connect();
+c.connect({
+    host: '172.29.127.70',
+    port: 21,
+    user: 'wakalaftp',
+    password: 'Safaricom123',
+    connTimeout: 10000
+});
 
 async function prepareReportingFiles(list) {
-    return (() => {
+     
         list.forEach(file => {
             if(identity_full_organizationsRegexP.test(file.name)) {
                 identity_full_organizations.push(file.name);
@@ -52,7 +67,7 @@ async function prepareReportingFiles(list) {
                 chargeprofileFile = file.name;
             }
             else if(custBalanceDumpFullRegexP.test(file.name)) {
-                let customerBalanceDumpFile = file.name;
+                 customerBalanceDumpFile = file.name;
             }
             else if(latest_transactionsRegexP.test(file.name)) {
                 latest_transactionsFile = file.name;
@@ -61,28 +76,29 @@ async function prepareReportingFiles(list) {
                 OrgBalanceDump_fullFile = file.name;
             }
             else {}
-        })
-    });
+        });
+     return '';
 }
 
 async function sortIdentityFullOrganizationFiles(files) {
-    return (() => {
-        files.map(file => {
+    // console.log(files);
+        let filenames = files.map(file => {
             let fileStructure = file.split('_');
             return fileStructure[3] + '' +fileStructure[4].split('.')[0];
-        })
-    });
+        });
+        console.log(filenames);
+    return filenames;
 }
 
-async function readFilesToLocalDirectory(client) {
-    return (() => {
+/* async function readFilesToLocalDirectory(client) {
+    console.log('init...');
             client.on('ready', function() {
             client.get('identity_full_organizationsFile', function(err, stream) {
               if (err) throw err;
               stream.once('close', function() { client.end(); });
               stream.pipe(fs.createWriteStream(`./g2/${identity_full_organizationsFile}`));
             });
-            client.get('identity_full_organizationsFile', function(err, stream) {
+            client.get('chargeprofileFile', function(err, stream) {
             if (err) throw err;
             stream.once('close', function() { client.end(); });
             stream.pipe(fs.createWriteStream(`./g2/${chargeprofileFile}`));
@@ -103,5 +119,10 @@ async function readFilesToLocalDirectory(client) {
             stream.pipe(fs.createWriteStream(`./g2/${OrgBalanceDump_fullFile}`));
             });
           });
-    });
+
+          return '';
 }
+*/
+}
+
+alex();
