@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AMLWatchList xmlns="http://www.huawei.com/cps/aml/extract/operator" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.huawei.com/cps/aml/extract/operator OperatorExtract.xsd ">
+<Header>Source:MM; Sequence NO,Task Type:1,operator; Date Time:2019-07-03 02:00:01</Header>
+<Operators>
+</Operators>
+<Footer>Number of Records:0</Footer>
+<Checksum>2D6D95B0C941DC3A311DB51C62A1BBA1336E23A420C38E69BF736D8B1861167A</Checksum>
+</AMLWatchList>

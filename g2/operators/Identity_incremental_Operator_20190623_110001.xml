@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AMLWatchList xmlns="http://www.huawei.com/cps/aml/extract/operator" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.huawei.com/cps/aml/extract/operator OperatorExtract.xsd ">
+<Header>Source:MM; Sequence NO,Task Type:1,operator; Date Time:2019-06-23 11:00:01</Header>
+<Operators>
+<IdentityStrings>
+<UniqueSystemIdentifier>203000000000013112</UniqueSystemIdentifier>
+<FirstName>Victoria</FirstName>
+<MiddleName></MiddleName>
+<LastName>Khisa</LastName>
+<DateIdentityActivated></DateIdentityActivated>
+<DateIdentityCreated>20190622122120</DateIdentityCreated>
+<DateOfBirth>2019-06-22</DateOfBirth>
+<IDDetails>
+<IDType></IDType>
+<IDReference></IDReference>
+<IDExpiryDate></IDExpiryDate>
+<IDStatus></IDStatus>
+</IDDetails>
+<IdentityStatus>Suspended</IdentityStatus>
+<IdentityType>Operator</IdentityType>
+<OrganizationShortCode>123457</OrganizationShortCode>
+<OperatorNameCreatedBy>NilePay\bonnie</OperatorNameCreatedBy>
+<OperatorUniqueSystemIdentifierCreatedBy>203000000000013003</OperatorUniqueSystemIdentifierCreatedBy>
+<OrganizationUniqueReferenceDetails>201000000000032003</OrganizationUniqueReferenceDetails>
+<Role>Primary Till Operator</Role>
+<UniqueLinkingID></UniqueLinkingID>
+</IdentityStrings>
+<IdentityStrings>
+<UniqueSystemIdentifier>203000000000013009</UniqueSystemIdentifier>
+<FirstName>Victoria</FirstName>
+<MiddleName></MiddleName>
+<LastName>Khisa</LastName>
+<DateIdentityActivated></DateIdentityActivated>
+<DateIdentityCreated>20190621160625</DateIdentityCreated>
+<DateOfBirth>2019-05-10</DateOfBirth>
+<IDDetails>
+<IDType>National ID</IDType>
+<IDReference>22796529</IDReference>
+<IDExpiryDate></IDExpiryDate>
+<IDStatus></IDStatus>
+</IDDetails>
+<IdentityStatus>Active</IdentityStatus>
+<IdentityType>Operator</IdentityType>
+<OrganizationShortCode>123456</OrganizationShortCode>
+<OperatorNameCreatedBy>Nilepay Test Agent\pmatiru</OperatorNameCreatedBy>
+<OperatorUniqueSystemIdentifierCreatedBy>203000000000013105</OperatorUniqueSystemIdentifierCreatedBy>
+<OrganizationUniqueReferenceDetails>201000000000032002</OrganizationUniqueReferenceDetails>
+<Role>Head Office Till Operator</Role>
+<UniqueLinkingID></UniqueLinkingID>
+</IdentityStrings>
+<IdentityStrings>
+<UniqueSystemIdentifier>203000000000013010</UniqueSystemIdentifier>
+<FirstName>Paul</FirstName>
+<MiddleName></MiddleName>
+<LastName>Matiru</LastName>
+<DateIdentityActivated></DateIdentityActivated>
+<DateIdentityCreated>20190621165816</DateIdentityCreated>
+<DateOfBirth>2019-06-21</DateOfBirth>
+<IDDetails>
+<IDType></IDType>
+<IDReference></IDReference>
+<IDExpiryDate></IDExpiryDate>
+<IDStatus></IDStatus>
+</IDDetails>
+<IdentityStatus>Active</IdentityStatus>
+<IdentityType>Operator</IdentityType>
+<OrganizationShortCode>123457</OrganizationShortCode>
+<OperatorNameCreatedBy>Nilepay Test Agent\pmatiru</OperatorNameCreatedBy>
+<OperatorUniqueSystemIdentifierCreatedBy>203000000000013105</OperatorUniqueSystemIdentifierCreatedBy>
+<OrganizationUniqueReferenceDetails>201000000000032003</OrganizationUniqueReferenceDetails>
+<Role>Primary Till Operator</Role>
+<UniqueLinkingID></UniqueLinkingID>
+</IdentityStrings>
+<IdentityStrings>
+<UniqueSystemIdentifier>203000000000013014</UniqueSystemIdentifier>
+<FirstName>Brenda</FirstName>
+<MiddleName></MiddleName>
+<LastName>Omega</LastName>
+<DateIdentityActivated></DateIdentityActivated>
+<DateIdentityCreated>20190622125211</DateIdentityCreated>
+<DateOfBirth>1994-04-26</DateOfBirth>
+<IDDetails>
+<IDType>National ID</IDType>
+<IDReference>31435429</IDReference>
+<IDExpiryDate></IDExpiryDate>
+<IDStatus></IDStatus>
+</IDDetails>
+<IdentityStatus>Pending Active</IdentityStatus>
+<IdentityType>Operator</IdentityType>
+<OrganizationShortCode>1</OrganizationShortCode>
+<OperatorNameCreatedBy>NilePay\dmmunyua</OperatorNameCreatedBy>
+<OperatorUniqueSystemIdentifierCreatedBy>203000000000013104</OperatorUniqueSystemIdentifierCreatedBy>
+<OrganizationUniqueReferenceDetails>200000000000010001</OrganizationUniqueReferenceDetails>
+<Role>Finance Operator</Role>
+<UniqueLinkingID></UniqueLinkingID>
+</IdentityStrings>
+</Operators>
+<Footer>Number of Records:4</Footer>
+<Checksum>41201529E54B7D47A97F62DA173225187F4A486F3A4A5AE60995E6A8F27EE765</Checksum>
+</AMLWatchList>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AMLWatchList xmlns="http://www.huawei.com/cps/aml/extract/operator" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.huawei.com/cps/aml/extract/operator OperatorExtract.xsd ">
+<Header>Source:MM; Sequence NO,Task Type:1,operator; Date Time:2019-06-29 09:00:01</Header>
+<Operators>
+<IdentityStrings>
+<UniqueSystemIdentifier>203000000000013018</UniqueSystemIdentifier>
+<FirstName>George</FirstName>
+<MiddleName>Kabugi</MiddleName>
+<LastName>Ndegwa</LastName>
+<DateIdentityActivated>20190628083636</DateIdentityActivated>
+<DateIdentityCreated>20190625115239</DateIdentityCreated>
+<DateOfBirth>1977-04-10</DateOfBirth>
+<IDDetails>
+<IDType>National ID</IDType>
+<IDReference>20417604</IDReference>
+<IDExpiryDate></IDExpiryDate>
+<IDStatus></IDStatus>
+</IDDetails>
+<IdentityStatus>Active</IdentityStatus>
+<IdentityType>Operator</IdentityType>
+<OrganizationShortCode>1</OrganizationShortCode>
+<OperatorNameCreatedBy>NilePay\bonnie</OperatorNameCreatedBy>
+<OperatorUniqueSystemIdentifierCreatedBy>203000000000013003</OperatorUniqueSystemIdentifierCreatedBy>
+<OrganizationUniqueReferenceDetails>200000000000010001</OrganizationUniqueReferenceDetails>
+<Role>Operations User</Role>
+<UniqueLinkingID></UniqueLinkingID>
+</IdentityStrings>
+</Operators>
+<Footer>Number of Records:1</Footer>
+<Checksum>6AC0B8EEC247548873FCECF75088032ABD1681AFC849C141F452320CF71DCC9D</Checksum>
+</AMLWatchList>

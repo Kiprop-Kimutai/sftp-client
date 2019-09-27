@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AMLWatchList xmlns="http://www.huawei.com/cps/aml/extract/operator" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.huawei.com/cps/aml/extract/operator OperatorExtract.xsd ">
+<Header>Source:MM; Sequence NO,Task Type:1,operator; Date Time:2019-06-30 09:00:01</Header>
+<Operators>
+<IdentityStrings>
+<UniqueSystemIdentifier>203000000000013136</UniqueSystemIdentifier>
+<FirstName>Manyok</FirstName>
+<MiddleName></MiddleName>
+<LastName>Kuchrin</LastName>
+<DateIdentityActivated></DateIdentityActivated>
+<DateIdentityCreated>20190628140534</DateIdentityCreated>
+<DateOfBirth>1988-11-01</DateOfBirth>
+<IDDetails>
+<IDType>National ID</IDType>
+<IDReference>000493779</IDReference>
+<IDExpiryDate></IDExpiryDate>
+<IDStatus></IDStatus>
+</IDDetails>
+<IdentityStatus>Active</IdentityStatus>
+<IdentityType>Operator</IdentityType>
+<OrganizationShortCode>100224</OrganizationShortCode>
+<OperatorNameCreatedBy>GLOBAL FINANCE CABLES COMPANY LTD\CNYAGEO</OperatorNameCreatedBy>
+<OperatorUniqueSystemIdentifierCreatedBy>203000000000013007</OperatorUniqueSystemIdentifierCreatedBy>
+<OrganizationUniqueReferenceDetails>201000000000032017</OrganizationUniqueReferenceDetails>
+<Role>Primary Till Operator</Role>
+<UniqueLinkingID></UniqueLinkingID>
+</IdentityStrings>
+</Operators>
+<Footer>Number of Records:1</Footer>
+<Checksum>0499A2AEAEBE914469666072891C5143F93115D159F2FAEB37EDF2713759E3C2</Checksum>
+</AMLWatchList>

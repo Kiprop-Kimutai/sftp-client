@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AMLWatchList xmlns="http://www.huawei.com/cps/aml/extract/operator" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.huawei.com/cps/aml/extract/operator OperatorExtract.xsd ">
+<Header>Source:MM; Sequence NO,Task Type:2,operator; Date Time:2019-06-21 12:00:02</Header>
+<Operators>
+<IdentityStrings>
+<UniqueSystemIdentifier>203000000000011902</UniqueSystemIdentifier>
+<FirstName>Hillary</FirstName>
+<MiddleName></MiddleName>
+<LastName>Murunga</LastName>
+<DateIdentityActivated></DateIdentityActivated>
+<DateIdentityCreated>20171116130812</DateIdentityCreated>
+<DateOfBirth></DateOfBirth>
+<IDDetails>
+<IDType></IDType>
+<IDReference></IDReference>
+<IDExpiryDate></IDExpiryDate>
+<IDStatus></IDStatus>
+</IDDetails>
+<IdentityStatus>Closed</IdentityStatus>
+<IdentityType>Operator</IdentityType>
+<OrganizationShortCode>1</OrganizationShortCode>
+<OperatorNameCreatedBy>NilePay\aweru</OperatorNameCreatedBy>
+<OperatorUniqueSystemIdentifierCreatedBy>203000000000011503</OperatorUniqueSystemIdentifierCreatedBy>
+<OrganizationUniqueReferenceDetails>200000000000010001</OrganizationUniqueReferenceDetails>
+<Role>SPOperRole</Role>
+<Role>Operations User</Role>
+<Role>Operations Manager</Role>
+<UniqueLinkingID></UniqueLinkingID>
+</IdentityStrings>
+<IdentityStrings>
+<UniqueSystemIdentifier>203000000000011503</UniqueSystemIdentifier>
+<FirstName>agnes</FirstName>
+<MiddleName></MiddleName>
+<LastName>weru</LastName>
+<DateIdentityActivated>20170912150619</DateIdentityActivated>
+<DateIdentityCreated>20170912145821</DateIdentityCreated>
+<DateOfBirth></DateOfBirth>
+<IDDetails>
+<IDType></IDType>
+<IDReference></IDReference>
+<IDExpiryDate></IDExpiryDate>
+<IDStatus></IDStatus>
+</IDDetails>
+<IdentityStatus>Closed</IdentityStatus>
+<IdentityType>Operator</IdentityType>
+<OrganizationShortCode>1</OrganizationShortCode>
+<OperatorNameCreatedBy>NilePay\roomondi</OperatorNameCreatedBy>
+<OperatorUniqueSystemIdentifierCreatedBy>203000000000011602</OperatorUniqueSystemIdentifierCreatedBy>
+<OrganizationUniqueReferenceDetails>200000000000010001</OrganizationUniqueReferenceDetails>
+<Role>SPOperRole</Role>
+<Role>Operations User</Role>
+<Role>Operations Manager</Role>
+<UniqueLinkingID></UniqueLinkingID>
+</IdentityStrings>
+<IdentityStrings>
+<UniqueSystemIdentifier>203000000000012102</UniqueSystemIdentifier>
+<FirstName>Audit</FirstName>
+<MiddleName></MiddleName>
+<LastName></LastName>
+<DateIdentityActivated>20180319164626</DateIdentityActivated>
+<DateIdentityCreated>20180319090925</DateIdentityCreated>
+<DateOfBirth></DateOfBirth>
+<IDDetails>
+<IDType>National ID</IDType>
+<IDReference>6666</IDReference>
+<IDExpiryDate></IDExpiryDate>
+<IDStatus></IDStatus>
+</IDDetails>
+<IdentityStatus>Closed</IdentityStatus>
+<IdentityType>Operator</IdentityType>
+<OrganizationShortCode>1</OrganizationShortCode>
+<OperatorNameCreatedBy>NilePay\admin1</OperatorNameCreatedBy>
+<OperatorUniqueSystemIdentifierCreatedBy>100000001</OperatorUniqueSystemIdentifierCreatedBy>
+<OrganizationUniqueReferenceDetails>200000000000010001</OrganizationUniqueReferenceDetails>
+<Role>SPOperRole</Role>
+<Role>Operations Manager</Role>
+<UniqueLinkingID></UniqueLinkingID>
+</IdentityStrings>
+</Operators>
+<Footer>Number of Records:3</Footer>
+<Checksum>C2FA0DDC1C5AD53D9158BCA05A362A188B28AD4FF6C241C6483B9EDFAA877FBC</Checksum>
+</AMLWatchList>

@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AMLWatchList xmlns="http://www.huawei.com/cps/aml/extract/operator" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.huawei.com/cps/aml/extract/operator OperatorExtract.xsd ">
+<Header>Source:MM; Sequence NO,Task Type:2,operator; Date Time:2019-06-28 13:00:02</Header>
+<Operators>
+<IdentityStrings>
+<UniqueSystemIdentifier>203000000000013120</UniqueSystemIdentifier>
+<FirstName>Anne</FirstName>
+<MiddleName></MiddleName>
+<LastName>Wambui</LastName>
+<DateIdentityActivated></DateIdentityActivated>
+<DateIdentityCreated>20190627142533</DateIdentityCreated>
+<DateOfBirth>1984-02-14</DateOfBirth>
+<IDDetails>
+<IDType>Passport</IDType>
+<IDReference>C034130</IDReference>
+<IDExpiryDate></IDExpiryDate>
+<IDStatus></IDStatus>
+</IDDetails>
+<IdentityStatus>Active</IdentityStatus>
+<IdentityType>Operator</IdentityType>
+<OrganizationShortCode>100205</OrganizationShortCode>
+<OperatorNameCreatedBy>GLOBAL FINANCE CABLES COMPANY LTD\CNYAGEO</OperatorNameCreatedBy>
+<OperatorUniqueSystemIdentifierCreatedBy>203000000000013007</OperatorUniqueSystemIdentifierCreatedBy>
+<OrganizationUniqueReferenceDetails>201000000000032007</OrganizationUniqueReferenceDetails>
+<Role>Primary Till Operator</Role>
+<UniqueLinkingID></UniqueLinkingID>
+</IdentityStrings>
+<IdentityStrings>
+<UniqueSystemIdentifier>203000000000013023</UniqueSystemIdentifier>
+<FirstName>Alier</FirstName>
+<MiddleName></MiddleName>
+<LastName>Ajak</LastName>
+<DateIdentityActivated></DateIdentityActivated>
+<DateIdentityCreated>20190627145218</DateIdentityCreated>
+<DateOfBirth>1982-11-01</DateOfBirth>
+<IDDetails>
+<IDType>National ID</IDType>
+<IDReference>000030102</IDReference>
+<IDExpiryDate></IDExpiryDate>
+<IDStatus></IDStatus>
+</IDDetails>
+<IdentityStatus>Active</IdentityStatus>
+<IdentityType>Operator</IdentityType>
+<OrganizationShortCode>100218</OrganizationShortCode>
+<OperatorNameCreatedBy>GLOBAL FINANCE CABLES COMPANY LTD\CNYAGEO</OperatorNameCreatedBy>
+<OperatorUniqueSystemIdentifierCreatedBy>203000000000013007</OperatorUniqueSystemIdentifierCreatedBy>
+<OrganizationUniqueReferenceDetails>201000000000032014</OrganizationUniqueReferenceDetails>
+<Role>Primary Till Operator</Role>
+<UniqueLinkingID></UniqueLinkingID>
+</IdentityStrings>
+<IdentityStrings>
+<UniqueSystemIdentifier>203000000000013022</UniqueSystemIdentifier>
+<FirstName>Alier</FirstName>
+<MiddleName></MiddleName>
+<LastName>Ajak</LastName>
+<DateIdentityActivated></DateIdentityActivated>
+<DateIdentityCreated>20190627144342</DateIdentityCreated>
+<DateOfBirth>1982-11-01</DateOfBirth>
+<IDDetails>
+<IDType>National ID</IDType>
+<IDReference>000030102</IDReference>
+<IDExpiryDate></IDExpiryDate>
+<IDStatus></IDStatus>
+</IDDetails>
+<IdentityStatus>Active</IdentityStatus>
+<IdentityType>Operator</IdentityType>
+<OrganizationShortCode>100214</OrganizationShortCode>
+<OperatorNameCreatedBy>GLOBAL FINANCE CABLES COMPANY LTD\CNYAGEO</OperatorNameCreatedBy>
+<OperatorUniqueSystemIdentifierCreatedBy>203000000000013007</OperatorUniqueSystemIdentifierCreatedBy>
+<OrganizationUniqueReferenceDetails>201000000000031009</OrganizationUniqueReferenceDetails>
+<Role>Primary Till Operator</Role>
+<UniqueLinkingID></UniqueLinkingID>
+</IdentityStrings>
+<IdentityStrings>
+<UniqueSystemIdentifier>203000000000013021</UniqueSystemIdentifier>
+<FirstName>John</FirstName>
+<MiddleName></MiddleName>
+<LastName>Sebit</LastName>
+<DateIdentityActivated></DateIdentityActivated>
+<DateIdentityCreated>20190627140715</DateIdentityCreated>
+<DateOfBirth>1988-01-01</DateOfBirth>
+<IDDetails>
+<IDType>National ID</IDType>
+<IDReference>000591662</IDReference>
+<IDExpiryDate></IDExpiryDate>
+<IDStatus></IDStatus>
+</IDDetails>
+<IdentityStatus>Active</IdentityStatus>
+<IdentityType>Operator</IdentityType>
+<OrganizationShortCode>100207</OrganizationShortCode>
+<OperatorNameCreatedBy>GLOBAL FINANCE CABLES COMPANY LTD\CNYAGEO</OperatorNameCreatedBy>
+<OperatorUniqueSystemIdentifierCreatedBy>203000000000013007</OperatorUniqueSystemIdentifierCreatedBy>
+<OrganizationUniqueReferenceDetails>201000000000031006</OrganizationUniqueReferenceDetails>
+<Role>Primary Till Operator</Role>
+<UniqueLinkingID></UniqueLinkingID>
+</IdentityStrings>
+<IdentityStrings>
+<UniqueSystemIdentifier>203000000000013121</UniqueSystemIdentifier>
+<FirstName>Alier</FirstName>
+<MiddleName></MiddleName>
+<LastName>Ajak</LastName>
+<DateIdentityActivated></DateIdentityActivated>
+<DateIdentityCreated>20190627144846</DateIdentityCreated>
+<DateOfBirth>1982-11-01</DateOfBirth>
+<IDDetails>
+<IDType>National ID</IDType>
+<IDReference>000030102</IDReference>
+<IDExpiryDate></IDExpiryDate>
+<IDStatus></IDStatus>
+</IDDetails>
+<IdentityStatus>Active</IdentityStatus>
+<IdentityType>Operator</IdentityType>
+<OrganizationShortCode>100215</OrganizationShortCode>
+<OperatorNameCreatedBy>GLOBAL FINANCE CABLES COMPANY LTD\CNYAGEO</OperatorNameCreatedBy>
+<OperatorUniqueSystemIdentifierCreatedBy>203000000000013007</OperatorUniqueSystemIdentifierCreatedBy>
+<OrganizationUniqueReferenceDetails>201000000000032008</OrganizationUniqueReferenceDetails>
+<Role>Primary Till Operator</Role>
+<UniqueLinkingID></UniqueLinkingID>
+</IdentityStrings>
+</Operators>
+<Footer>Number of Records:5</Footer>
+<Checksum>B25D8C70E9F3930A470A6872505ED372AA5B51D1C49986AB801F028F161D7319</Checksum>
+</AMLWatchList>

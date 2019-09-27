@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AMLWatchList xmlns="http://www.huawei.com/cps/aml/extract/operator" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.huawei.com/cps/aml/extract/operator OperatorExtract.xsd ">
+<Header>Source:MM; Sequence NO,Task Type:2,operator; Date Time:2019-06-23 12:00:02</Header>
+<Operators>
+<IdentityStrings>
+<UniqueSystemIdentifier>203000000000013108</UniqueSystemIdentifier>
+<FirstName>Mark</FirstName>
+<MiddleName></MiddleName>
+<LastName>Diing</LastName>
+<DateIdentityActivated></DateIdentityActivated>
+<DateIdentityCreated>20190621163215</DateIdentityCreated>
+<DateOfBirth>1980-01-01</DateOfBirth>
+<IDDetails>
+<IDType>National ID</IDType>
+<IDReference>M000002669869</IDReference>
+<IDExpiryDate></IDExpiryDate>
+<IDStatus></IDStatus>
+</IDDetails>
+<IdentityStatus>Active</IdentityStatus>
+<IdentityType>Operator</IdentityType>
+<OrganizationShortCode>100200</OrganizationShortCode>
+<OperatorNameCreatedBy>GLOBAL FINANCE CABLES COMPANY LTD\CNYAGEO</OperatorNameCreatedBy>
+<OperatorUniqueSystemIdentifierCreatedBy>203000000000013007</OperatorUniqueSystemIdentifierCreatedBy>
+<OrganizationUniqueReferenceDetails>201000000000032001</OrganizationUniqueReferenceDetails>
+<Role>Head Office Till Operator</Role>
+<UniqueLinkingID></UniqueLinkingID>
+</IdentityStrings>
+<IdentityStrings>
+<UniqueSystemIdentifier>203000000000013015</UniqueSystemIdentifier>
+<FirstName>john</FirstName>
+<MiddleName></MiddleName>
+<LastName>Doe</LastName>
+<DateIdentityActivated></DateIdentityActivated>
+<DateIdentityCreated>20190622131409</DateIdentityCreated>
+<DateOfBirth>1990-01-01</DateOfBirth>
+<IDDetails>
+<IDType>National ID</IDType>
+<IDReference>32145690</IDReference>
+<IDExpiryDate></IDExpiryDate>
+<IDStatus></IDStatus>
+</IDDetails>
+<IdentityStatus>Pending Active</IdentityStatus>
+<IdentityType>Operator</IdentityType>
+<OrganizationShortCode>123457</OrganizationShortCode>
+<OperatorNameCreatedBy>Nlie pay test store\203000000000013010</OperatorNameCreatedBy>
+<OperatorUniqueSystemIdentifierCreatedBy>203000000000013010</OperatorUniqueSystemIdentifierCreatedBy>
+<OrganizationUniqueReferenceDetails>201000000000032003</OrganizationUniqueReferenceDetails>
+<Role>Till Operator</Role>
+<UniqueLinkingID></UniqueLinkingID>
+</IdentityStrings>
+<IdentityStrings>
+<UniqueSystemIdentifier>203000000000013109</UniqueSystemIdentifier>
+<FirstName>Atem</FirstName>
+<MiddleName>Aweng</MiddleName>
+<LastName>Kuol</LastName>
+<DateIdentityActivated></DateIdentityActivated>
+<DateIdentityCreated>20190621171639</DateIdentityCreated>
+<DateOfBirth>1990-03-08</DateOfBirth>
+<IDDetails>
+<IDType>National ID</IDType>
+<IDReference>M9000003905268</IDReference>
+<IDExpiryDate></IDExpiryDate>
+<IDStatus></IDStatus>
+</IDDetails>
+<IdentityStatus>Pending Active</IdentityStatus>
+<IdentityType>Operator</IdentityType>
+<OrganizationShortCode>100201</OrganizationShortCode>
+<OperatorNameCreatedBy>GLOBAL FINANCE CABLES COMPANY LTD\CNYAGEO</OperatorNameCreatedBy>
+<OperatorUniqueSystemIdentifierCreatedBy>203000000000013007</OperatorUniqueSystemIdentifierCreatedBy>
+<OrganizationUniqueReferenceDetails>201000000000032004</OrganizationUniqueReferenceDetails>
+<Role>Primary Till Operator</Role>
+<UniqueLinkingID></UniqueLinkingID>
+</IdentityStrings>
+<IdentityStrings>
+<UniqueSystemIdentifier>203000000000013011</UniqueSystemIdentifier>
+<FirstName>Adau</FirstName>
+<MiddleName></MiddleName>
+<LastName>Duot</LastName>
+<DateIdentityActivated></DateIdentityActivated>
+<DateIdentityCreated>20190621172125</DateIdentityCreated>
+<DateOfBirth>1998-08-01</DateOfBirth>
+<IDDetails>
+<IDType>National ID</IDType>
+<IDReference>F000006273899</IDReference>
+<IDExpiryDate></IDExpiryDate>
+<IDStatus></IDStatus>
+</IDDetails>
+<IdentityStatus>Active</IdentityStatus>
+<IdentityType>Operator</IdentityType>
+<OrganizationShortCode>100202</OrganizationShortCode>
+<OperatorNameCreatedBy>GLOBAL FINANCE CABLES COMPANY LTD\CNYAGEO</OperatorNameCreatedBy>
+<OperatorUniqueSystemIdentifierCreatedBy>203000000000013007</OperatorUniqueSystemIdentifierCreatedBy>
+<OrganizationUniqueReferenceDetails>201000000000031002</OrganizationUniqueReferenceDetails>
+<Role>Primary Till Operator</Role>
+<UniqueLinkingID></UniqueLinkingID>
+</IdentityStrings>
+</Operators>
+<Footer>Number of Records:4</Footer>
+<Checksum>DA0749F4D7995CA9CAF73397598D3FAF36D7C36EE5B543707476D57D173841A6</Checksum>
+</AMLWatchList>

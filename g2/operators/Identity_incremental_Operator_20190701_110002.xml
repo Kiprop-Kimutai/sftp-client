@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AMLWatchList xmlns="http://www.huawei.com/cps/aml/extract/operator" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.huawei.com/cps/aml/extract/operator OperatorExtract.xsd ">
+<Header>Source:MM; Sequence NO,Task Type:2,operator; Date Time:2019-07-01 11:00:02</Header>
+<Operators>
+<IdentityStrings>
+<UniqueSystemIdentifier>203000000000013141</UniqueSystemIdentifier>
+<FirstName>LUWATE</FirstName>
+<MiddleName></MiddleName>
+<LastName>RUFAS</LastName>
+<DateIdentityActivated></DateIdentityActivated>
+<DateIdentityCreated>20190630121601</DateIdentityCreated>
+<DateOfBirth>1986-02-04</DateOfBirth>
+<IDDetails>
+<IDType>Passport</IDType>
+<IDReference>R00172358</IDReference>
+<IDExpiryDate>2020-03-30</IDExpiryDate>
+<IDStatus></IDStatus>
+</IDDetails>
+<IdentityStatus>Pending Active</IdentityStatus>
+<IdentityType>Operator</IdentityType>
+<OrganizationShortCode>100262</OrganizationShortCode>
+<OperatorNameCreatedBy>GLOBAL FINANCE CABLES COMPANY LTD\CNYAGEO</OperatorNameCreatedBy>
+<OperatorUniqueSystemIdentifierCreatedBy>203000000000013007</OperatorUniqueSystemIdentifierCreatedBy>
+<OrganizationUniqueReferenceDetails>201000000000031032</OrganizationUniqueReferenceDetails>
+<Role>Primary Till Operator</Role>
+<UniqueLinkingID></UniqueLinkingID>
+</IdentityStrings>
+<IdentityStrings>
+<UniqueSystemIdentifier>203000000000013142</UniqueSystemIdentifier>
+<FirstName>MAWEL</FirstName>
+<MiddleName></MiddleName>
+<LastName>GAI</LastName>
+<DateIdentityActivated></DateIdentityActivated>
+<DateIdentityCreated>20190630125056</DateIdentityCreated>
+<DateOfBirth>1986-01-01</DateOfBirth>
+<IDDetails>
+<IDType>Passport</IDType>
+<IDReference>R00341376</IDReference>
+<IDExpiryDate>2021-02-23</IDExpiryDate>
+<IDStatus></IDStatus>
+</IDDetails>
+<IdentityStatus>Active</IdentityStatus>
+<IdentityType>Operator</IdentityType>
+<OrganizationShortCode>100259</OrganizationShortCode>
+<OperatorNameCreatedBy>GLOBAL FINANCE CABLES COMPANY LTD\CNYAGEO</OperatorNameCreatedBy>
+<OperatorUniqueSystemIdentifierCreatedBy>203000000000013007</OperatorUniqueSystemIdentifierCreatedBy>
+<OrganizationUniqueReferenceDetails>201000000000031030</OrganizationUniqueReferenceDetails>
+<Role>Primary Till Operator</Role>
+<UniqueLinkingID></UniqueLinkingID>
+</IdentityStrings>
+<IdentityStrings>
+<UniqueSystemIdentifier>203000000000013205</UniqueSystemIdentifier>
+<FirstName>LUWATE</FirstName>
+<MiddleName></MiddleName>
+<LastName>RUFAS</LastName>
+<DateIdentityActivated></DateIdentityActivated>
+<DateIdentityCreated>20190630123347</DateIdentityCreated>
+<DateOfBirth>1986-02-04</DateOfBirth>
+<IDDetails>
+<IDType>Passport</IDType>
+<IDReference>R00172358</IDReference>
+<IDExpiryDate>2022-03-30</IDExpiryDate>
+<IDStatus></IDStatus>
+</IDDetails>
+<IdentityStatus>Active</IdentityStatus>
+<IdentityType>Operator</IdentityType>
+<OrganizationShortCode>100263</OrganizationShortCode>
+<OperatorNameCreatedBy>GLOBAL FINANCE CABLES COMPANY LTD\CNYAGEO</OperatorNameCreatedBy>
+<OperatorUniqueSystemIdentifierCreatedBy>203000000000013007</OperatorUniqueSystemIdentifierCreatedBy>
+<OrganizationUniqueReferenceDetails>201000000000032036</OrganizationUniqueReferenceDetails>
+<Role>Primary Till Operator</Role>
+<UniqueLinkingID></UniqueLinkingID>
+</IdentityStrings>
+<IdentityStrings>
+<UniqueSystemIdentifier>203000000000013140</UniqueSystemIdentifier>
+<FirstName>LUWATE</FirstName>
+<MiddleName></MiddleName>
+<LastName>RUFAS</LastName>
+<DateIdentityActivated></DateIdentityActivated>
+<DateIdentityCreated>20190630120227</DateIdentityCreated>
+<DateOfBirth>1986-02-04</DateOfBirth>
+<IDDetails>
+<IDType>Passport</IDType>
+<IDReference>R00172358</IDReference>
+<IDExpiryDate>2020-03-30</IDExpiryDate>
+<IDStatus></IDStatus>
+</IDDetails>
+<IdentityStatus>Active</IdentityStatus>
+<IdentityType>Operator</IdentityType>
+<OrganizationShortCode>100260</OrganizationShortCode>
+<OperatorNameCreatedBy>GLOBAL FINANCE CABLES COMPANY LTD\CNYAGEO</OperatorNameCreatedBy>
+<OperatorUniqueSystemIdentifierCreatedBy>203000000000013007</OperatorUniqueSystemIdentifierCreatedBy>
+<OrganizationUniqueReferenceDetails>201000000000031031</OrganizationUniqueReferenceDetails>
+<Role>Primary Till Operator</Role>
+<UniqueLinkingID></UniqueLinkingID>
+</IdentityStrings>
+<IdentityStrings>
+<UniqueSystemIdentifier>203000000000013204</UniqueSystemIdentifier>
+<FirstName>LUWATE</FirstName>
+<MiddleName></MiddleName>
+<LastName>RUFAS</LastName>
+<DateIdentityActivated></DateIdentityActivated>
+<DateIdentityCreated>20190630121013</DateIdentityCreated>
+<DateOfBirth>1986-02-04</DateOfBirth>
+<IDDetails>
+<IDType>Passport</IDType>
+<IDReference>R00172358</IDReference>
+<IDExpiryDate>2020-03-30</IDExpiryDate>
+<IDStatus></IDStatus>
+</IDDetails>
+<IdentityStatus>Active</IdentityStatus>
+<IdentityType>Operator</IdentityType>
+<OrganizationShortCode>100261</OrganizationShortCode>
+<OperatorNameCreatedBy>GLOBAL FINANCE CABLES COMPANY LTD\CNYAGEO</OperatorNameCreatedBy>
+<OperatorUniqueSystemIdentifierCreatedBy>203000000000013007</OperatorUniqueSystemIdentifierCreatedBy>
+<OrganizationUniqueReferenceDetails>201000000000032035</OrganizationUniqueReferenceDetails>
+<Role>Primary Till Operator</Role>
+<UniqueLinkingID></UniqueLinkingID>
+</IdentityStrings>
+</Operators>
+<Footer>Number of Records:5</Footer>
+<Checksum>050C182A564362590AAB1BC0E065A0A4ED3767930B7D34920D77DA658B79F6FD</Checksum>
+</AMLWatchList>

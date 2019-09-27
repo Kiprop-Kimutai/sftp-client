@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AMLWatchList xmlns="http://www.huawei.com/cps/aml/extract/operator" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.huawei.com/cps/aml/extract/operator OperatorExtract.xsd ">
+<Header>Source:MM; Sequence NO,Task Type:1,operator; Date Time:2019-06-29 17:00:01</Header>
+<Operators>
+<IdentityStrings>
+<UniqueSystemIdentifier>203000000000013132</UniqueSystemIdentifier>
+<FirstName>Deng</FirstName>
+<MiddleName></MiddleName>
+<LastName>Joseph</LastName>
+<DateIdentityActivated></DateIdentityActivated>
+<DateIdentityCreated>20190628133756</DateIdentityCreated>
+<DateOfBirth>1986-11-01</DateOfBirth>
+<IDDetails>
+<IDType>National ID</IDType>
+<IDReference>000298498</IDReference>
+<IDExpiryDate></IDExpiryDate>
+<IDStatus></IDStatus>
+</IDDetails>
+<IdentityStatus>Active</IdentityStatus>
+<IdentityType>Operator</IdentityType>
+<OrganizationShortCode>100229</OrganizationShortCode>
+<OperatorNameCreatedBy>GLOBAL FINANCE CABLES COMPANY LTD\CNYAGEO</OperatorNameCreatedBy>
+<OperatorUniqueSystemIdentifierCreatedBy>203000000000013007</OperatorUniqueSystemIdentifierCreatedBy>
+<OrganizationUniqueReferenceDetails>201000000000031017</OrganizationUniqueReferenceDetails>
+<Role>Primary Till Operator</Role>
+<UniqueLinkingID></UniqueLinkingID>
+</IdentityStrings>
+<IdentityStrings>
+<UniqueSystemIdentifier>203000000000013039</UniqueSystemIdentifier>
+<FirstName>Majok</FirstName>
+<MiddleName></MiddleName>
+<LastName>Ajeth</LastName>
+<DateIdentityActivated></DateIdentityActivated>
+<DateIdentityCreated>20190628141247</DateIdentityCreated>
+<DateOfBirth>1985-11-01</DateOfBirth>
+<IDDetails>
+<IDType>National ID</IDType>
+<IDReference>000527054</IDReference>
+<IDExpiryDate></IDExpiryDate>
+<IDStatus></IDStatus>
+</IDDetails>
+<IdentityStatus>Active</IdentityStatus>
+<IdentityType>Operator</IdentityType>
+<OrganizationShortCode>100226</OrganizationShortCode>
+<OperatorNameCreatedBy>GLOBAL FINANCE CABLES COMPANY LTD\CNYAGEO</OperatorNameCreatedBy>
+<OperatorUniqueSystemIdentifierCreatedBy>203000000000013007</OperatorUniqueSystemIdentifierCreatedBy>
+<OrganizationUniqueReferenceDetails>201000000000032018</OrganizationUniqueReferenceDetails>
+<Role>Primary Till Operator</Role>
+<UniqueLinkingID></UniqueLinkingID>
+</IdentityStrings>
+<IdentityStrings>
+<UniqueSystemIdentifier>203000000000013112</UniqueSystemIdentifier>
+<FirstName>Victoria</FirstName>
+<MiddleName></MiddleName>
+<LastName>Khisa</LastName>
+<DateIdentityActivated></DateIdentityActivated>
+<DateIdentityCreated>20190622122120</DateIdentityCreated>
+<DateOfBirth>2019-06-22</DateOfBirth>
+<IDDetails>
+<IDType></IDType>
+<IDReference></IDReference>
+<IDExpiryDate></IDExpiryDate>
+<IDStatus></IDStatus>
+</IDDetails>
+<IdentityStatus>Active</IdentityStatus>
+<IdentityType>Operator</IdentityType>
+<OrganizationShortCode>123457</OrganizationShortCode>
+<OperatorNameCreatedBy>NilePay\bonnie</OperatorNameCreatedBy>
+<OperatorUniqueSystemIdentifierCreatedBy>203000000000013003</OperatorUniqueSystemIdentifierCreatedBy>
+<OrganizationUniqueReferenceDetails>201000000000032003</OrganizationUniqueReferenceDetails>
+<Role>Primary Till Operator</Role>
+<UniqueLinkingID></UniqueLinkingID>
+</IdentityStrings>
+<IdentityStrings>
+<UniqueSystemIdentifier>203000000000013010</UniqueSystemIdentifier>
+<FirstName>Paul</FirstName>
+<MiddleName></MiddleName>
+<LastName>Matiru</LastName>
+<DateIdentityActivated></DateIdentityActivated>
+<DateIdentityCreated>20190621165816</DateIdentityCreated>
+<DateOfBirth>2019-06-21</DateOfBirth>
+<IDDetails>
+<IDType></IDType>
+<IDReference></IDReference>
+<IDExpiryDate></IDExpiryDate>
+<IDStatus></IDStatus>
+</IDDetails>
+<IdentityStatus>Active</IdentityStatus>
+<IdentityType>Operator</IdentityType>
+<OrganizationShortCode>123457</OrganizationShortCode>
+<OperatorNameCreatedBy>Nilepay Test Agent\pmatiru</OperatorNameCreatedBy>
+<OperatorUniqueSystemIdentifierCreatedBy>203000000000013105</OperatorUniqueSystemIdentifierCreatedBy>
+<OrganizationUniqueReferenceDetails>201000000000032003</OrganizationUniqueReferenceDetails>
+<Role>Primary Till Operator</Role>
+<UniqueLinkingID></UniqueLinkingID>
+</IdentityStrings>
+</Operators>
+<Footer>Number of Records:4</Footer>
+<Checksum>DBBCD8ADF6696A5C978863AC2C86DB839702B6FC04EB5F4C96DB8B7D2D0CC37E</Checksum>
+</AMLWatchList>

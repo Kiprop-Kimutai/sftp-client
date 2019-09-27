@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AMLWatchList xmlns="http://www.huawei.com/cps/aml/extract/operator" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.huawei.com/cps/aml/extract/operator OperatorExtract.xsd ">
+<Header>Source:MM; Sequence NO,Task Type:0,operator; Date Time:2019-06-28 14:00:00</Header>
+<Operators>
+<IdentityStrings>
+<UniqueSystemIdentifier>203000000000013124</UniqueSystemIdentifier>
+<FirstName>Garang</FirstName>
+<MiddleName>Makuei</MiddleName>
+<LastName>Garang</LastName>
+<DateIdentityActivated></DateIdentityActivated>
+<DateIdentityCreated>20190627154301</DateIdentityCreated>
+<DateOfBirth>1995-04-17</DateOfBirth>
+<IDDetails>
+<IDType>Passport</IDType>
+<IDReference>R000024768</IDReference>
+<IDExpiryDate></IDExpiryDate>
+<IDStatus></IDStatus>
+</IDDetails>
+<IdentityStatus>Active</IdentityStatus>
+<IdentityType>Operator</IdentityType>
+<OrganizationShortCode>100252</OrganizationShortCode>
+<OperatorNameCreatedBy>GLOBAL FINANCE CABLES COMPANY LTD\CNYAGEO</OperatorNameCreatedBy>
+<OperatorUniqueSystemIdentifierCreatedBy>203000000000013007</OperatorUniqueSystemIdentifierCreatedBy>
+<OrganizationUniqueReferenceDetails>201000000000031016</OrganizationUniqueReferenceDetails>
+<Role>Primary Till Operator</Role>
+<UniqueLinkingID></UniqueLinkingID>
+</IdentityStrings>
+<IdentityStrings>
+<UniqueSystemIdentifier>203000000000013123</UniqueSystemIdentifier>
+<FirstName>Garang</FirstName>
+<MiddleName>Makuei</MiddleName>
+<LastName>Garang</LastName>
+<DateIdentityActivated></DateIdentityActivated>
+<DateIdentityCreated>20190627153002</DateIdentityCreated>
+<DateOfBirth>1995-04-17</DateOfBirth>
+<IDDetails>
+<IDType>Passport</IDType>
+<IDReference>R000024768</IDReference>
+<IDExpiryDate></IDExpiryDate>
+<IDStatus></IDStatus>
+</IDDetails>
+<IdentityStatus>Active</IdentityStatus>
+<IdentityType>Operator</IdentityType>
+<OrganizationShortCode>100250</OrganizationShortCode>
+<OperatorNameCreatedBy>GLOBAL FINANCE CABLES COMPANY LTD\CNYAGEO</OperatorNameCreatedBy>
+<OperatorUniqueSystemIdentifierCreatedBy>203000000000013007</OperatorUniqueSystemIdentifierCreatedBy>
+<OrganizationUniqueReferenceDetails>201000000000032019</OrganizationUniqueReferenceDetails>
+<Role>Primary Till Operator</Role>
+<UniqueLinkingID></UniqueLinkingID>
+</IdentityStrings>
+<IdentityStrings>
+<UniqueSystemIdentifier>203000000000013026</UniqueSystemIdentifier>
+<FirstName>Garang</FirstName>
+<MiddleName>Makuei</MiddleName>
+<LastName>Garang</LastName>
+<DateIdentityActivated></DateIdentityActivated>
+<DateIdentityCreated>20190627154636</DateIdentityCreated>
+<DateOfBirth>1995-04-17</DateOfBirth>
+<IDDetails>
+<IDType>Passport</IDType>
+<IDReference>R000024768</IDReference>
+<IDExpiryDate></IDExpiryDate>
+<IDStatus></IDStatus>
+</IDDetails>
+<IdentityStatus>Active</IdentityStatus>
+<IdentityType>Operator</IdentityType>
+<OrganizationShortCode>100253</OrganizationShortCode>
+<OperatorNameCreatedBy>GLOBAL FINANCE CABLES COMPANY LTD\CNYAGEO</OperatorNameCreatedBy>
+<OperatorUniqueSystemIdentifierCreatedBy>203000000000013007</OperatorUniqueSystemIdentifierCreatedBy>
+<OrganizationUniqueReferenceDetails>201000000000032022</OrganizationUniqueReferenceDetails>
+<Role>Primary Till Operator</Role>
+<UniqueLinkingID></UniqueLinkingID>
+</IdentityStrings>
+<IdentityStrings>
+<UniqueSystemIdentifier>203000000000013024</UniqueSystemIdentifier>
+<FirstName>Alier</FirstName>
+<MiddleName></MiddleName>
+<LastName>Ajak</LastName>
+<DateIdentityActivated></DateIdentityActivated>
+<DateIdentityCreated>20190627151313</DateIdentityCreated>
+<DateOfBirth>1982-11-01</DateOfBirth>
+<IDDetails>
+<IDType>National ID</IDType>
+<IDReference>000030102</IDReference>
+<IDExpiryDate></IDExpiryDate>
+<IDStatus></IDStatus>
+</IDDetails>
+<IdentityStatus>Active</IdentityStatus>
+<IdentityType>Operator</IdentityType>
+<OrganizationShortCode>100220</OrganizationShortCode>
+<OperatorNameCreatedBy>GLOBAL FINANCE CABLES COMPANY LTD\CNYAGEO</OperatorNameCreatedBy>
+<OperatorUniqueSystemIdentifierCreatedBy>203000000000013007</OperatorUniqueSystemIdentifierCreatedBy>
+<OrganizationUniqueReferenceDetails>201000000000031010</OrganizationUniqueReferenceDetails>
+<Role>Primary Till Operator</Role>
+<UniqueLinkingID></UniqueLinkingID>
+</IdentityStrings>
+<IdentityStrings>
+<UniqueSystemIdentifier>203000000000013025</UniqueSystemIdentifier>
+<FirstName>Garang</FirstName>
+<MiddleName>Makuei</MiddleName>
+<LastName>Garang</LastName>
+<DateIdentityActivated></DateIdentityActivated>
+<DateIdentityCreated>20190627153641</DateIdentityCreated>
+<DateOfBirth>1995-04-17</DateOfBirth>
+<IDDetails>
+<IDType>Passport</IDType>
+<IDReference>R000024768</IDReference>
+<IDExpiryDate></IDExpiryDate>
+<IDStatus></IDStatus>
+</IDDetails>
+<IdentityStatus>Active</IdentityStatus>
+<IdentityType>Operator</IdentityType>
+<OrganizationShortCode>100251</OrganizationShortCode>
+<OperatorNameCreatedBy>GLOBAL FINANCE CABLES COMPANY LTD\CNYAGEO</OperatorNameCreatedBy>
+<OperatorUniqueSystemIdentifierCreatedBy>203000000000013007</OperatorUniqueSystemIdentifierCreatedBy>
+<OrganizationUniqueReferenceDetails>201000000000031015</OrganizationUniqueReferenceDetails>
+<Role>Primary Till Operator</Role>
+<UniqueLinkingID></UniqueLinkingID>
+</IdentityStrings>
+<IdentityStrings>
+<UniqueSystemIdentifier>203000000000013122</UniqueSystemIdentifier>
+<FirstName>Alier</FirstName>
+<MiddleName></MiddleName>
+<LastName>Ajak</LastName>
+<DateIdentityActivated></DateIdentityActivated>
+<DateIdentityCreated>20190627150349</DateIdentityCreated>
+<DateOfBirth>1982-11-01</DateOfBirth>
+<IDDetails>
+<IDType>National ID</IDType>
+<IDReference>000030102</IDReference>
+<IDExpiryDate></IDExpiryDate>
+<IDStatus></IDStatus>
+</IDDetails>
+<IdentityStatus>Active</IdentityStatus>
+<IdentityType>Operator</IdentityType>
+<OrganizationShortCode>100219</OrganizationShortCode>
+<OperatorNameCreatedBy>GLOBAL FINANCE CABLES COMPANY LTD\CNYAGEO</OperatorNameCreatedBy>
+<OperatorUniqueSystemIdentifierCreatedBy>203000000000013007</OperatorUniqueSystemIdentifierCreatedBy>
+<OrganizationUniqueReferenceDetails>201000000000032015</OrganizationUniqueReferenceDetails>
+<Role>Primary Till Operator</Role>
+<UniqueLinkingID></UniqueLinkingID>
+</IdentityStrings>
+</Operators>
+<Footer>Number of Records:6</Footer>
+<Checksum>2DE02591E38E32F4CDC2E0B4CA7BED2FC306B7C9F2E7C027C287060C79F58865</Checksum>
+</AMLWatchList>

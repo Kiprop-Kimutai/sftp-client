@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AMLWatchList xmlns="http://www.huawei.com/cps/aml/extract/operator" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.huawei.com/cps/aml/extract/operator OperatorExtract.xsd ">
+<Header>Source:MM; Sequence NO,Task Type:2,operator; Date Time:2019-06-23 10:00:02</Header>
+<Operators>
+<IdentityStrings>
+<UniqueSystemIdentifier>203000000000013012</UniqueSystemIdentifier>
+<FirstName>ABRAHAM</FirstName>
+<MiddleName></MiddleName>
+<LastName>ABUKO</LastName>
+<DateIdentityActivated></DateIdentityActivated>
+<DateIdentityCreated>20190622114308</DateIdentityCreated>
+<DateOfBirth>2019-06-22</DateOfBirth>
+<IDDetails>
+<IDType></IDType>
+<IDReference></IDReference>
+<IDExpiryDate></IDExpiryDate>
+<IDStatus></IDStatus>
+</IDDetails>
+<IdentityStatus>Active</IdentityStatus>
+<IdentityType>Operator</IdentityType>
+<OrganizationShortCode>123456</OrganizationShortCode>
+<OperatorNameCreatedBy>Nilepay Test Agent\pmatiru</OperatorNameCreatedBy>
+<OperatorUniqueSystemIdentifierCreatedBy>203000000000013105</OperatorUniqueSystemIdentifierCreatedBy>
+<OrganizationUniqueReferenceDetails>201000000000032002</OrganizationUniqueReferenceDetails>
+<Role>Head Office Till Operator</Role>
+<UniqueLinkingID></UniqueLinkingID>
+</IdentityStrings>
+<IdentityStrings>
+<UniqueSystemIdentifier>203000000000013010</UniqueSystemIdentifier>
+<FirstName>Paul</FirstName>
+<MiddleName></MiddleName>
+<LastName>Matiru</LastName>
+<DateIdentityActivated></DateIdentityActivated>
+<DateIdentityCreated>20190621165816</DateIdentityCreated>
+<DateOfBirth>2019-06-21</DateOfBirth>
+<IDDetails>
+<IDType></IDType>
+<IDReference></IDReference>
+<IDExpiryDate></IDExpiryDate>
+<IDStatus></IDStatus>
+</IDDetails>
+<IdentityStatus>Active</IdentityStatus>
+<IdentityType>Operator</IdentityType>
+<OrganizationShortCode>123457</OrganizationShortCode>
+<OperatorNameCreatedBy>Nilepay Test Agent\pmatiru</OperatorNameCreatedBy>
+<OperatorUniqueSystemIdentifierCreatedBy>203000000000013105</OperatorUniqueSystemIdentifierCreatedBy>
+<OrganizationUniqueReferenceDetails>201000000000032003</OrganizationUniqueReferenceDetails>
+<Role>Primary Till Operator</Role>
+<UniqueLinkingID></UniqueLinkingID>
+</IdentityStrings>
+</Operators>
+<Footer>Number of Records:2</Footer>
+<Checksum>2F00F19AC55EE00EF86FB8AF2916C72C0FA909EFFB7BEF3EAE4DEDECF2029686</Checksum>
+</AMLWatchList>

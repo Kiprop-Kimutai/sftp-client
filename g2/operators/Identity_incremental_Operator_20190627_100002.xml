@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AMLWatchList xmlns="http://www.huawei.com/cps/aml/extract/operator" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.huawei.com/cps/aml/extract/operator OperatorExtract.xsd ">
+<Header>Source:MM; Sequence NO,Task Type:2,operator; Date Time:2019-06-27 10:00:02</Header>
+<Operators>
+<IdentityStrings>
+<UniqueSystemIdentifier>203000000000013115</UniqueSystemIdentifier>
+<FirstName>Anne</FirstName>
+<MiddleName></MiddleName>
+<LastName>Biomndo</LastName>
+<DateIdentityActivated>20190625115818</DateIdentityActivated>
+<DateIdentityCreated>20190625114550</DateIdentityCreated>
+<DateOfBirth>1983-08-17</DateOfBirth>
+<IDDetails>
+<IDType>National ID</IDType>
+<IDReference>23322866</IDReference>
+<IDExpiryDate></IDExpiryDate>
+<IDStatus></IDStatus>
+</IDDetails>
+<IdentityStatus>Active</IdentityStatus>
+<IdentityType>Operator</IdentityType>
+<OrganizationShortCode>1</OrganizationShortCode>
+<OperatorNameCreatedBy>NilePay\bonnie</OperatorNameCreatedBy>
+<OperatorUniqueSystemIdentifierCreatedBy>203000000000013003</OperatorUniqueSystemIdentifierCreatedBy>
+<OrganizationUniqueReferenceDetails>200000000000010001</OrganizationUniqueReferenceDetails>
+<Role>Operations User</Role>
+<UniqueLinkingID></UniqueLinkingID>
+</IdentityStrings>
+<IdentityStrings>
+<UniqueSystemIdentifier>203000000000013016</UniqueSystemIdentifier>
+<FirstName>Victoria</FirstName>
+<MiddleName></MiddleName>
+<LastName>Khisa</LastName>
+<DateIdentityActivated>20190626171928</DateIdentityActivated>
+<DateIdentityCreated>20190622223005</DateIdentityCreated>
+<DateOfBirth>1983-05-10</DateOfBirth>
+<IDDetails>
+<IDType>National ID</IDType>
+<IDReference>22796529</IDReference>
+<IDExpiryDate></IDExpiryDate>
+<IDStatus></IDStatus>
+</IDDetails>
+<IdentityStatus>Active</IdentityStatus>
+<IdentityType>Operator</IdentityType>
+<OrganizationShortCode>1</OrganizationShortCode>
+<OperatorNameCreatedBy>NilePay\bonnie</OperatorNameCreatedBy>
+<OperatorUniqueSystemIdentifierCreatedBy>203000000000013003</OperatorUniqueSystemIdentifierCreatedBy>
+<OrganizationUniqueReferenceDetails>200000000000010001</OrganizationUniqueReferenceDetails>
+<Role>Operations User</Role>
+<UniqueLinkingID></UniqueLinkingID>
+</IdentityStrings>
+</Operators>
+<Footer>Number of Records:2</Footer>
+<Checksum>452B52525F53459D41A339452AC081D098E4D13F42F05D7371FE0FC675AB7070</Checksum>
+</AMLWatchList>

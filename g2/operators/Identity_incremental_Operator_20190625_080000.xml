@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AMLWatchList xmlns="http://www.huawei.com/cps/aml/extract/operator" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.huawei.com/cps/aml/extract/operator OperatorExtract.xsd ">
+<Header>Source:MM; Sequence NO,Task Type:0,operator; Date Time:2019-06-25 08:00:00</Header>
+<Operators>
+<IdentityStrings>
+<UniqueSystemIdentifier>203000000000013114</UniqueSystemIdentifier>
+<FirstName>Abrahams</FirstName>
+<MiddleName></MiddleName>
+<LastName>Abuko</LastName>
+<DateIdentityActivated></DateIdentityActivated>
+<DateIdentityCreated>20190624093228</DateIdentityCreated>
+<DateOfBirth>1981-09-05</DateOfBirth>
+<IDDetails>
+<IDType>National ID</IDType>
+<IDReference>22509632</IDReference>
+<IDExpiryDate></IDExpiryDate>
+<IDStatus></IDStatus>
+</IDDetails>
+<IdentityStatus>Pending Active</IdentityStatus>
+<IdentityType>Operator</IdentityType>
+<OrganizationShortCode>1</OrganizationShortCode>
+<OperatorNameCreatedBy>NilePay\bonnie</OperatorNameCreatedBy>
+<OperatorUniqueSystemIdentifierCreatedBy>203000000000013003</OperatorUniqueSystemIdentifierCreatedBy>
+<OrganizationUniqueReferenceDetails>200000000000010001</OrganizationUniqueReferenceDetails>
+<Role>CC Manager</Role>
+<UniqueLinkingID></UniqueLinkingID>
+</IdentityStrings>
+<IdentityStrings>
+<UniqueSystemIdentifier>203000000000013017</UniqueSystemIdentifier>
+<FirstName>Solomon</FirstName>
+<MiddleName></MiddleName>
+<LastName>Timon</LastName>
+<DateIdentityActivated></DateIdentityActivated>
+<DateIdentityCreated>20190624094443</DateIdentityCreated>
+<DateOfBirth>1978-11-01</DateOfBirth>
+<IDDetails>
+<IDType>National ID</IDType>
+<IDReference>21496778</IDReference>
+<IDExpiryDate></IDExpiryDate>
+<IDStatus></IDStatus>
+</IDDetails>
+<IdentityStatus>Pending Active</IdentityStatus>
+<IdentityType>Operator</IdentityType>
+<OrganizationShortCode>1</OrganizationShortCode>
+<OperatorNameCreatedBy>NilePay\bonnie</OperatorNameCreatedBy>
+<OperatorUniqueSystemIdentifierCreatedBy>203000000000013003</OperatorUniqueSystemIdentifierCreatedBy>
+<OrganizationUniqueReferenceDetails>200000000000010001</OrganizationUniqueReferenceDetails>
+<Role>CC Operator</Role>
+<UniqueLinkingID></UniqueLinkingID>
+</IdentityStrings>
+</Operators>
+<Footer>Number of Records:2</Footer>
+<Checksum>E64E54E0154D7EF2EE05509B3A057FDEE7551B4CB612BFE334835E29C6A59D1F</Checksum>
+</AMLWatchList>

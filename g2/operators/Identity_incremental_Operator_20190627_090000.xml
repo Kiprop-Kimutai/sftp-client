@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AMLWatchList xmlns="http://www.huawei.com/cps/aml/extract/operator" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.huawei.com/cps/aml/extract/operator OperatorExtract.xsd ">
+<Header>Source:MM; Sequence NO,Task Type:0,operator; Date Time:2019-06-27 09:00:00</Header>
+<Operators>
+<IdentityStrings>
+<UniqueSystemIdentifier>203000000000013116</UniqueSystemIdentifier>
+<FirstName>ANTONY</FirstName>
+<MiddleName>OKOTH</MiddleName>
+<LastName>ONYANGO</LastName>
+<DateIdentityActivated></DateIdentityActivated>
+<DateIdentityCreated>20190626105044</DateIdentityCreated>
+<DateOfBirth>1979-12-29</DateOfBirth>
+<IDDetails>
+<IDType>Passport</IDType>
+<IDReference>BK023842</IDReference>
+<IDExpiryDate></IDExpiryDate>
+<IDStatus></IDStatus>
+</IDDetails>
+<IdentityStatus>Pending Active</IdentityStatus>
+<IdentityType>Operator</IdentityType>
+<OrganizationShortCode>100300</OrganizationShortCode>
+<OperatorNameCreatedBy>NilePay\wambuguc</OperatorNameCreatedBy>
+<OperatorUniqueSystemIdentifierCreatedBy>203000000000013002</OperatorUniqueSystemIdentifierCreatedBy>
+<OrganizationUniqueReferenceDetails>201000000000032005</OrganizationUniqueReferenceDetails>
+<Role>Agent Administrator</Role>
+<UniqueLinkingID></UniqueLinkingID>
+</IdentityStrings>
+<IdentityStrings>
+<UniqueSystemIdentifier>203000000000013110</UniqueSystemIdentifier>
+<FirstName>George</FirstName>
+<MiddleName></MiddleName>
+<LastName>Ndegwa</LastName>
+<DateIdentityActivated></DateIdentityActivated>
+<DateIdentityCreated>20190621192317</DateIdentityCreated>
+<DateOfBirth>1990-06-21</DateOfBirth>
+<IDDetails>
+<IDType></IDType>
+<IDReference></IDReference>
+<IDExpiryDate></IDExpiryDate>
+<IDStatus></IDStatus>
+</IDDetails>
+<IdentityStatus>Pending Active</IdentityStatus>
+<IdentityType>Operator</IdentityType>
+<OrganizationShortCode>123456</OrganizationShortCode>
+<OperatorNameCreatedBy>Nilepay Test Agent\pmatiru</OperatorNameCreatedBy>
+<OperatorUniqueSystemIdentifierCreatedBy>203000000000013105</OperatorUniqueSystemIdentifierCreatedBy>
+<OrganizationUniqueReferenceDetails>201000000000032002</OrganizationUniqueReferenceDetails>
+<Role>Agent Manager</Role>
+<UniqueLinkingID></UniqueLinkingID>
+</IdentityStrings>
+<IdentityStrings>
+<UniqueSystemIdentifier>203000000000013114</UniqueSystemIdentifier>
+<FirstName>Abrahams</FirstName>
+<MiddleName></MiddleName>
+<LastName>Abuko</LastName>
+<DateIdentityActivated>20190626110631</DateIdentityActivated>
+<DateIdentityCreated>20190624093228</DateIdentityCreated>
+<DateOfBirth>1981-09-05</DateOfBirth>
+<IDDetails>
+<IDType>National ID</IDType>
+<IDReference>22509632</IDReference>
+<IDExpiryDate></IDExpiryDate>
+<IDStatus></IDStatus>
+</IDDetails>
+<IdentityStatus>Active</IdentityStatus>
+<IdentityType>Operator</IdentityType>
+<OrganizationShortCode>1</OrganizationShortCode>
+<OperatorNameCreatedBy>NilePay\bonnie</OperatorNameCreatedBy>
+<OperatorUniqueSystemIdentifierCreatedBy>203000000000013003</OperatorUniqueSystemIdentifierCreatedBy>
+<OrganizationUniqueReferenceDetails>200000000000010001</OrganizationUniqueReferenceDetails>
+<Role>Operations User</Role>
+<UniqueLinkingID></UniqueLinkingID>
+</IdentityStrings>
+</Operators>
+<Footer>Number of Records:3</Footer>
+<Checksum>CD91EDBE3B20C6B7694453C8BFEC026EADE50B12A5C707BC7E65070F411A2C65</Checksum>
+</AMLWatchList>

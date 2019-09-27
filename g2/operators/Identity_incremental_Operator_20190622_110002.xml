@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AMLWatchList xmlns="http://www.huawei.com/cps/aml/extract/operator" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.huawei.com/cps/aml/extract/operator OperatorExtract.xsd ">
+<Header>Source:MM; Sequence NO,Task Type:2,operator; Date Time:2019-06-22 11:00:02</Header>
+<Operators>
+<IdentityStrings>
+<UniqueSystemIdentifier>100000001</UniqueSystemIdentifier>
+<FirstName></FirstName>
+<MiddleName></MiddleName>
+<LastName></LastName>
+<DateIdentityActivated>20170714043952</DateIdentityActivated>
+<DateIdentityCreated>20140816000000</DateIdentityCreated>
+<DateOfBirth></DateOfBirth>
+<IDDetails>
+<IDType></IDType>
+<IDReference></IDReference>
+<IDExpiryDate></IDExpiryDate>
+<IDStatus></IDStatus>
+</IDDetails>
+<IdentityStatus>Active</IdentityStatus>
+<IdentityType>Operator</IdentityType>
+<OrganizationShortCode>1</OrganizationShortCode>
+<OperatorNameCreatedBy></OperatorNameCreatedBy>
+<OperatorUniqueSystemIdentifierCreatedBy>-1</OperatorUniqueSystemIdentifierCreatedBy>
+<OrganizationUniqueReferenceDetails>200000000000010001</OrganizationUniqueReferenceDetails>
+<Role>Sysadmin Role</Role>
+<UniqueLinkingID></UniqueLinkingID>
+</IdentityStrings>
+<IdentityStrings>
+<UniqueSystemIdentifier>203000000000013104</UniqueSystemIdentifier>
+<FirstName>Dennis</FirstName>
+<MiddleName></MiddleName>
+<LastName>Munyua</LastName>
+<DateIdentityActivated>20190621130223</DateIdentityActivated>
+<DateIdentityCreated>20190621125936</DateIdentityCreated>
+<DateOfBirth>1987-12-16</DateOfBirth>
+<IDDetails>
+<IDType>National ID</IDType>
+<IDReference>25367489</IDReference>
+<IDExpiryDate></IDExpiryDate>
+<IDStatus></IDStatus>
+</IDDetails>
+<IdentityStatus>Active</IdentityStatus>
+<IdentityType>Operator</IdentityType>
+<OrganizationShortCode>1</OrganizationShortCode>
+<OperatorNameCreatedBy>NilePay\admin1</OperatorNameCreatedBy>
+<OperatorUniqueSystemIdentifierCreatedBy>100000001</OperatorUniqueSystemIdentifierCreatedBy>
+<OrganizationUniqueReferenceDetails>200000000000010001</OrganizationUniqueReferenceDetails>
+<Role>SPOperRole</Role>
+<UniqueLinkingID></UniqueLinkingID>
+</IdentityStrings>
+<IdentityStrings>
+<UniqueSystemIdentifier>203000000000013005</UniqueSystemIdentifier>
+<FirstName>Stephen</FirstName>
+<MiddleName></MiddleName>
+<LastName>Kagunya</LastName>
+<DateIdentityActivated>20190621132138</DateIdentityActivated>
+<DateIdentityCreated>20190621125558</DateIdentityCreated>
+<DateOfBirth>1976-05-04</DateOfBirth>
+<IDDetails>
+<IDType>National ID</IDType>
+<IDReference>11186603</IDReference>
+<IDExpiryDate></IDExpiryDate>
+<IDStatus></IDStatus>
+</IDDetails>
+<IdentityStatus>Active</IdentityStatus>
+<IdentityType>Operator</IdentityType>
+<OrganizationShortCode>1</OrganizationShortCode>
+<OperatorNameCreatedBy>NilePay\dennis2</OperatorNameCreatedBy>
+<OperatorUniqueSystemIdentifierCreatedBy>203000000000012919</OperatorUniqueSystemIdentifierCreatedBy>
+<OrganizationUniqueReferenceDetails>200000000000010001</OrganizationUniqueReferenceDetails>
+<Role>Operations User</Role>
+<UniqueLinkingID></UniqueLinkingID>
+</IdentityStrings>
+<IdentityStrings>
+<UniqueSystemIdentifier>203000000000012919</UniqueSystemIdentifier>
+<FirstName>Chai</FirstName>
+<MiddleName></MiddleName>
+<LastName>Jaba</LastName>
+<DateIdentityActivated>20190618170944</DateIdentityActivated>
+<DateIdentityCreated>20190618170908</DateIdentityCreated>
+<DateOfBirth>2019-06-21</DateOfBirth>
+<IDDetails>
+<IDType>National ID</IDType>
+<IDReference>12345678</IDReference>
+<IDExpiryDate></IDExpiryDate>
+<IDStatus></IDStatus>
+</IDDetails>
+<IdentityStatus>Closed</IdentityStatus>
+<IdentityType>Operator</IdentityType>
+<OrganizationShortCode>1</OrganizationShortCode>
+<OperatorNameCreatedBy>NilePay\dennis</OperatorNameCreatedBy>
+<OperatorUniqueSystemIdentifierCreatedBy>203000000000012202</OperatorUniqueSystemIdentifierCreatedBy>
+<OrganizationUniqueReferenceDetails>200000000000010001</OrganizationUniqueReferenceDetails>
+<Role>SPOperRole</Role>
+<UniqueLinkingID></UniqueLinkingID>
+</IdentityStrings>
+</Operators>
+<Footer>Number of Records:4</Footer>
+<Checksum>F051B5D02830F77EFC18960D258842F31A8F923C316938D77AE3D62B75667AEA</Checksum>
+</AMLWatchList>

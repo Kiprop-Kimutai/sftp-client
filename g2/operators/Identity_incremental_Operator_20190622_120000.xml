@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AMLWatchList xmlns="http://www.huawei.com/cps/aml/extract/operator" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.huawei.com/cps/aml/extract/operator OperatorExtract.xsd ">
+<Header>Source:MM; Sequence NO,Task Type:0,operator; Date Time:2019-06-22 12:00:00</Header>
+<Operators>
+<IdentityStrings>
+<UniqueSystemIdentifier>203000000000013104</UniqueSystemIdentifier>
+<FirstName>Dennis</FirstName>
+<MiddleName></MiddleName>
+<LastName>Munyua</LastName>
+<DateIdentityActivated>20190621130223</DateIdentityActivated>
+<DateIdentityCreated>20190621125936</DateIdentityCreated>
+<DateOfBirth>1987-12-16</DateOfBirth>
+<IDDetails>
+<IDType>National ID</IDType>
+<IDReference>25367489</IDReference>
+<IDExpiryDate></IDExpiryDate>
+<IDStatus></IDStatus>
+</IDDetails>
+<IdentityStatus>Active</IdentityStatus>
+<IdentityType>Operator</IdentityType>
+<OrganizationShortCode>1</OrganizationShortCode>
+<OperatorNameCreatedBy>NilePay\admin1</OperatorNameCreatedBy>
+<OperatorUniqueSystemIdentifierCreatedBy>100000001</OperatorUniqueSystemIdentifierCreatedBy>
+<OrganizationUniqueReferenceDetails>200000000000010001</OrganizationUniqueReferenceDetails>
+<Role>SPOperRole</Role>
+<UniqueLinkingID></UniqueLinkingID>
+</IdentityStrings>
+<IdentityStrings>
+<UniqueSystemIdentifier>203000000000012919</UniqueSystemIdentifier>
+<FirstName>Chai</FirstName>
+<MiddleName></MiddleName>
+<LastName>Jaba</LastName>
+<DateIdentityActivated>20190618170944</DateIdentityActivated>
+<DateIdentityCreated>20190618170908</DateIdentityCreated>
+<DateOfBirth>2019-06-21</DateOfBirth>
+<IDDetails>
+<IDType>National ID</IDType>
+<IDReference>12345678</IDReference>
+<IDExpiryDate></IDExpiryDate>
+<IDStatus></IDStatus>
+</IDDetails>
+<IdentityStatus>Closed</IdentityStatus>
+<IdentityType>Operator</IdentityType>
+<OrganizationShortCode>1</OrganizationShortCode>
+<OperatorNameCreatedBy>NilePay\dennis</OperatorNameCreatedBy>
+<OperatorUniqueSystemIdentifierCreatedBy>203000000000012202</OperatorUniqueSystemIdentifierCreatedBy>
+<OrganizationUniqueReferenceDetails>200000000000010001</OrganizationUniqueReferenceDetails>
+<Role>SPOperRole</Role>
+<UniqueLinkingID></UniqueLinkingID>
+</IdentityStrings>
+<IdentityStrings>
+<UniqueSystemIdentifier>203000000000013007</UniqueSystemIdentifier>
+<FirstName>Cephas</FirstName>
+<MiddleName>Onyinkwa</MiddleName>
+<LastName>Nyageo</LastName>
+<DateIdentityActivated></DateIdentityActivated>
+<DateIdentityCreated>20190621133217</DateIdentityCreated>
+<DateOfBirth>1991-04-29</DateOfBirth>
+<IDDetails>
+<IDType>Passport</IDType>
+<IDReference>BK044597</IDReference>
+<IDExpiryDate></IDExpiryDate>
+<IDStatus></IDStatus>
+</IDDetails>
+<IdentityStatus>Active</IdentityStatus>
+<IdentityType>Operator</IdentityType>
+<OrganizationShortCode>100200</OrganizationShortCode>
+<OperatorNameCreatedBy>NilePay\dmmunyua</OperatorNameCreatedBy>
+<OperatorUniqueSystemIdentifierCreatedBy>203000000000013104</OperatorUniqueSystemIdentifierCreatedBy>
+<OrganizationUniqueReferenceDetails>201000000000032001</OrganizationUniqueReferenceDetails>
+<Role>Agent Administrator</Role>
+<UniqueLinkingID></UniqueLinkingID>
+</IdentityStrings>
+<IdentityStrings>
+<UniqueSystemIdentifier>203000000000013006</UniqueSystemIdentifier>
+<FirstName>Jim</FirstName>
+<MiddleName>Kasoa</MiddleName>
+<LastName>Nzioka</LastName>
+<DateIdentityActivated></DateIdentityActivated>
+<DateIdentityCreated>20190621130543</DateIdentityCreated>
+<DateOfBirth>1991-09-26</DateOfBirth>
+<IDDetails>
+<IDType>National ID</IDType>
+<IDReference>28760304</IDReference>
+<IDExpiryDate></IDExpiryDate>
+<IDStatus></IDStatus>
+</IDDetails>
+<IdentityStatus>Pending Active</IdentityStatus>
+<IdentityType>Operator</IdentityType>
+<OrganizationShortCode>1</OrganizationShortCode>
+<OperatorNameCreatedBy>NilePay\dmmunyua</OperatorNameCreatedBy>
+<OperatorUniqueSystemIdentifierCreatedBy>203000000000013104</OperatorUniqueSystemIdentifierCreatedBy>
+<OrganizationUniqueReferenceDetails>200000000000010001</OrganizationUniqueReferenceDetails>
+<Role>Revenue Assurance</Role>
+<UniqueLinkingID></UniqueLinkingID>
+</IdentityStrings>
+<IdentityStrings>
+<UniqueSystemIdentifier>203000000000013105</UniqueSystemIdentifier>
+<FirstName>Paul</FirstName>
+<MiddleName></MiddleName>
+<LastName>Matiru</LastName>
+<DateIdentityActivated></DateIdentityActivated>
+<DateIdentityCreated>20190621132952</DateIdentityCreated>
+<DateOfBirth>1983-01-01</DateOfBirth>
+<IDDetails>
+<IDType></IDType>
+<IDReference></IDReference>
+<IDExpiryDate></IDExpiryDate>
+<IDStatus></IDStatus>
+</IDDetails>
+<IdentityStatus>Active</IdentityStatus>
+<IdentityType>Operator</IdentityType>
+<OrganizationShortCode>123456</OrganizationShortCode>
+<OperatorNameCreatedBy>NilePay\dmmunyua</OperatorNameCreatedBy>
+<OperatorUniqueSystemIdentifierCreatedBy>203000000000013104</OperatorUniqueSystemIdentifierCreatedBy>
+<OrganizationUniqueReferenceDetails>201000000000032002</OrganizationUniqueReferenceDetails>
+<Role>Agent Administrator</Role>
+<UniqueLinkingID></UniqueLinkingID>
+</IdentityStrings>
+</Operators>
+<Footer>Number of Records:5</Footer>
+<Checksum>FDC7297214F1C3441949B898687F19AF23850D2A51F121407E8FC663E62FA56C</Checksum>
+</AMLWatchList>

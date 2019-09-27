@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AMLWatchList xmlns="http://www.huawei.com/cps/aml/extract/operator" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.huawei.com/cps/aml/extract/operator OperatorExtract.xsd ">
+<Header>Source:MM; Sequence NO,Task Type:1,operator; Date Time:2019-07-01 10:00:01</Header>
+<Operators>
+<IdentityStrings>
+<UniqueSystemIdentifier>203000000000013202</UniqueSystemIdentifier>
+<FirstName>THON</FirstName>
+<MiddleName>CHOL</MiddleName>
+<LastName>NGOR</LastName>
+<DateIdentityActivated></DateIdentityActivated>
+<DateIdentityCreated>20190630111400</DateIdentityCreated>
+<DateOfBirth>1988-01-01</DateOfBirth>
+<IDDetails>
+<IDType>National ID</IDType>
+<IDReference>000661613</IDReference>
+<IDExpiryDate></IDExpiryDate>
+<IDStatus></IDStatus>
+</IDDetails>
+<IdentityStatus>Active</IdentityStatus>
+<IdentityType>Operator</IdentityType>
+<OrganizationShortCode>100254</OrganizationShortCode>
+<OperatorNameCreatedBy>GLOBAL FINANCE CABLES COMPANY LTD\CNYAGEO</OperatorNameCreatedBy>
+<OperatorUniqueSystemIdentifierCreatedBy>203000000000013007</OperatorUniqueSystemIdentifierCreatedBy>
+<OrganizationUniqueReferenceDetails>201000000000031028</OrganizationUniqueReferenceDetails>
+<Role>Primary Till Operator</Role>
+<UniqueLinkingID></UniqueLinkingID>
+</IdentityStrings>
+<IdentityStrings>
+<UniqueSystemIdentifier>203000000000013203</UniqueSystemIdentifier>
+<FirstName>THON</FirstName>
+<MiddleName></MiddleName>
+<LastName>MALITH</LastName>
+<DateIdentityActivated></DateIdentityActivated>
+<DateIdentityCreated>20190630114737</DateIdentityCreated>
+<DateOfBirth>1984-01-01</DateOfBirth>
+<IDDetails>
+<IDType>National ID</IDType>
+<IDReference>000010326</IDReference>
+<IDExpiryDate></IDExpiryDate>
+<IDStatus></IDStatus>
+</IDDetails>
+<IdentityStatus>Active</IdentityStatus>
+<IdentityType>Operator</IdentityType>
+<OrganizationShortCode>100256</OrganizationShortCode>
+<OperatorNameCreatedBy>GLOBAL FINANCE CABLES COMPANY LTD\CNYAGEO</OperatorNameCreatedBy>
+<OperatorUniqueSystemIdentifierCreatedBy>203000000000013007</OperatorUniqueSystemIdentifierCreatedBy>
+<OrganizationUniqueReferenceDetails>201000000000032033</OrganizationUniqueReferenceDetails>
+<Role>Primary Till Operator</Role>
+<UniqueLinkingID></UniqueLinkingID>
+</IdentityStrings>
+<IdentityStrings>
+<UniqueSystemIdentifier>203000000000013139</UniqueSystemIdentifier>
+<FirstName>DAVID</FirstName>
+<MiddleName></MiddleName>
+<LastName>DUKU</LastName>
+<DateIdentityActivated></DateIdentityActivated>
+<DateIdentityCreated>20190630112927</DateIdentityCreated>
+<DateOfBirth>1996-02-24</DateOfBirth>
+<IDDetails>
+<IDType>National ID</IDType>
+<IDReference>000653114</IDReference>
+<IDExpiryDate></IDExpiryDate>
+<IDStatus></IDStatus>
+</IDDetails>
+<IdentityStatus>Active</IdentityStatus>
+<IdentityType>Operator</IdentityType>
+<OrganizationShortCode>100257</OrganizationShortCode>
+<OperatorNameCreatedBy>GLOBAL FINANCE CABLES COMPANY LTD\CNYAGEO</OperatorNameCreatedBy>
+<OperatorUniqueSystemIdentifierCreatedBy>203000000000013007</OperatorUniqueSystemIdentifierCreatedBy>
+<OrganizationUniqueReferenceDetails>201000000000032034</OrganizationUniqueReferenceDetails>
+<Role>Primary Till Operator</Role>
+<UniqueLinkingID></UniqueLinkingID>
+</IdentityStrings>
+</Operators>
+<Footer>Number of Records:3</Footer>
+<Checksum>E8EC95EDBA5D870CC4148B9D1C3AD34346CB59E74D44C1C08591F7D7895B0510</Checksum>
+</AMLWatchList>
